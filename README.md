@@ -1,37 +1,36 @@
-# News Bites — live RSS preview v0.5
+# News Bites v0.6 — Editorial filtering preview
 
-This is a **free, source-linked headline preview**, not the finished editorial news digest. It deliberately does **not** invent summaries, “Why it matters” claims, or long-form explanations. Publisher RSS descriptions are labelled as such.
+This is a free, source-linked RSS prototype, **not** a fact-checked or AI-summarized publication. Headlines and descriptions come from RSS publishers. The story ranking is heuristic, and the original source remains the place to verify any claim.
 
-## Get it running at €0
+## What's new
+- Approximate event-level deduplication: merges some overlapping headlines, but may miss paraphrases or occasionally merge distinct developments.
+- Explicit, explainable scoring from headline keywords, recency, and independent feed corroboration. This is a **prototype heuristic**, not a guarantee that the Top 3 are the most important stories worldwide.
+- Category keyword classification and per-source/per-category caps. Categories may be imperfect.
+- 4 PM update does **not** overwrite the morning Top 3: only adds up to three new, higher-scoring source-linked developments, if any.
+- Keeps the last generated edition if fewer than three morning items can be retrieved.
+- Maintains the approved dark seafoam visual design and browser text-to-speech.
 
-1. Create a **public** GitHub repository (free) and upload all the files in this folder, including `.github/workflows/news.yml`.
-2. In the repository's **Actions** tab, open **News Bites updates** and select **Run workflow**. The workflow fetches feeds and commits `index.html` and `edition.json` when at least three suitable articles are found.
-3. In **Settings → Pages**, choose **Deploy from a branch**, branch `main` (or your default branch), folder `/ (root)`; save. The site appears on a free `github.io` address.
-4. Open the URL on your phone. Bookmark it or add it to your home screen. This version is **not yet an offline-installable PWA**.
+## Updating your existing GitHub repository
 
-The scheduled jobs target **05:55 and 16:00 Europe/Malta**. GitHub may delay or drop scheduled runs, so neither publication at exactly 06:00 nor the 16:00 check is guaranteed. The 16:00 run refreshes the same source preview; it is **not yet a separate significance-filtered breaking-news alert**.
+Replace these **three files** with the matching files from this ZIP, preserving the exact paths:
 
-## Limits and safeguards
+1. `scripts/build.py`
+2. `.github/workflows/news.yml`
+3. `README.md`
 
-- No API keys, payment details, third-party AI, or paid services.
-- Uses publisher RSS titles and descriptions, links and timestamps. RSS feed availability and permitted uses must be checked before broader distribution.
-- The selection logic is a basic recent-headline preview, **not a verified importance ranking**. Top 3 means three selected recent items, not necessarily the world's most consequential stories.
-- Up to 12 items from supported feeds, maximum 3 from Times of Malta if available. Category assignments are provisional.
-- RSS descriptions may be incomplete or contain publisher wording. News Bites labels them as publisher-provided and does not claim independent verification.
-- The Times of Malta feed may be empty or unavailable; the workflow skips unavailable feeds.
-- If fewer than 3 fresh items are available, the build fails and the previously published `index.html` stays in place.
-- The Story So Far section remains a **labelled illustrative timeline**, not a live report.
-- A public GitHub repo and Pages are free under current free-plan conditions; terms and quotas may change. No guarantees of indefinite zero cost.
-- Some RSS feed providers may restrict republication of descriptions. Check permissions before sharing broadly; source-linked titles alone are a safer fallback.
+You do not need to replace `index.html` or `template.html` for this upgrade; the existing `template.html` is compatible. The ZIP includes them for complete fresh installations. If you want the easiest installation, upload all root-level files and recreate the nested files through GitHub's editor as before.
 
-## Test locally
+After updating, go to **Actions → News Bites updates → Run workflow**, choose **morning**, and run it. Wait for the green checkmark, then refresh GitHub Pages. The scheduled 4 PM run uses the afternoon mode. GitHub scheduled jobs can be late or skipped; the 6 AM and 4 PM targets are not guaranteed.
 
-`python scripts/build.py` (Python 3.9+ with timezone database; 3.12 recommended). Internet access required.
+## Cost, licensing, and limitations
+- Python standard library only. No AI API, paid hosting, paid database, or payment method required.
+- A free GitHub Pages site on a public repo is the intended host, subject to provider limits and policies.
+- RSS feed availability and redistribution rights vary; do not treat descriptions as licensed for unrestricted republication.
+- No evidence-backed "Why it matters" or researched Read More yet. We deliberately do not fabricate them.
+- No real-time notifications, push alerts, independent fact checking, or verified timeline.
+- The 4 PM run detects new qualifying **headlines**, not reliably new developments in an existing story.
+- `edition.json` is generated automatically and should not be edited manually.
 
-## Next development tasks
+## Local test
 
-1. Validate feeds and permissions, add Malta-specific trusted sources.
-2. Improve deduplication and consequence-based ranking, and distinguish the 4 PM update from the morning edition.
-3. Add evidence-grounded, original summaries and “Why it matters” only when defensible with free processing.
-4. Replace the sample timeline with sourced dated developments.
-5. Add proper installable PWA assets and robust publication/alert logs.
+`python scripts/build.py` runs a morning collection. For an afternoon check: `NEWS_BITES_MODE=afternoon python scripts/build.py` (on Windows PowerShell, set `$env:NEWS_BITES_MODE='afternoon'` first).
