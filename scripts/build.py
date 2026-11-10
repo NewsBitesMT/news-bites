@@ -1,5 +1,6 @@
+
 #!/usr/bin/env python3
-"""News Bites v0.6: conservative, source-linked RSS curation. Python stdlib only."""
+"""News Bites v0.6.1: conservative, source-linked RSS curation. Python stdlib only."""
 import datetime as dt
 import email.utils
 import html
@@ -24,8 +25,13 @@ FEEDS = [
     ('BBC News · Arts', 'Art, Artists & History of Art', 'https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml'),
     ('The Guardian · World', 'Major World Events', 'https://www.theguardian.com/world/rss'),
     ('Deutsche Welle', 'Major World Events', 'https://rss.dw.com/xml/rss-en-all'),
-    ('Times of Malta', 'Politics & Government', 'https://timesofmalta.com/news/rss/'),
+    # Candidate public RSS endpoints; failures are logged, never silently substituted.
+    ('MaltaToday', 'Politics & Government', 'https://www.maltatoday.com.mt/rss'),
+    ('Lovin Malta', 'Major World Events', 'https://lovinmalta.com/news/feed/'),
+    ('Newsbook', 'Politics & Government', 'https://newsbook.com.mt/en/feed/'),
+    ('TVMnews', 'Politics & Government', 'https://tvmnews.mt/en/feed/'),
 ]
+LOCAL_SOURCES = {'MaltaToday', 'Lovin Malta', 'Newsbook', 'TVMnews'}
 STOP = set('a an and are as at after before by for from has have in into is it its of on or the their to with over amid about says say new latest live update updates news report reports'.split())
 IMPACT = {
     'war': 5, 'invasion': 6, 'ceasefire': 5, 'peace': 4, 'election': 5, 'president': 3,
@@ -55,14 +61,28 @@ def tokens(title):
     return {w for w in re.findall(r'[a-z0-9]+', title.lower()) if len(w) > 2 and w not in STOP}
 
 def same_event(a, b):
-    """Conservative heuristic: do not merge merely because both mention a country."""
-    ta, tb = tokens(a['title']), tokens(b['title'])
-    shared = ta & tb
-    if len(shared) < 2:
+    """Conservative event matching: exact URL, strong title overlap or shared distinctive terms."""
+    if a['url'].split('?')[0].rstrip('/') == b['url'].split('?')[0].rstrip('/'):
+        return True
+    loc_a = re.search(r'\bin\s+([A-Z][A-Za-zÀ-ÿ-]+)', a['title'])
+    loc_b = re.search(r'\bin\s+([A-Z][A-Za-zÀ-ÿ-]+)', b['title'])
+    if loc_a and loc_b and loc_a.group(1).casefold() != loc_b.group(1).casefold():
         return False
-    overlap = len(shared) / max(1, min(len(ta), len(tb)))
+    ta, tb = tokens(a['title']), tokens(b['title'])
+    common = ta & tb
+    if len(common) < 2:
+        return False
+    overlap = len(common) / max(1, min(len(ta), len(tb)))
     seq = SequenceMatcher(None, ' '.join(sorted(ta)), ' '.join(sorted(tb))).ratio()
-    return (len(shared) >= 3 and overlap >= .56) or (len(shared) >= 2 and seq >= .78)
+    if len(common) >= 3 and overlap >= .60:
+        return True
+    if len(common) >= 2 and seq >= .82:
+        return True
+    incidents = {'explosion','blast','earthquake','collision','crash','fire',
+                 'flood','shooting','attack','evacuation','shipwreck','outbreak'}
+    shared_incidents = common & incidents
+    distinctive = common - incidents - {'malta','europe','world','government','police'}
+    return bool(shared_incidents and distinctive and overlap >= .40)
 
 def categorize(item):
     title = item['title'].lower()
@@ -75,7 +95,7 @@ def score(item, corroboration=1):
     importance = sum(IMPACT.get(w, 0) for w in words)
     importance = min(importance, 12)
     age_bonus = max(0, 3 - item['age']/12)
-    malta_bonus = 2 if 'Times of Malta' in item['source'] else 0
+    malta_bonus = 2 if item['source'] in LOCAL_SOURCES else 0
     return round(importance + age_bonus + malta_bonus + min(corroboration-1, 2)*2, 2)
 
 def parse_date(s):
@@ -87,10 +107,13 @@ def parse_date(s):
 
 def collect(now=None):
     now = now or dt.datetime.now(dt.timezone.utc)
-    out, failures = [], []
+    out, failures, diagnostics = [], [], []
     for source, cat, url in FEEDS:
         try:
-            request = urllib.request.Request(url, headers={'User-Agent': 'NewsBitesPersonalReader/0.6 (source-linked RSS preview)', 'Accept': 'application/rss+xml, application/xml, text/xml'})
+            request = urllib.request.Request(url, headers={
+                'User-Agent': 'NewsBitesPersonalReader/0.6 (source-linked RSS preview)',
+                'Accept': 'application/rss+xml, application/xml, text/xml'
+            })
             with urllib.request.urlopen(request, timeout=14) as response:
                 raw = response.read(1_500_001)
             if len(raw) > 1_500_000:
@@ -99,8 +122,10 @@ def collect(now=None):
             entries = root.findall('.//item')
             if not entries:
                 raise ValueError('No RSS items')
+            accepted = 0
             for entry in entries[:40]:
-                title, link = clean(entry.findtext('title')), (entry.findtext('link') or '').strip()
+                title = clean(entry.findtext('title'))
+                link = (entry.findtext('link') or '').strip()
                 published = parse_date(entry.findtext('pubDate'))
                 description = clean(entry.findtext('description'))
                 if not (title and description and published and link.startswith('https://')):
@@ -108,10 +133,17 @@ def collect(now=None):
                 age = (now - published).total_seconds()/3600
                 if not (-2 <= age <= 48):
                     continue
-                out.append({'cat': cat, 'title': title[:200], 'summary': description[:240], 'source': source, 'url': link, 'date': published.isoformat(), 'age': age})
+                accepted += 1
+                out.append({
+                    'cat': cat, 'title': title[:200],
+                    'summary': description[:240], 'source': source,
+                    'url': link, 'date': published.isoformat(), 'age': age
+                })
+            diagnostics.append(f'{source}: {len(entries)} feed entries, {accepted} recent usable')
         except Exception as exc:
+            diagnostics.append(f'{source}: failed')
             failures.append(f'{source}: {type(exc).__name__}: {str(exc)[:100]}')
-    return out, failures
+    return out, failures, diagnostics
 
 def cluster(items):
     groups = []
@@ -128,14 +160,17 @@ def choose(items, limit=12):
     for group in cluster(items):
         lead = dict(group[0])
         lead['cat'] = categorize(lead)
-        lead['sources'] = [{'name': x['source'], 'url': x['url'], 'date': x['date']} for x in group[:4]]
+        lead['sources'] = [
+            {'name': x['source'], 'url': x['url'], 'date': x['date']}
+            for x in group[:4]
+        ]
         lead['source_count'] = len(set(x['source'] for x in group))
         lead['score'] = score(lead, lead['source_count'])
         candidates.append(lead)
     candidates.sort(key=lambda x: (-x['score'], x['age']))
     selected, source_counts, cat_counts, malta_count = [], {}, {}, 0
     for item in candidates:
-        local = 'Times of Malta' in item['source']
+        local = item['source'] in LOCAL_SOURCES
         if local and malta_count >= 3:
             continue
         if source_counts.get(item['source'], 0) >= 4 or cat_counts.get(item['cat'], 0) >= 5:
@@ -153,27 +188,60 @@ def escape(s):
 
 def render(morning, generated_at, afternoon=None):
     template = (ROOT/'template.html').read_text(encoding='utf-8')
-    top = ''.join(f'<button class="toprow" data-jump="story-{i}"><span class="num">{i+1:02}</span><span><strong>{escape(s["title"])}</strong><small>{escape(s["cat"])}</small></span></button>' for i,s in enumerate(morning[:3]))
+    top = ''.join(
+        f'<button class="toprow" data-jump="story-{i}">'
+        f'<span class="num">{i+1:02}</span>'
+        f'<span><strong>{escape(s["title"])}</strong>'
+        f'<small>{escape(s["cat"])}</small></span></button>'
+        for i,s in enumerate(morning[:3])
+    )
+
     def card(s, ident):
-        sources = ' · '.join(f'<a href="{escape(x["url"])}" target="_blank" rel="noopener noreferrer">{escape(x["name"])} ↗</a>' for x in s.get('sources', [])[:3])
-        return (f'<article class="story" id="{ident}"><div class="eyebrow">{escape(s["cat"])}</div>'
-                f'<h3>{escape(s["title"])}</h3><p>{escape(s["summary"])}</p>'
-                '<div class="why"><strong>Publisher description — not independently verified</strong>'
-                '<p>This description comes from a source RSS feed. News Bites has not independently confirmed its claims.</p></div>'
-                '<details class="expanded"><summary>Read more</summary>'
-                '<p>For detailed reporting, background and supporting evidence, consult the original publisher. '
-                'An independently researched explanation is not available for this story yet.</p></details>'
-                f'<div class="actions"><span class="source">{sources} · {escape(s["date"][:10])}</span></div></article>')
+        sources = ' · '.join(
+            f'<a href="{escape(x["url"])}" target="_blank" '
+            f'rel="noopener noreferrer">{escape(x["name"])} ↗</a>'
+            for x in s.get('sources', [])[:3]
+        )
+        return (
+            f'<article class="story" id="{ident}">'
+            f'<div class="eyebrow">{escape(s["cat"])}</div>'
+            f'<h3>{escape(s["title"])}</h3>'
+            f'<p>{escape(s["summary"])}</p>'
+            '<div class="why"><strong>Publisher description — not independently verified</strong>'
+            '<p>This description comes from a source RSS feed. News Bites has not '
+            'independently confirmed its claims.</p></div>'
+            '<details class="expanded"><summary>Read more</summary>'
+            '<p>For detailed reporting, background and supporting evidence, '
+            'consult the original publisher. An independently researched '
+            'explanation is not available for this story yet.</p></details>'
+            f'<div class="actions"><span class="source">{sources} · '
+            f'{escape(s["date"][:10])}</span></div></article>'
+        )
+
     cards = ''.join(card(s, f'story-{i}') for i,s in enumerate(morning))
     if afternoon:
-        cards += ('<div class="sectionhead"><h2>4 PM developments</h2></div>'
-                  '<p class="sub">Additional source-linked developments since the morning edition; not independently verified.</p>')
+        cards += (
+            '<div class="sectionhead"><h2>4 PM developments</h2></div>'
+            '<p class="sub">Additional source-linked developments since '
+            'the morning edition; not independently verified.</p>'
+        )
         cards += ''.join(card(s, f'afternoon-{i}') for i,s in enumerate(afternoon))
-    template = template.replace('<!-- TOPROWS -->', top).replace('<!-- STORIES -->', cards)
-    template = template.replace('<!-- EDITION_DATE -->', escape(generated_at.strftime('%d %B %Y, %H:%M Malta time')))
+
+    template = template.replace('<!-- TOPROWS -->', top)
+    template = template.replace('<!-- STORIES -->', cards)
+    template = template.replace(
+        '<!-- EDITION_DATE -->',
+        escape(generated_at.strftime('%d %B %Y, %H:%M Malta time'))
+    )
     template = template.replace('<!-- STORY_COUNT -->', str(len(morning)))
-    audio = [{'title': s['title'], 'summary': s['summary'], 'why': ''} for s in morning[:3]]
-    template = template.replace('/* AUDIO_DATA */', json.dumps(audio, ensure_ascii=True).replace('<', '\\u003c'))
+    audio = [
+        {'title': s['title'], 'summary': s['summary'], 'why': ''}
+        for s in morning[:3]
+    ]
+    template = template.replace(
+        '/* AUDIO_DATA */',
+        json.dumps(audio, ensure_ascii=True).replace('<', '\\u003c')
+    )
     return template
 
 def main():
@@ -181,11 +249,28 @@ def main():
     mode = os.environ.get('NEWS_BITES_MODE', 'morning').lower()
     if mode not in ('morning', 'afternoon'):
         raise ValueError('NEWS_BITES_MODE must be morning or afternoon')
-    items, warnings = collect()
+
+    items, warnings, diagnostics = collect()
+    for line in diagnostics:
+        print('Feed:', line, flush=True)
+    print(f'Collected {len(items)} usable recent feed items', flush=True)
     for warning in warnings:
         print('Feed warning:', warning, file=sys.stderr)
+
+    clusters = cluster(items)
+    print(
+        f'Clustered into {len(clusters)} candidate events; '
+        f'{len(items)-len(clusters)} duplicates grouped',
+        flush=True
+    )
     ranked = choose(items)
+    print(
+        f'Selected {len(ranked)} stories; '
+        f'{sum(s["source"] in LOCAL_SOURCES for s in ranked)} Maltese-source leads',
+        flush=True
+    )
     edition_path = ROOT/'edition.json'
+
     if mode == 'afternoon':
         if not edition_path.exists():
             print('No existing morning edition; no afternoon update')
@@ -194,17 +279,37 @@ def main():
         if edition.get('edition_date') != now.date().isoformat():
             print('Morning edition is not from today; keeping previous edition unchanged')
             return 0
+
         morning = edition['stories']
         morning_time = dt.datetime.fromisoformat(edition['generated_at'])
-        previous_urls = {s['url'] for s in morning}
-        previous_urls.update(s['url'] for s in edition.get('afternoon', []))
-        afternoon = [s for s in ranked if s['url'] not in previous_urls
-                     and dt.datetime.fromisoformat(s['date']) > morning_time.astimezone(dt.timezone.utc)
-                     and s['score'] >= 6]
-        afternoon = [s for s in afternoon if not any(same_event(s, x) for x in morning)][:3]
+        previous_urls = {
+            u['url']
+            for s in morning
+            for u in s.get('sources', [{'url': s['url']}])
+        }
+        previous_urls.update(
+            u['url']
+            for s in edition.get('afternoon', [])
+            for u in s.get('sources', [{'url': s['url']}])
+        )
+        afternoon = [
+            s for s in ranked
+            if not any(
+                u['url'] in previous_urls
+                for u in s.get('sources', [{'url': s['url']}])
+            )
+            and dt.datetime.fromisoformat(s['date']) > morning_time.astimezone(dt.timezone.utc)
+            and s['score'] >= 6
+        ]
+        afternoon = [
+            s for s in afternoon
+            if not any(same_event(s, x) for x in morning + edition.get('afternoon', []))
+        ][:3]
+
         if not afternoon:
             print('No qualifying major new developments at 4 PM; no change')
             return 0
+
         edition['afternoon'] = afternoon
         edition['afternoon_checked_at'] = now.isoformat()
         generated = morning_time
@@ -215,13 +320,25 @@ def main():
         morning = ranked
         afternoon = []
         generated = now
-        edition = {'edition_date': now.date().isoformat(), 'generated_at': now.isoformat(),
-                   'mode': 'Publisher RSS preview; automated heuristic ranking, not fact-checked',
-                   'stories': morning, 'afternoon': [], 'feed_warnings': warnings}
+        edition = {
+            'edition_date': now.date().isoformat(),
+            'generated_at': now.isoformat(),
+            'mode': 'Publisher RSS preview; automated heuristic ranking, not fact-checked',
+            'stories': morning,
+            'afternoon': [],
+            'feed_warnings': warnings
+        }
+
     output = render(morning, generated, afternoon)
     (ROOT/'index.html').write_text(output, encoding='utf-8')
-    edition_path.write_text(json.dumps(edition, ensure_ascii=False, indent=2), encoding='utf-8')
-    print(f'Updated {mode} edition: {len(morning)} morning stories, {len(afternoon)} afternoon developments')
+    edition_path.write_text(
+        json.dumps(edition, ensure_ascii=False, indent=2),
+        encoding='utf-8'
+    )
+    print(
+        f'Updated {mode} edition: {len(morning)} morning stories, '
+        f'{len(afternoon)} afternoon developments'
+    )
     return 0
 
 if __name__ == '__main__':
