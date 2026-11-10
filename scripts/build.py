@@ -564,7 +564,17 @@ def _groq_write(story, evidence, key):
             return None, 'AI response did not pass evidence/length checks'
         return explanation, None
     except urllib.error.HTTPError as exc:
-        return None, f'API HTTP {exc.code} (check free-tier limits/model)'
+        try:
+            data = json.loads(exc.read(4096).decode('utf-8', 'replace'))
+            error = data.get('error', {})
+            code = str(error.get('code') or error.get('type') or 'unknown')
+            message = str(error.get('message') or '')
+            message = re.sub(r'gsk_[A-Za-z0-9_-]+', '[REDACTED]', message)
+            message = re.sub(r'(?i)bearer\s+\S+', 'Bearer [REDACTED]', message)
+            message = re.sub(r'\s+', ' ', message).strip()[:240]
+            return None, f'API HTTP {exc.code}: {code} | {message}'
+        except Exception:
+            return None, f'API HTTP {exc.code}: details unavailable'
     except (ValueError, KeyError, IndexError, urllib.error.URLError) as exc:
         return None, type(exc).__name__
     except Exception as exc:
