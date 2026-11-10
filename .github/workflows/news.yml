@@ -1,6 +1,12 @@
 name: News Bites updates
 on:
   workflow_dispatch:
+    inputs:
+      edition:
+        description: 'Which update to generate'
+        type: choice
+        options: [morning, afternoon]
+        default: morning
   schedule:
     - cron: '55 5 * * *'
       timezone: 'Europe/Malta'
@@ -8,8 +14,6 @@ on:
       timezone: 'Europe/Malta'
 permissions:
   contents: write
-  pages: write
-  id-token: write
 concurrency:
   group: news-bites
   cancel-in-progress: false
@@ -21,9 +25,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Fetch publisher feeds and build edition
+      - name: Collect and curate RSS news
+        env:
+          NEWS_BITES_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.edition || (github.event.schedule == '0 16 * * *' && 'afternoon' || 'morning') }}
         run: python scripts/build.py
-      - name: Save published edition
+      - name: Save published edition if changed
         run: |
           git config user.name 'news-bites-bot'
           git config user.email 'news-bites-bot@users.noreply.github.com'
