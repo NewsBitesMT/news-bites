@@ -1,6 +1,6 @@
 {
   "edition_date": "2026-11-10",
-  "generated_at": "2026-11-10T14:04:44.852119+01:00",
+  "generated_at": "2026-11-10T14:13:50.820051+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
     {
@@ -10,7 +10,7 @@
       "source": "Al Jazeera English",
       "url": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize?traffic_source=rss",
       "date": "2026-11-10T10:22:35+00:00",
-      "age": 2.7027367036111114,
+      "age": 2.8543944647222226,
       "sources": [
         {
           "name": "Al Jazeera English",
@@ -42,7 +42,7 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
       "date": "2026-11-10T11:45:29+00:00",
-      "age": 1.3210700369444446,
+      "age": 1.4727277980555555,
       "sources": [
         {
           "name": "France 24",
@@ -86,7 +86,7 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261110-us-hegseth-faces-republican-impeachment-bid-over-abuse-of-power-in-iran-war",
       "date": "2026-11-10T11:03:20+00:00",
-      "age": 2.0235700369444447,
+      "age": 2.1752277980555554,
       "sources": [
         {
           "name": "France 24",
@@ -106,7 +106,7 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss",
       "date": "2026-11-09T20:15:00+00:00",
-      "age": 16.8291255925,
+      "age": 16.980783353611113,
       "sources": [
         {
           "name": "Deutsche Welle",
@@ -126,7 +126,7 @@
       "source": "Newsbook",
       "url": "https://newsbook.com.mt/en/artists-call-for-culture-ministers-resignation-in-open-letter-to-pm/",
       "date": "2026-11-10T07:34:38+00:00",
-      "age": 5.501903370277778,
+      "age": 5.653561131388889,
       "sources": [
         {
           "name": "Newsbook",
@@ -137,7 +137,7 @@
       ],
       "source_count": 1,
       "malta_relevant": true,
-      "score": 7.35
+      "score": 7.34
     },
     {
       "cat": "Books & Authors",
@@ -146,7 +146,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T09:35:15+00:00",
-      "age": 3.4916255925,
+      "age": 3.6432833536111113,
       "sources": [
         {
           "name": "BBC News",
@@ -166,7 +166,7 @@
       "source": "Politico Europe",
       "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-the-eus-climate-strategy-survive-election-season/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "date": "2026-11-10T05:05:00+00:00",
-      "age": 7.995792259166667,
+      "age": 8.147450020277777,
       "sources": [
         {
           "name": "Politico Europe",
@@ -177,7 +177,7 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.78
+      "score": 6.77
     },
     {
       "cat": "Crime, War & Justice",
@@ -186,7 +186,7 @@
       "source": "Mongabay",
       "url": "https://news.mongabay.com/short-article/2026/11/brazil-deploys-national-security-force-to-indigenous-territory-following-invasion/",
       "date": "2026-11-10T01:01:07+00:00",
-      "age": 12.06051448138889,
+      "age": 12.212172242500001,
       "sources": [
         {
           "name": "Mongabay",
@@ -206,7 +206,7 @@
       "source": "Phys.org",
       "url": "https://phys.org/news/2026-11-gatineau-foliage-reveals-local-cold.html",
       "date": "2026-11-10T00:40:08+00:00",
-      "age": 12.410236703611112,
+      "age": 12.561894464722222,
       "sources": [
         {
           "name": "Phys.org",
@@ -217,7 +217,7 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.66
+      "score": 6.65
     },
     {
       "cat": "Books & Authors",
@@ -226,7 +226,7 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
       "date": "2026-11-09T22:00:20+00:00",
-      "age": 15.073570036944444,
+      "age": 15.225227798055556,
       "sources": [
         {
           "name": "The Guardian",
@@ -246,7 +246,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T12:25:48+00:00",
-      "age": 0.6491255925,
+      "age": 0.8007833536111111,
       "sources": [
         {
           "name": "BBC News",
@@ -272,7 +272,7 @@
       "source": "Newsbook",
       "url": "https://newsbook.com.mt/en/france-cccuses-iran-of-orchestrating-cyberattacks-on-supermarket-refrigeration-systems/",
       "date": "2026-11-10T08:33:50+00:00",
-      "age": 4.515236703611111,
+      "age": 4.666894464722222,
       "sources": [
         {
           "name": "Newsbook",
