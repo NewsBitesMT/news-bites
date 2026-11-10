@@ -1,125 +1,59 @@
 {
   "edition_date": "2026-11-10",
-  "generated_at": "2026-11-10T12:09:01.934586+01:00",
-  "mode": "Publisher RSS preview; automated heuristic ranking, not fact-checked",
+  "generated_at": "2026-11-10T12:50:15.166263+01:00",
+  "mode": "Source-linked RSS preview; heuristic selection, not verified",
   "stories": [
     {
-      "cat": "Politics & Government",
-      "title": "France accuses Iran of supermarket cyberattacks",
-      "summary": "French Foreign Minister Jean-Noël Barrot announced the allegations on Monday, following a G7 ministerial meeting in Paris. He confirmed that investigations into the incidents remain ongoing and that Iran’s ambassador to France will be summo",
-      "source": "Newsbook",
-      "url": "https://newsbook.com.mt/en/france-cccuses-iran-of-orchestrating-cyberattacks-on-supermarket-refrigeration-systems/",
-      "date": "2026-11-10T08:33:50+00:00",
-      "age": 2.5866484994444443,
+      "cat": "Books & Authors",
+      "title": "UK author M John Harrison’s End of Everything wins Booker Prize",
+      "summary": "The book uses dark humour and elusive narratives to cast a futuristic lens on modern politics post-calamity.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize?traffic_source=rss",
+      "date": "2026-11-10T10:22:35+00:00",
+      "age": 1.461157298611111,
       "sources": [
         {
-          "name": "Newsbook",
-          "url": "https://newsbook.com.mt/en/france-cccuses-iran-of-orchestrating-cyberattacks-on-supermarket-refrigeration-systems/",
-          "date": "2026-11-10T08:33:50+00:00"
+          "name": "Al Jazeera English",
+          "title": "UK author M John Harrison’s End of Everything wins Booker Prize",
+          "url": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize?traffic_source=rss",
+          "date": "2026-11-10T10:22:35+00:00"
         },
         {
-          "name": "BBC News · World",
-          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-09T20:20:08+00:00"
+          "name": "Euronews",
+          "title": "M John Harrison becomes oldest ever winner of the Booker prize for his satirical novel 'The End of Everything'",
+          "url": "https://www.euronews.com/2026/11/09/m-john-harrison-becomes-oldest-ever-winner-of-the-booker-prize-for-his-satirical-novel-the",
+          "date": "2026-11-09T22:43:57+00:00"
         },
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-09T18:33:00+00:00"
+          "name": "Literary Hub",
+          "title": "M. John Harrison’s The End of Everything has won the 2026 Booker Prize.",
+          "url": "https://lithub.com/m-john-harrisons-the-end-of-everything-has-won-the-2026-booker-prize/",
+          "date": "2026-11-09T22:16:44+00:00"
         }
       ],
       "source_count": 3,
-      "score": 8.78
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Max Amini Announces Fifth Malta Show For 23rd November",
-      "summary": "It’s official, Max Amini is adding a fifth show in Malta. After four completely sold-out shows and an incredible response to yesterday’s post, we’re thrilled to confirm that Max Amini will be taking the stage for a fifth time on Monday 23rd",
-      "source": "Lovin Malta",
-      "url": "https://lovinmalta.com/news/local/max-amini-announces-fifth-malta-show-for-23rd-november/",
-      "date": "2026-11-10T10:30:59+00:00",
-      "age": 0.6341484994444444,
-      "sources": [
-        {
-          "name": "Lovin Malta",
-          "url": "https://lovinmalta.com/news/local/max-amini-announces-fifth-malta-show-for-23rd-november/",
-          "date": "2026-11-10T10:30:59+00:00"
-        }
-      ],
-      "source_count": 1,
-      "score": 7.95
+      "malta_relevant": false,
+      "score": 9.96
     },
     {
       "cat": "Crime, War & Justice",
-      "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
-      "summary": "Brent crude drops below $90 and markets climb after president downplays prospect of further strikes Business live – latest updates Oil prices have fallen to the lowest level since late August while stock markets climbed higher, as markets r",
-      "source": "The Guardian · World",
-      "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
-      "date": "2026-11-10T10:28:47+00:00",
-      "age": 0.670815166111111,
+      "title": "US Hegseth faces Republican impeachment bid over abuse of power in Iran war",
+      "summary": "can lawmaker moved on Monday to impeach US Defence Secretary Pete Hegseth over the war in Iran, setting the stage for a potentially explosive vote in Congress, days after President Donald Trump's party suffered a crushing defeat in the midterms.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-us-hegseth-faces-republican-impeachment-bid-over-abuse-of-power-in-iran-war",
+      "date": "2026-11-10T11:03:20+00:00",
+      "age": 0.7819906319444444,
       "sources": [
         {
-          "name": "The Guardian · World",
-          "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
-          "date": "2026-11-10T10:28:47+00:00"
+          "name": "France 24",
+          "title": "US Hegseth faces Republican impeachment bid over abuse of power in Iran war",
+          "url": "https://www.france24.com/en/video/20261110-us-hegseth-faces-republican-impeachment-bid-over-abuse-of-power-in-iran-war",
+          "date": "2026-11-10T11:03:20+00:00"
         }
       ],
       "source_count": 1,
-      "score": 7.94
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Maltese Swimmers Smash Three National Records And Several Age Group Records",
-      "summary": "Maltese swimmers are making waves after setting three national records and several age group records in the 2026/27 short-course swimming season. The Aquatic Sports Association of Malta (ASA) announced the latest record updates, celebrating",
-      "source": "Lovin Malta",
-      "url": "https://lovinmalta.com/news/local/maltese-swimmers-smash-three-national-records-and-several-age-group-records/",
-      "date": "2026-11-10T09:49:16+00:00",
-      "age": 1.329426277222222,
-      "sources": [
-        {
-          "name": "Lovin Malta",
-          "url": "https://lovinmalta.com/news/local/maltese-swimmers-smash-three-national-records-and-several-age-group-records/",
-          "date": "2026-11-10T09:49:16+00:00"
-        }
-      ],
-      "source_count": 1,
-      "score": 7.89
-    },
-    {
-      "cat": "Environment & Climate",
-      "title": "Iran war oil shock drives dip in global emissions, study shows",
-      "summary": "Global carbon emissions are expected to fall slightly in 2026, but not because of major progress on climate action. Instead, it's high energy prices following the US attack on Iran that's driving the trend.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-war-oil-shock-drives-dip-in-global-emissions-study-shows/a-79905937?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-10T03:58:00+00:00",
-      "age": 7.183870721666667,
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/iran-war-oil-shock-drives-dip-in-global-emissions-study-shows/a-79905937?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-10T03:58:00+00:00"
-        }
-      ],
-      "source_count": 1,
-      "score": 7.4
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "summary": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
-      "source": "BBC News · World",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T09:07:00+00:00",
-      "age": 2.0338707216666667,
-      "sources": [
-        {
-          "name": "BBC News · World",
-          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-10T09:07:00+00:00"
-        }
-      ],
-      "source_count": 1,
-      "score": 6.83
+      "malta_relevant": false,
+      "score": 7.98
     },
     {
       "cat": "Crime, War & Justice",
@@ -128,111 +62,261 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss",
       "date": "2026-11-09T20:15:00+00:00",
-      "age": 14.900537388333333,
+      "age": 15.587546187500001,
       "sources": [
         {
           "name": "Deutsche Welle",
+          "title": "US Pentagon chief Hegseth faces impeachment push over Iran war",
           "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss",
           "date": "2026-11-09T20:15:00+00:00"
         }
       ],
       "source_count": 1,
-      "score": 6.76
+      "malta_relevant": false,
+      "score": 7.57
     },
     {
-      "cat": "Environment & Climate",
-      "title": "Cop31 live: host Turkey celebrates new oilfields as climate summit enters second day",
-      "summary": "UN climate summit prepares to host world leaders from more than 90 countries as scientists find global carbon emissions flatlined this year The UN secretary-general, António Guterres, has just issued a challenge to Turkey and Australia to c",
-      "source": "The Guardian · World",
-      "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
-      "date": "2026-11-10T10:40:36+00:00",
-      "age": 0.47387072166666666,
+      "cat": "Crime, War & Justice",
+      "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+      "summary": "e – latest updates US officials have said they are seeking a “final end” to the war between Russia and Ukraine, beginning with trilateral talks in Abu Dhabi on Tuesday, the first substantive negotiations between the two countries since February.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+      "date": "2026-11-10T11:23:34+00:00",
+      "age": 0.44476840972222226,
       "sources": [
         {
-          "name": "The Guardian · World",
-          "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
-          "date": "2026-11-10T10:40:36+00:00"
+          "name": "The Guardian",
+          "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+          "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+          "date": "2026-11-10T11:23:34+00:00"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+          "date": "2026-11-10T11:03:58+00:00"
+        },
+        {
+          "name": "NPR",
+          "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+          "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+          "date": "2026-11-10T10:58:18+00:00"
+        },
+        {
+          "name": "Euronews",
+          "title": "Europe must stop 'begging' for seat at Ukraine peace talks, ex-NATO chief warns",
+          "url": "https://www.euronews.com/2026/11/10/europe-must-stop-begging-for-seat-at-ukraine-peace-talks-ex-nato-chief-warns",
+          "date": "2026-11-10T10:56:29+00:00"
+        },
+        {
+          "name": "CBC News",
+          "title": "U.S.-mediated talks between Russia and Ukraine begin in Abu Dhabi",
+          "url": "https://www.cbc.ca/news/world/talks-between-russia-and-ukraine-begin-in-abu-dhabi-9.7416014?cmp=rss",
+          "date": "2026-11-10T09:57:22+00:00"
+        },
+        {
+          "name": "NPR",
+          "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
+          "date": "2026-11-10T09:38:34+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-10T09:07:00+00:00"
+        },
+        {
+          "name": "Euronews",
+          "title": "Ukraine and Russia reportedly show 'a little bit of flexibility' on territory as Abu Dhabi talks begin",
+          "url": "https://www.euronews.com/2026/11/10/ukraine-and-russia-reportedly-show-a-little-bit-of-flexibility-on-territory-as-abu-dhabi-t",
+          "date": "2026-11-10T08:47:15+00:00"
+        }
+      ],
+      "source_count": 8,
+      "malta_relevant": false,
+      "score": 6.99
+    },
+    {
+      "cat": "Books & Authors",
+      "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
+      "summary": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10T09:35:15+00:00",
+      "age": 2.2500461874999997,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
+          "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-10T09:35:15+00:00"
         }
       ],
       "source_count": 1,
-      "score": 5.96
+      "malta_relevant": false,
+      "score": 6.94
     },
     {
       "cat": "Politics & Government",
-      "title": "Germany news: President candidate Aigner to meet parties in Bundestag",
-      "summary": "The presidential candidate put forward by the conservative bloc has said she won't meet with the far-right AfD. Meanwhile, Chancellor Merz is set to host Hungarian Prime Minister Magyar. DW has more.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-president-candidate-aigner-to-meet-parties-in-bundestag/live-79906440?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-10T08:36:00+00:00",
-      "age": 2.5505373883333333,
+      "title": "Can the EU’s climate strategy survive election season?",
+      "summary": "The EU wants to be a heavyweight at U.N.",
+      "source": "Politico Europe",
+      "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-the-eus-climate-strategy-survive-election-season/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "date": "2026-11-10T05:05:00+00:00",
+      "age": 6.754212854166666,
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-news-president-candidate-aigner-to-meet-parties-in-bundestag/live-79906440?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-10T08:36:00+00:00"
+          "name": "Politico Europe",
+          "title": "Can the EU’s climate strategy survive election season?",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-the-eus-climate-strategy-survive-election-season/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "date": "2026-11-10T05:05:00+00:00"
         }
       ],
       "source_count": 1,
-      "score": 5.79
+      "malta_relevant": false,
+      "score": 6.81
     },
     {
-      "cat": "Environment & Climate",
-      "title": "Why electrification is the climate game changer we need",
-      "summary": "From EVs and electric buses on the road, heat pumps warming homes and solar panels powering appliances, the shift to electrifying tech is already in full swing. But what exactly does 'electrification' mean?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/why-electrification-is-the-climate-game-changer-we-need/a-79615979?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-10T08:00:00+00:00",
-      "age": 3.1505373883333334,
+      "cat": "Crime, War & Justice",
+      "title": "Brazil deploys national security force to Indigenous territory following invasion",
+      "summary": "Two months ago, more than 500 people invaded Brazil’s Ituna/Itatá Indigenous Territory in Pará, northern Brazil, where the isolated Igarapé Ipiaçava Indigenous people live.",
+      "source": "Mongabay",
+      "url": "https://news.mongabay.com/short-article/2026/11/brazil-deploys-national-security-force-to-indigenous-territory-following-invasion/",
+      "date": "2026-11-10T01:01:07+00:00",
+      "age": 10.81893507638889,
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/why-electrification-is-the-climate-game-changer-we-need/a-79615979?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-10T08:00:00+00:00"
+          "name": "Mongabay",
+          "title": "Brazil deploys national security force to Indigenous territory following invasion",
+          "url": "https://news.mongabay.com/short-article/2026/11/brazil-deploys-national-security-force-to-indigenous-territory-following-invasion/",
+          "date": "2026-11-10T01:01:07+00:00"
         }
       ],
       "source_count": 1,
-      "score": 5.74
+      "malta_relevant": false,
+      "score": 6.7
     },
     {
-      "cat": "Environment & Climate",
-      "title": "The swan sanctuary wetland fighting climate change",
-      "summary": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
-      "source": "BBC News · Science",
-      "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T06:30:29+00:00",
-      "age": 4.6424818327777775,
+      "cat": "Books & Authors",
+      "title": "M John Harrison becomes first science fiction author to win the Booker prize",
+      "summary": "isionary writer gets the recognition he deserves Eighty-one-year-old M John Harrison has won the Booker prize for The End of Everything , a postapocalyptic novel set on a near-future Kent coast, becoming the oldest winner in the award’s history.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+      "date": "2026-11-09T22:00:20+00:00",
+      "age": 13.831990631944445,
       "sources": [
         {
-          "name": "BBC News · Science",
-          "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-10T06:30:29+00:00"
+          "name": "The Guardian",
+          "title": "M John Harrison becomes first science fiction author to win the Booker prize",
+          "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+          "date": "2026-11-09T22:00:20+00:00"
         }
       ],
       "source_count": 1,
-      "score": 5.61
+      "malta_relevant": false,
+      "score": 6.62
+    },
+    {
+      "cat": "Books & Authors",
+      "title": "Find out who's in the running for this year's Booker Prize",
+      "summary": "The winner of this year's literary award will be announced in London on Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-09T11:30:13+00:00",
+      "age": 24.333935076388887,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "Find out who's in the running for this year's Booker Prize",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-09T11:30:13+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.32
     },
     {
       "cat": "Politics & Government",
-      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-      "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, the prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new g",
-      "source": "The Guardian · World",
-      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-      "date": "2026-11-08T14:26:14+00:00",
-      "age": 44.71331516611111,
+      "title": "Citing government pressure, Russia's top independent newspaper closes its office after three decades",
+      "summary": "Novaya Gazeta was the last major independent media outlet critical of the Kremlin that remained active in Russia.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/citing-government-pressure-russias-top-independent-newspaper-closes-its-office-after-three-decades",
+      "date": "2026-11-09T23:46:13+00:00",
+      "age": 12.067268409722223,
       "sources": [
         {
-          "name": "The Guardian · World",
-          "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-          "date": "2026-11-08T14:26:14+00:00"
+          "name": "PBS NewsHour",
+          "title": "Citing government pressure, Russia's top independent newspaper closes its office after three decades",
+          "url": "https://www.pbs.org/newshour/world/citing-government-pressure-russias-top-independent-newspaper-closes-its-office-after-three-decades",
+          "date": "2026-11-09T23:46:13+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "Russia's leading independent newspaper closes after eviction",
+          "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-09T18:08:07+00:00"
+        },
+        {
+          "name": "CBC News",
+          "title": "Russia's top independent newspaper closes under relentless government pressure",
+          "url": "https://www.cbc.ca/news/world/novoya-gazeta-russia-media-newspaper-closes-putin-9.7414787?cmp=rss",
+          "date": "2026-11-09T15:16:15+00:00"
+        }
+      ],
+      "source_count": 3,
+      "malta_relevant": false,
+      "score": 5.66
+    },
+    {
+      "cat": "Science & Technology",
+      "title": "France vows tough response to freezer cyberattack blamed on Iran",
+      "summary": "France's Foreign Minister Jean-Noel Barrot said Tuesday, November 10, that Paris ruled out \"nothing\" to respond to a major cyberattack on hundreds of supermarket fridges in October that it has blamed on Iran.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
+      "date": "2026-11-10T10:51:57+00:00",
+      "age": 0.9717128541666666,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "France vows tough response to freezer cyberattack blamed on Iran",
+          "url": "https://www.france24.com/en/video/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
+          "date": "2026-11-10T10:51:57+00:00"
         }
       ],
       "source_count": 1,
-      "score": 5
+      "malta_relevant": false,
+      "score": 4.97
+    },
+    {
+      "cat": "Environment & Climate",
+      "title": "Fossil fuel emissions are expected to fall in 2026. Why aren’t climate experts celebrating?",
+      "summary": "Experts warn that a drop in emissions partly driven by conflict and trade disruptions is not sustainable in the long term.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/10/fossil-fuel-emissions-are-expected-to-fall-in-2026-why-arent-climate-experts-celebrating",
+      "date": "2026-11-10T06:02:23+00:00",
+      "age": 5.797823965277778,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "Fossil fuel emissions are expected to fall in 2026. Why aren’t climate experts celebrating?",
+          "url": "https://www.euronews.com/2026/11/10/fossil-fuel-emissions-are-expected-to-fall-in-2026-why-arent-climate-experts-celebrating",
+          "date": "2026-11-10T06:02:23+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.84
     }
   ],
   "afternoon": [],
   "feed_warnings": [
-    "MaltaToday: HTTPError: HTTP Error 403: Forbidden",
-    "TVMnews: ValueError: No RSS items"
+    "Newsbook: URLError: <urlopen error timed out>",
+    "The Malta Independent: HTTPError: HTTP Error 403: Forbidden",
+    "Malta Daily: HTTPError: HTTP Error 404: Not Found",
+    "BusinessToday Malta: HTTPError: HTTP Error 404: Not Found",
+    "TVMnews: ValueError: No RSS/Atom articles",
+    "MaltaToday: HTTPError: HTTP Error 403: Forbidden"
   ]
 }
