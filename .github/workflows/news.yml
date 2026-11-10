@@ -28,6 +28,7 @@ jobs:
       - name: Collect and curate RSS news
         env:
           NEWS_BITES_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.edition || (github.event.schedule == '0 16 * * *' && 'afternoon' || 'morning') }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python scripts/build.py
       - name: Save published edition if changed
         run: |
