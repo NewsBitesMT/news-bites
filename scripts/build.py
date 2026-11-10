@@ -550,7 +550,11 @@ def _groq_write(story, evidence, key):
     data = json.dumps(request_obj, ensure_ascii=False).encode('utf-8')
     request = urllib.request.Request(
         'https://api.groq.com/openai/v1/chat/completions', data=data,
-        headers={'Authorization': 'Bearer ' + key, 'Content-Type': 'application/json'},
+        headers={
+            'Authorization': 'Bearer ' + key,
+            'Content-Type': 'application/json',
+            'User-Agent': 'NewsBites/0.8',
+        },
         method='POST'
     )
     try:
