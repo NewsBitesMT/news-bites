@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""News Bites v0.8.1: RSS-only, source-grounded expanded context."""
+"""News Bites v0.8.1a: shorter evidence-grounded explanations when warranted."""
 import concurrent.futures
 import time
 import urllib.error
@@ -413,6 +413,9 @@ def _overlong_verbatim_copy(generated, evidence, n=13):
     return any(tuple(gen[i:i+n]) in spans for i in range(len(gen)-n+1))
 
 
+MIN_RSS_EVIDENCE_WORDS = 22
+MIN_EXPANDED_WORDS = 16
+
 def _valid_explanation(obj, evidence_text, available_words=None):
     """Reject unsupported-looking/padded output. This cannot prove accuracy."""
     if not isinstance(obj, dict):
@@ -426,9 +429,9 @@ def _valid_explanation(obj, evidence_text, available_words=None):
     total = count_detail + count_why + count_history
     # Shorter honest explanations are allowed when the source material is thin.
     # Never require a 200-word essay from a 70-word publisher excerpt.
-    if not (45 <= count_detail <= 190 and count_why <= 50 and count_history <= 50):
+    if not (MIN_EXPANDED_WORDS <= count_detail <= 190 and count_why <= 50 and count_history <= 50):
         return None
-    if not (55 <= total <= 225 and total <= int(available_words * 1.28) + 18):
+    if not (MIN_EXPANDED_WORDS <= total <= 225 and total <= int(available_words * 1.25) + 16):
         return None
     if any('http://' in s or 'https://' in s for s in (detail, why, history)):
         return None
@@ -452,7 +455,7 @@ def _groq_write(story, evidence, key):
         blocks.append(f'[RSS SOURCE {i}: {item["name"]}]\nHeadline: {item["title"]}\n'
                       f'Publisher RSS description: {excerpt}')
     context = '\n\n'.join(blocks)
-    if available_words < 65:
+    if available_words < MIN_RSS_EVIDENCE_WORDS:
         return None, 'not enough RSS reporting to add reliable detail'
     system = (
         'You produce concise, evidence-grounded English news briefings for a private '
@@ -464,8 +467,10 @@ def _groq_write(story, evidence, key):
         'If a claim is not clearly supported by supplied text, leave it out. '
         'Return structured JSON with three strings: explanation, why_it_matters, '
         'story_so_far. Explanation should paraphrase distinct key facts from the '
-        'source snippets into 1-2 short paragraphs, 50-160 words maximum; do not '
-        'pad or repeat. Why it matters should be 0-40 words, only if directly '
+        'source snippets into a concise paragraph of 16-120 words, as the facts permit; '
+        'a 20-35 word explanation is fine if that is all the evidence supports. '
+        'Add details beyond the short card summary when available, but never pad '
+        'or merely repeat the headline. Why it matters should be 0-40 words, only if directly '
         'supported. Story so far should be empty unless earlier events are explicitly '
         'described. If there is not enough evidence to add meaningful detail, return '
         'all empty strings. Do not claim independent fact-checking.'
@@ -551,7 +556,7 @@ def add_explanations(stories):
             continue
         evidence = _evidence_for(story)
         evidence_words = sum(_response_words(e.get('excerpt') or e.get('summary', '')) for e in evidence)
-        if evidence_words < 65:
+        if evidence_words < MIN_RSS_EVIDENCE_WORDS:
             print(f'  Story {i+1}: no expansion (RSS evidence too short: {evidence_words} words)', flush=True)
             continue
         if last_call is not None:
@@ -639,7 +644,7 @@ def render(stories, generated_at, afternoon=None):
             'AUTOMATED NEWS PREVIEW — RSS publisher headlines and descriptions. '
             'Expanded sections may be AI-assisted from short RSS excerpts; not independently fact-checked. See original sources.')
     template = template.replace('News Bites v0.5 · Source-linked headline preview · Not an independently verified digest',
-                                'News Bites v0.8.1 · Source-linked briefing · AI-assisted sections are not independently verified')
+                                'News Bites v0.8.1a · Source-linked briefing · AI-assisted sections are not independently verified')
     template = template.replace('<!-- TOPROWS -->', top).replace('<!-- STORIES -->', cards)
     template = template.replace('<!-- EDITION_DATE -->',
         escape(generated_at.strftime('%d %B %Y, %H:%M Malta time')))
