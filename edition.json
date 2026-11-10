@@ -1,6 +1,6 @@
 {
   "edition_date": "2026-11-10",
-  "generated_at": "2026-11-10T14:50:11.176409+01:00",
+  "generated_at": "2026-11-10T15:09:16.735600+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
     {
@@ -10,7 +10,7 @@
       "source": "Al Jazeera English",
       "url": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize?traffic_source=rss",
       "date": "2026-11-10T10:22:35+00:00",
-      "age": 3.4600490066666665,
+      "age": 3.778259892222222,
       "sources": [
         {
           "name": "Al Jazeera English",
@@ -36,7 +36,7 @@
       "source": "CBC News",
       "url": "https://www.cbc.ca/news/politics/canada-iran-nuclear-commitments-9.7416081?cmp=rss",
       "date": "2026-11-10T13:09:06+00:00",
-      "age": 0.684771228888889,
+      "age": 1.0029821144444444,
       "sources": [
         {
           "name": "CBC News",
@@ -47,7 +47,53 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 7.98
+      "score": 7.97,
+      "expanded": "Canada has reinstated sanctions against 11 Iranian energy and financial entities after the Iranian government failed to uphold commitments concerning its nuclear program, ballistic missile development, and financing of violence abroad.",
+      "why": "The sanctions signal Canada’s enforcement of international non‑proliferation norms and its stance against Iran’s regional activities.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
+      "summary": "Three-way talks between Russia, Ukraine and the United States opened Tuesday in the United Arab Emirates, as Washington made a renewed push to end the war that followed Moscow's invasion of its neighbour nearly five years ago.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
+      "date": "2026-11-10T11:45:29+00:00",
+      "age": 2.3965932255555558,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
+          "url": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
+          "date": "2026-11-10T11:45:29+00:00"
+        },
+        {
+          "name": "Euronews",
+          "title": "Europe must stop 'begging' for seat at Ukraine peace talks, ex-NATO chief warns",
+          "url": "https://www.euronews.com/2026/11/10/europe-must-stop-begging-for-seat-at-ukraine-peace-talks-ex-nato-chief-warns",
+          "date": "2026-11-10T10:56:29+00:00"
+        },
+        {
+          "name": "NPR",
+          "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
+          "date": "2026-11-10T09:38:34+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-10T09:07:00+00:00"
+        }
+      ],
+      "source_count": 4,
+      "malta_relevant": false,
+      "score": 7.93,
+      "expanded": "Three‑way peace talks began on Tuesday in Abu Dhabi, bringing together negotiators from Russia, Ukraine and the United States. The U.S. is pushing for a ceasefire, while Russia and Ukraine are present to discuss terms. Former NATO chief Anders Fogh Rasmussen cautioned that Europe must secure a seat at the table through strength rather than pleading, and former U.S. President Donald Trump’s envoy Jared Kushner is also in Abu Dhabi to help resume talks.",
+      "why": "The talks aim to end the conflict that began with Russia’s invasion of Ukraine nearly five years ago, potentially reshaping regional security and international relations.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Crime, War & Justice",
@@ -56,7 +102,7 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261110-us-hegseth-faces-republican-impeachment-bid-over-abuse-of-power-in-iran-war",
       "date": "2026-11-10T11:03:20+00:00",
-      "age": 2.78088234,
+      "age": 3.099093225555556,
       "sources": [
         {
           "name": "France 24",
@@ -67,7 +113,11 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 7.92
+      "score": 7.91,
+      "expanded": "Kentucky Republican Thomas Massie filed eight articles of impeachment against U.S. Defence Secretary Pete Hegseth, alleging that Hegseth waged war in Iran without congressional authorization and abused his Pentagon authority.",
+      "why": "The move could trigger a congressional impeachment vote amid a post‑midterm political shift.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Crime, War & Justice",
@@ -76,7 +126,7 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss",
       "date": "2026-11-09T20:15:00+00:00",
-      "age": 17.586437895555555,
+      "age": 17.90464878111111,
       "sources": [
         {
           "name": "Deutsche Welle",
@@ -87,7 +137,11 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 7.51
+      "score": 7.5,
+      "expanded": "Trump‑era congressman Thomas Massie has called for a vote to impeach Pentagon chief Pete Hegseth, alleging that Hegseth has waged a war in Iran without congressional approval.",
+      "why": "",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Politics & Government",
@@ -96,7 +150,7 @@
       "source": "Newsbook",
       "url": "https://newsbook.com.mt/en/artists-call-for-culture-ministers-resignation-in-open-letter-to-pm/",
       "date": "2026-11-10T07:34:38+00:00",
-      "age": 6.259215673333333,
+      "age": 6.577426558888889,
       "sources": [
         {
           "name": "Newsbook",
@@ -107,69 +161,7 @@
       ],
       "source_count": 1,
       "malta_relevant": true,
-      "score": 7.33
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-      "summary": "Three-way talks between Russia, Ukraine and the US opened Tuesday, November 10, in the United Arab Emirates, as Washington made another push to end the war.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261110-us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
-      "date": "2026-11-10T13:29:45+00:00",
-      "age": 0.34060456222222224,
-      "sources": [
-        {
-          "name": "France 24",
-          "title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-          "url": "https://www.france24.com/en/video/20261110-us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
-          "date": "2026-11-10T13:29:45+00:00"
-        },
-        {
-          "name": "The Guardian",
-          "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
-          "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
-          "date": "2026-11-10T13:26:15+00:00"
-        },
-        {
-          "name": "The Guardian",
-          "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
-          "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
-          "date": "2026-11-10T12:48:32+00:00"
-        },
-        {
-          "name": "France 24",
-          "title": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
-          "url": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
-          "date": "2026-11-10T11:45:29+00:00"
-        },
-        {
-          "name": "NPR",
-          "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-          "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
-          "date": "2026-11-10T10:58:18+00:00"
-        },
-        {
-          "name": "Euronews",
-          "title": "Europe must stop 'begging' for seat at Ukraine peace talks, ex-NATO chief warns",
-          "url": "https://www.euronews.com/2026/11/10/europe-must-stop-begging-for-seat-at-ukraine-peace-talks-ex-nato-chief-warns",
-          "date": "2026-11-10T10:56:29+00:00"
-        },
-        {
-          "name": "CBC News",
-          "title": "U.S.-mediated talks between Russia and Ukraine begin in Abu Dhabi",
-          "url": "https://www.cbc.ca/news/world/talks-between-russia-and-ukraine-begin-in-abu-dhabi-9.7416014?cmp=rss",
-          "date": "2026-11-10T09:57:22+00:00"
-        },
-        {
-          "name": "NPR",
-          "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
-          "url": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
-          "date": "2026-11-10T09:38:34+00:00"
-        }
-      ],
-      "source_count": 7,
-      "malta_relevant": false,
-      "score": 6.99
+      "score": 7.32
     },
     {
       "cat": "Books & Authors",
@@ -178,7 +170,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T09:35:15+00:00",
-      "age": 4.248937895555556,
+      "age": 4.567148781111111,
       "sources": [
         {
           "name": "BBC News",
@@ -189,7 +181,7 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.88
+      "score": 6.87
     },
     {
       "cat": "Politics & Government",
@@ -198,7 +190,7 @@
       "source": "Politico Europe",
       "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-the-eus-climate-strategy-survive-election-season/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "date": "2026-11-10T05:05:00+00:00",
-      "age": 8.753104562222223,
+      "age": 9.071315447777778,
       "sources": [
         {
           "name": "Politico Europe",
@@ -209,7 +201,11 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.76
+      "score": 6.75,
+      "expanded": "The EU aims to lead at the U.N. climate summit COP31, but elections in member states may weaken its climate agenda. Politico Europe notes that a rise in populist parties could challenge the bloc’s leadership role in climate negotiations.",
+      "why": "Elections could alter the EU’s influence on global climate policy, affecting international commitments and the bloc’s environmental leadership.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Crime, War & Justice",
@@ -218,7 +214,7 @@
       "source": "Mongabay",
       "url": "https://news.mongabay.com/short-article/2026/11/brazil-deploys-national-security-force-to-indigenous-territory-following-invasion/",
       "date": "2026-11-10T01:01:07+00:00",
-      "age": 12.817826784444444,
+      "age": 13.136037669999999,
       "sources": [
         {
           "name": "Mongabay",
@@ -229,7 +225,31 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.64
+      "score": 6.64,
+      "expanded": "Brazil has sent the National Public Security Force to the Ituna/Itatá Indigenous Territory in Pará after an invasion by over 500 people two months earlier. The deployment will last 180 days and is intended to assist Funai in protecting the isolated Igarapé Ipiaçava community.",
+      "why": "The move aims to safeguard an isolated Indigenous group from external threats.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Gatineau Park foliage reveals local Cold War nuclear testing legacy",
+      "summary": "For more than six decades, local scientists have collected sugar maple leaves from Gatineau Park to measure their radiocarbon levels, creating the longest continuous record of its kind.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-gatineau-foliage-reveals-local-cold.html",
+      "date": "2026-11-10T00:40:08+00:00",
+      "age": 13.485759892222221,
+      "sources": [
+        {
+          "name": "Phys.org",
+          "title": "Gatineau Park foliage reveals local Cold War nuclear testing legacy",
+          "url": "https://phys.org/news/2026-11-gatineau-foliage-reveals-local-cold.html",
+          "date": "2026-11-10T00:40:08+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.63
     },
     {
       "cat": "Books & Authors",
@@ -238,7 +258,7 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
       "date": "2026-11-09T22:00:20+00:00",
-      "age": 15.830882339999999,
+      "age": 16.149093225555553,
       "sources": [
         {
           "name": "The Guardian",
@@ -249,7 +269,11 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.56
+      "score": 6.55,
+      "expanded": "Eighty‑one‑year‑old M John Harrison won the Booker Prize for his post‑apocalyptic novel *The End of Everything*, set on a near‑future Kent coast. He is the oldest winner in the award’s history and the first author from the bona fide science‑fiction world to receive the prize.",
+      "why": "It marks a historic first for the Booker, recognizing a science‑fiction author and expanding the genre’s reach in mainstream literary awards.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Politics & Government",
@@ -258,7 +282,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T12:25:48+00:00",
-      "age": 1.4064378955555557,
+      "age": 1.7246487811111113,
       "sources": [
         {
           "name": "BBC News",
@@ -275,33 +299,11 @@
       ],
       "source_count": 2,
       "malta_relevant": false,
-      "score": 6.46
-    },
-    {
-      "cat": "Science & Technology",
-      "title": "France accuses Iran of supermarket cyberattacks",
-      "summary": "French Foreign Minister Jean-Noël Barrot announced the allegations on Monday, following a G7 ministerial meeting in Paris.",
-      "source": "Newsbook",
-      "url": "https://newsbook.com.mt/en/france-cccuses-iran-of-orchestrating-cyberattacks-on-supermarket-refrigeration-systems/",
-      "date": "2026-11-10T08:33:50+00:00",
-      "age": 5.272549006666667,
-      "sources": [
-        {
-          "name": "Newsbook",
-          "title": "France accuses Iran of supermarket cyberattacks",
-          "url": "https://newsbook.com.mt/en/france-cccuses-iran-of-orchestrating-cyberattacks-on-supermarket-refrigeration-systems/",
-          "date": "2026-11-10T08:33:50+00:00"
-        },
-        {
-          "name": "France 24",
-          "title": "France threatens actions against Iran over supermarket cyberattacks",
-          "url": "https://www.france24.com/en/france/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
-          "date": "2026-11-10T07:43:55+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 6.35
+      "score": 6.45,
+      "expanded": "Israel’s new Knesset will be sworn in on Tuesday, with Prime Minister Benjamin Netanyahu’s bloc and opposition leader Gadi Eisenkot’s camp both lacking a majority. Eisenkot has been given a mandate to form a coalition government.",
+      "why": "The outcome will determine Israel’s next government and could shift policy direction.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
   ],
   "afternoon": [],
