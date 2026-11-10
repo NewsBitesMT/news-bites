@@ -1,6 +1,6 @@
 {
   "edition_date": "2026-11-10",
-  "generated_at": "2026-11-10T14:13:50.820051+01:00",
+  "generated_at": "2026-11-10T14:21:17.702665+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
     {
@@ -10,7 +10,7 @@
       "source": "Al Jazeera English",
       "url": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize?traffic_source=rss",
       "date": "2026-11-10T10:22:35+00:00",
-      "age": 2.8543944647222226,
+      "age": 2.9785285225,
       "sources": [
         {
           "name": "Al Jazeera English",
@@ -19,21 +19,35 @@
           "date": "2026-11-10T10:22:35+00:00"
         },
         {
-          "name": "Euronews",
-          "title": "M John Harrison becomes oldest ever winner of the Booker prize for his satirical novel 'The End of Everything'",
-          "url": "https://www.euronews.com/2026/11/09/m-john-harrison-becomes-oldest-ever-winner-of-the-booker-prize-for-his-satirical-novel-the",
-          "date": "2026-11-09T22:43:57+00:00"
-        },
-        {
           "name": "Literary Hub",
           "title": "M. John Harrison’s The End of Everything has won the 2026 Booker Prize.",
           "url": "https://lithub.com/m-john-harrisons-the-end-of-everything-has-won-the-2026-booker-prize/",
           "date": "2026-11-09T22:16:44+00:00"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "malta_relevant": false,
-      "score": 9.92
+      "score": 8.42
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Canada reimposes sanctions on Iran for violating nuclear non-proliferation commitments",
+      "summary": "Canada is reimposing sanctions on 11 Iranian energy and financial organizations for the regime's failure to meet promises related to its nuclear program, its ballistic missile development and its ongoing financing of violence beyond its borders.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/politics/canada-iran-nuclear-commitments-9.7416081?cmp=rss",
+      "date": "2026-11-10T13:09:06+00:00",
+      "age": 0.2032507447222222,
+      "sources": [
+        {
+          "name": "CBC News",
+          "title": "Canada reimposes sanctions on Iran for violating nuclear non-proliferation commitments",
+          "url": "https://www.cbc.ca/news/politics/canada-iran-nuclear-commitments-9.7416081?cmp=rss",
+          "date": "2026-11-10T13:09:06+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 7.99
     },
     {
       "cat": "Major World Events",
@@ -42,7 +56,7 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
       "date": "2026-11-10T11:45:29+00:00",
-      "age": 1.4727277980555555,
+      "age": 1.5968618558333332,
       "sources": [
         {
           "name": "France 24",
@@ -86,7 +100,7 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261110-us-hegseth-faces-republican-impeachment-bid-over-abuse-of-power-in-iran-war",
       "date": "2026-11-10T11:03:20+00:00",
-      "age": 2.1752277980555554,
+      "age": 2.2993618558333333,
       "sources": [
         {
           "name": "France 24",
@@ -106,7 +120,7 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss",
       "date": "2026-11-09T20:15:00+00:00",
-      "age": 16.980783353611113,
+      "age": 17.10491741138889,
       "sources": [
         {
           "name": "Deutsche Welle",
@@ -117,7 +131,7 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 7.53
+      "score": 7.52
     },
     {
       "cat": "Politics & Government",
@@ -126,7 +140,7 @@
       "source": "Newsbook",
       "url": "https://newsbook.com.mt/en/artists-call-for-culture-ministers-resignation-in-open-letter-to-pm/",
       "date": "2026-11-10T07:34:38+00:00",
-      "age": 5.653561131388889,
+      "age": 5.777695189166666,
       "sources": [
         {
           "name": "Newsbook",
@@ -146,7 +160,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T09:35:15+00:00",
-      "age": 3.6432833536111113,
+      "age": 3.767417411388889,
       "sources": [
         {
           "name": "BBC News",
@@ -166,7 +180,7 @@
       "source": "Politico Europe",
       "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-the-eus-climate-strategy-survive-election-season/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "date": "2026-11-10T05:05:00+00:00",
-      "age": 8.147450020277777,
+      "age": 8.271584078055556,
       "sources": [
         {
           "name": "Politico Europe",
@@ -186,7 +200,7 @@
       "source": "Mongabay",
       "url": "https://news.mongabay.com/short-article/2026/11/brazil-deploys-national-security-force-to-indigenous-territory-following-invasion/",
       "date": "2026-11-10T01:01:07+00:00",
-      "age": 12.212172242500001,
+      "age": 12.336306300277778,
       "sources": [
         {
           "name": "Mongabay",
@@ -206,7 +220,7 @@
       "source": "Phys.org",
       "url": "https://phys.org/news/2026-11-gatineau-foliage-reveals-local-cold.html",
       "date": "2026-11-10T00:40:08+00:00",
-      "age": 12.561894464722222,
+      "age": 12.686028522500001,
       "sources": [
         {
           "name": "Phys.org",
@@ -226,7 +240,7 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
       "date": "2026-11-09T22:00:20+00:00",
-      "age": 15.225227798055556,
+      "age": 15.349361855833335,
       "sources": [
         {
           "name": "The Guardian",
@@ -237,7 +251,7 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.58
+      "score": 6.57
     },
     {
       "cat": "Politics & Government",
@@ -246,7 +260,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T12:25:48+00:00",
-      "age": 0.8007833536111111,
+      "age": 0.9249174113888889,
       "sources": [
         {
           "name": "BBC News",
@@ -263,33 +277,7 @@
       ],
       "source_count": 2,
       "malta_relevant": false,
-      "score": 6.48
-    },
-    {
-      "cat": "Science & Technology",
-      "title": "France accuses Iran of supermarket cyberattacks",
-      "summary": "French Foreign Minister Jean-Noël Barrot announced the allegations on Monday, following a G7 ministerial meeting in Paris.",
-      "source": "Newsbook",
-      "url": "https://newsbook.com.mt/en/france-cccuses-iran-of-orchestrating-cyberattacks-on-supermarket-refrigeration-systems/",
-      "date": "2026-11-10T08:33:50+00:00",
-      "age": 4.666894464722222,
-      "sources": [
-        {
-          "name": "Newsbook",
-          "title": "France accuses Iran of supermarket cyberattacks",
-          "url": "https://newsbook.com.mt/en/france-cccuses-iran-of-orchestrating-cyberattacks-on-supermarket-refrigeration-systems/",
-          "date": "2026-11-10T08:33:50+00:00"
-        },
-        {
-          "name": "France 24",
-          "title": "France threatens actions against Iran over supermarket cyberattacks",
-          "url": "https://www.france24.com/en/france/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
-          "date": "2026-11-10T07:43:55+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 6.37
+      "score": 6.47
     }
   ],
   "afternoon": [],
