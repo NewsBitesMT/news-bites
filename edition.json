@@ -1,117 +1,242 @@
 {
-  "generated_at": "2026-11-10T11:17:51.733360+01:00",
-  "mode": "SOURCE HEADLINE PREVIEW — not independently verified or AI summarized",
+  "edition_date": "2026-11-10",
+  "generated_at": "2026-11-10T11:33:26.803873+01:00",
+  "mode": "Publisher RSS preview; automated heuristic ranking, not fact-checked",
   "stories": [
     {
-      "cat": "Major World Events",
-      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
-      "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
-      "source": "BBC News · World",
-      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T10:13:51+00:00",
-      "age": 0.06620472694444444
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Spain: Police officer killed in Oviedo after neighborhood dispute escalates with explosion",
-      "summary": "At least one officer was killed and another injured as a fight between two families becomes increasingly violent.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-police-officer-killed-in-oviedo-after-neighborhood-dispute-escalates-with-explosion/a-79907509?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-10T10:12:00+00:00",
-      "age": 0.09703806027777778
-    },
-    {
-      "cat": "Major World Events",
-      "title": "David Jones’s finances were reviewed and restructuring flagged months before it fell into administration",
-      "summary": "Department store group kept buying new products and fell months behind in payments to some brands despite discussions with administrators Get our breaking news email , free app or daily news podcast David Jones’s administrators have reveale",
-      "source": "The Guardian · World",
-      "url": "https://www.theguardian.com/business/2026/nov/10/david-joness-finances-were-reviewed-and-restructuring-flagged-months-before-it-fell-into-administration",
-      "date": "2026-11-10T10:04:46+00:00",
-      "age": 0.2175936158333333
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Fact check: Online disinformation rife after Krakow mass shooting",
-      "summary": "Fake and AI-manipulated images spread online in the hours after the Krakow attack, fueling false narratives about the mass shooting. DW Fact Check examined what's real, and what isn't.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-10T10:02:00+00:00",
-      "age": 0.2637047269444444
-    },
-    {
-      "cat": "Major World Events",
+      "cat": "Crime, War & Justice",
       "title": "US, Russia and Ukraine hold trilateral talks aimed at ending war – Europe live",
-      "summary": "Talks in Abu Dhabi are first substantive negotiations in months focusing on ending the conflict which has raged for more than four years US officials seek ‘final end’ to Russia-Ukraine war as talks begin At least 10 people died ⁠in a traffi",
+      "summary": "Talks in Abu Dhabi are first substantive negotiations in months focusing on ending the conflict which has raged for more than four years US officials seek ‘final end’ to Russia-Ukraine war as talks begin A police officer from Spain’s canine",
       "source": "The Guardian · World",
       "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
-      "date": "2026-11-10T09:59:38+00:00",
-      "age": 0.3031491713888889
+      "date": "2026-11-10T10:24:34+00:00",
+      "age": 0.14800107972222223,
+      "sources": [
+        {
+          "name": "The Guardian · World",
+          "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+          "date": "2026-11-10T10:24:34+00:00"
+        }
+      ],
+      "source_count": 1,
+      "score": 7.99
     },
     {
-      "cat": "Business & Marketing",
-      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-      "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
-      "source": "BBC News · Business",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T09:57:49+00:00",
-      "age": 0.3334269491666667
+      "cat": "Crime, War & Justice",
+      "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
+      "summary": "FTSE 100 and other markets climb after president downplays prospect of further strikes in Middle East Business live – latest updates Oil prices have fallen to the lowest level since late August while stock markets climbed higher, as markets",
+      "source": "The Guardian · World",
+      "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
+      "date": "2026-11-10T09:52:47+00:00",
+      "age": 0.6777233019444444,
+      "sources": [
+        {
+          "name": "The Guardian · World",
+          "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
+          "date": "2026-11-10T09:52:47+00:00"
+        }
+      ],
+      "source_count": 1,
+      "score": 7.94
     },
     {
-      "cat": "Business & Marketing",
-      "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
-      "summary": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
-      "source": "BBC News · Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T09:57:29+00:00",
-      "age": 0.33898250472222224
-    },
-    {
-      "cat": "Major World Events",
-      "title": "DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels",
-      "summary": "Dozens of defendants were put on trial over accusations that they abandoned their posts and refused to follow direct orders.",
+      "cat": "Environment & Climate",
+      "title": "Iran war oil shock drives dip in global emissions, study shows",
+      "summary": "Global carbon emissions are expected to fall slightly in 2026, but not because of major progress on climate action. Instead, it's high energy prices following the US attack on Iran that's driving the trend.",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-10T09:43:00+00:00",
-      "age": 0.5803713936111111
+      "url": "https://www.dw.com/en/iran-war-oil-shock-drives-dip-in-global-emissions-study-shows/a-79905937?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-10T03:58:00+00:00",
+      "age": 6.590778857499999,
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/iran-war-oil-shock-drives-dip-in-global-emissions-study-shows/a-79905937?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-10T03:58:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "score": 7.45
     },
     {
       "cat": "Major World Events",
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "summary": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
       "source": "BBC News · World",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T09:40:31+00:00",
-      "age": 0.6217602824999999
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10T09:07:00+00:00",
+      "age": 1.4407788575,
+      "sources": [
+        {
+          "name": "BBC News · World",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-10T09:07:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "score": 6.88
     },
     {
-      "cat": "Major World Events",
+      "cat": "Crime, War & Justice",
+      "title": "US Pentagon chief Hegseth faces impeachment push over Iran war",
+      "summary": "Trump critic Thomas Massie is calling for a vote to impeach Pentagon chief Pete Hegseth, accusing Hegseth of waging war without congressional approval.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-09T20:15:00+00:00",
+      "age": 14.307445524166667,
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-09T20:15:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "score": 6.81
+    },
+    {
+      "cat": "Environment & Climate",
+      "title": "Cop31 live: host Turkey celebrates new oil fields as climate summit enters second day",
+      "summary": "UN climate summit prepares to host world leaders from more than 90 countries as scientists find global carbon emissions flatlined this year. A short update on our Cop31 bus journey from hell. We have arrived. It only took three and a half h",
+      "source": "The Guardian · World",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+      "date": "2026-11-10T09:54:48+00:00",
+      "age": 0.6441121908333334,
+      "sources": [
+        {
+          "name": "The Guardian · World",
+          "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+          "date": "2026-11-10T09:54:48+00:00"
+        }
+      ],
+      "source_count": 1,
+      "score": 5.95
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Germany news: President candidate Aigner to meet parties in Bundestag",
+      "summary": "The presidential candidate put forward by the conservative bloc has said she won't meet with the far-right AfD. Meanwhile, Chancellor Merz is set to host Hungarian Prime Minister Magyar. DW has more.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-president-candidate-aigner-to-meet-parties-in-bundestag/live-79906440?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-10T08:36:00+00:00",
+      "age": 1.9574455241666666,
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-news-president-candidate-aigner-to-meet-parties-in-bundestag/live-79906440?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-10T08:36:00+00:00"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-cdu-names-ilse-aigner-as-candidate-for-president/a-79898143?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-09T12:11:00+00:00"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/who-is-ilse-aigner-leading-candidate-for-germany-s-next-president/a-79898848?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-09T11:11:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "score": 5.84
+    },
+    {
+      "cat": "Environment & Climate",
+      "title": "Why electrification is the climate game changer we need",
+      "summary": "From EVs and electric buses on the road, heat pumps warming homes and solar panels powering appliances, the shift to electrifying tech is already in full swing. But what exactly does 'electrification' mean?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-electrification-is-the-climate-game-changer-we-need/a-79615979?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-10T08:00:00+00:00",
+      "age": 2.5574455241666665,
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/why-electrification-is-the-climate-game-changer-we-need/a-79615979?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-10T08:00:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "score": 5.79
+    },
+    {
+      "cat": "Environment & Climate",
+      "title": "The swan sanctuary wetland fighting climate change",
+      "summary": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
+      "source": "BBC News · Science",
+      "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10T06:30:29+00:00",
+      "age": 4.049389968611111,
+      "sources": [
+        {
+          "name": "BBC News · Science",
+          "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-10T06:30:29+00:00"
+        }
+      ],
+      "source_count": 1,
+      "score": 5.66
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, the prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new g",
+      "source": "The Guardian · World",
+      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "date": "2026-11-08T14:26:14+00:00",
+      "age": 44.12022330194444,
+      "sources": [
+        {
+          "name": "The Guardian · World",
+          "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+          "date": "2026-11-08T14:26:14+00:00"
+        }
+      ],
+      "source_count": 1,
+      "score": 5
+    },
+    {
+      "cat": "Politics & Government",
       "title": "Watch: Man smashes Chinese government building with excavator",
       "summary": "Police say they have detained a 47-year-old suspect and no one was injured in the incident.",
       "source": "BBC News · World",
       "url": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T09:37:15+00:00",
-      "age": 0.6762047269444444
+      "age": 0.9366121908333334,
+      "sources": [
+        {
+          "name": "BBC News · World",
+          "url": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-10T09:37:15+00:00"
+        }
+      ],
+      "source_count": 1,
+      "score": 4.92
     },
     {
-      "cat": "Art, Artists & History of Art",
-      "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
-      "summary": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
-      "source": "BBC News · Arts",
-      "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T09:35:15+00:00",
-      "age": 0.7095380602777778
-    },
-    {
-      "cat": "Business & Marketing",
-      "title": "Holiday hunger bill to face final Stormont hurdle",
-      "summary": "The new law would would help poorer families with food costs during school holidays.",
-      "source": "BBC News · Business",
-      "url": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T09:35:03+00:00",
-      "age": 0.7128713936111111
+      "cat": "Major World Events",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "source": "BBC News · World",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10T08:23:21+00:00",
+      "age": 2.1682788575,
+      "sources": [
+        {
+          "name": "BBC News · World",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-10T08:23:21+00:00"
+        },
+        {
+          "name": "BBC News · Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-09T19:58:01+00:00"
+        }
+      ],
+      "source_count": 2,
+      "score": 4.82
     }
   ],
+  "afternoon": [],
   "feed_warnings": [
-    "Times of Malta · News: ParseError: not well-formed (invalid token): line 64, column 72"
+    "Times of Malta: ParseError: not well-formed (invalid token): line 64, column 72"
   ]
 }
