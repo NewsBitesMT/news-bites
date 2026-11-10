@@ -306,6 +306,32 @@
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
   ],
-  "afternoon": [],
-  "feed_warnings": []
+  "afternoon": [
+    {
+      "cat": "Health & Wellness",
+      "title": "The vaccine limbo in the US is worsening the measles outbreak",
+      "summary": "ced three deaths associated with measles last week, among them a seven-month-old baby in New York and a postpartum woman in Pennsylvania , underscoring the need for a more aggressive vaccination approach – but US recommendations haven’t changed.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/measles-outbreak-vaccinations-acip",
+      "date": "2026-11-10T15:00:46+00:00",
+      "age": 0.6330395594444445,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "The vaccine limbo in the US is worsening the measles outbreak",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/measles-outbreak-vaccinations-acip",
+          "date": "2026-11-10T15:00:46+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 7.98,
+      "expanded": "The United States reported three measles‑related deaths last week, including a seven‑month‑old infant in New York and a postpartum woman in Pennsylvania. The outbreak has risen sharply while the Advisory Committee on Immunization Practices (ACIP) has been dismantled, leaving vaccination recommendations unchanged.",
+      "why": "The lack of updated guidance amid a growing outbreak highlights the urgency for a more aggressive vaccination strategy.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    }
+  ],
+  "feed_warnings": [],
+  "afternoon_checked_at": "2026-11-10T16:38:44.942402+01:00"
 }
