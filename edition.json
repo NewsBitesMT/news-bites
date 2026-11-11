@@ -1,72 +1,66 @@
 {
-  "edition_date": "2026-11-10",
-  "generated_at": "2026-11-10T15:09:16.735600+01:00",
+  "edition_date": "2026-11-11",
+  "generated_at": "2026-11-11T06:43:23.665836+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
     {
-      "cat": "Books & Authors",
-      "title": "UK author M John Harrison’s End of Everything wins Booker Prize",
-      "summary": "The book uses dark humour and elusive narratives to cast a futuristic lens on modern politics post-calamity.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize?traffic_source=rss",
-      "date": "2026-11-10T10:22:35+00:00",
-      "age": 3.778259892222222,
+      "cat": "Business & Marketing",
+      "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
+      "summary": "k Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economy The Bank of England is risking higher interest rates for longer after a hesitant response to rising inflation , according to leading thinktank.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+      "date": "2026-11-11T00:01:23+00:00",
+      "age": 5.700184959166666,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "title": "UK author M John Harrison’s End of Everything wins Booker Prize",
-          "url": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize?traffic_source=rss",
-          "date": "2026-11-10T10:22:35+00:00"
-        },
-        {
-          "name": "Literary Hub",
-          "title": "M. John Harrison’s The End of Everything has won the 2026 Booker Prize.",
-          "url": "https://lithub.com/m-john-harrisons-the-end-of-everything-has-won-the-2026-booker-prize/",
-          "date": "2026-11-09T22:16:44+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 8.4
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Canada reimposes sanctions on Iran for violating nuclear non-proliferation commitments",
-      "summary": "Canada is reimposing sanctions on 11 Iranian energy and financial organizations for the regime's failure to meet promises related to its nuclear program, its ballistic missile development and its ongoing financing of violence beyond its borders.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/politics/canada-iran-nuclear-commitments-9.7416081?cmp=rss",
-      "date": "2026-11-10T13:09:06+00:00",
-      "age": 1.0029821144444444,
-      "sources": [
-        {
-          "name": "CBC News",
-          "title": "Canada reimposes sanctions on Iran for violating nuclear non-proliferation commitments",
-          "url": "https://www.cbc.ca/news/politics/canada-iran-nuclear-commitments-9.7416081?cmp=rss",
-          "date": "2026-11-10T13:09:06+00:00"
+          "name": "The Guardian",
+          "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
+          "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+          "date": "2026-11-11T00:01:23+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 7.97,
-      "expanded": "Canada has reinstated sanctions against 11 Iranian energy and financial entities after the Iranian government failed to uphold commitments concerning its nuclear program, ballistic missile development, and financing of violence abroad.",
-      "why": "The sanctions signal Canada’s enforcement of international non‑proliferation norms and its stance against Iran’s regional activities.",
+      "score": 10.84,
+      "expanded": "The National Institute of Economic and Social Research (Niesr) argues that the Bank of England’s modest interest‑rate increase last week may cause inflation to remain above the 2 % target until at least 2030, implying the central bank could keep rates higher for an extended period.",
+      "why": "If inflation stays above target, the Bank may need to maintain higher rates longer, affecting borrowing costs and economic growth.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Major World Events",
-      "title": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
-      "summary": "Three-way talks between Russia, Ukraine and the United States opened Tuesday in the United Arab Emirates, as Washington made a renewed push to end the war that followed Moscow's invasion of its neighbour nearly five years ago.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
-      "date": "2026-11-10T11:45:29+00:00",
-      "age": 2.3965932255555558,
+      "title": "Savers urged to check interest rates on accounts as Macquarie admits failings",
+      "summary": "Macquarie Bank has admitted to failures in the promotion of its \"welcome\" interest rate for new savings account customers.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-11/asic-sues-macquarie-for-savings-rates-failures/107371760",
+      "date": "2026-11-10T22:16:06+00:00",
+      "age": 7.454907181388888,
       "sources": [
         {
-          "name": "France 24",
-          "title": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
-          "url": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
-          "date": "2026-11-10T11:45:29+00:00"
+          "name": "ABC News Australia",
+          "title": "Savers urged to check interest rates on accounts as Macquarie admits failings",
+          "url": "https://www.abc.net.au/news/2026-11-11/asic-sues-macquarie-for-savings-rates-failures/107371760",
+          "date": "2026-11-10T22:16:06+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 7.79
+    },
+    {
+      "cat": "Major World Events",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10T21:21:55+00:00",
+      "age": 8.357962736944444,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "First day of Ukraine peace talks constructive, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-10T21:21:55+00:00"
         },
         {
           "name": "Euronews",
@@ -79,89 +73,15 @@
           "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
           "url": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
           "date": "2026-11-10T09:38:34+00:00"
-        },
-        {
-          "name": "BBC News",
-          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-10T09:07:00+00:00"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "malta_relevant": false,
-      "score": 7.93,
-      "expanded": "Three‑way peace talks began on Tuesday in Abu Dhabi, bringing together negotiators from Russia, Ukraine and the United States. The U.S. is pushing for a ceasefire, while Russia and Ukraine are present to discuss terms. Former NATO chief Anders Fogh Rasmussen cautioned that Europe must secure a seat at the table through strength rather than pleading, and former U.S. President Donald Trump’s envoy Jared Kushner is also in Abu Dhabi to help resume talks.",
-      "why": "The talks aim to end the conflict that began with Russia’s invasion of Ukraine nearly five years ago, potentially reshaping regional security and international relations.",
+      "score": 7.77,
+      "expanded": "Delegations from Kyiv, Washington and Moscow met in Abu Dhabi for the first trilateral Ukraine peace talks since February, with President Zelensky describing the first day as constructive. Former NATO chief Anders Fogh Rasumussen cautioned Europe not to beg for a seat at the US‑brokered ceasefire negotiations, emphasizing that influence comes from strength. President Trump’s senior envoy, Jared Kushner, is also present in Abu Dhabi with Russian and Ukrainian negotiators to resume talks.",
+      "why": "The talks represent a rare opportunity for direct dialogue between Ukraine, Russia and the US, potentially shaping the conflict’s resolution.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "US Hegseth faces Republican impeachment bid over abuse of power in Iran war",
-      "summary": "can lawmaker moved on Monday to impeach US Defence Secretary Pete Hegseth over the war in Iran, setting the stage for a potentially explosive vote in Congress, days after President Donald Trump's party suffered a crushing defeat in the midterms.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261110-us-hegseth-faces-republican-impeachment-bid-over-abuse-of-power-in-iran-war",
-      "date": "2026-11-10T11:03:20+00:00",
-      "age": 3.099093225555556,
-      "sources": [
-        {
-          "name": "France 24",
-          "title": "US Hegseth faces Republican impeachment bid over abuse of power in Iran war",
-          "url": "https://www.france24.com/en/video/20261110-us-hegseth-faces-republican-impeachment-bid-over-abuse-of-power-in-iran-war",
-          "date": "2026-11-10T11:03:20+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 7.91,
-      "expanded": "Kentucky Republican Thomas Massie filed eight articles of impeachment against U.S. Defence Secretary Pete Hegseth, alleging that Hegseth waged war in Iran without congressional authorization and abused his Pentagon authority.",
-      "why": "The move could trigger a congressional impeachment vote amid a post‑midterm political shift.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "US Pentagon chief Hegseth faces impeachment push over Iran war",
-      "summary": "Trump critic Thomas Massie is calling for a vote to impeach Pentagon chief Pete Hegseth, accusing Hegseth of waging war without congressional approval.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-09T20:15:00+00:00",
-      "age": 17.90464878111111,
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "title": "US Pentagon chief Hegseth faces impeachment push over Iran war",
-          "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-09T20:15:00+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 7.5,
-      "expanded": "Trump‑era congressman Thomas Massie has called for a vote to impeach Pentagon chief Pete Hegseth, alleging that Hegseth has waged a war in Iran without congressional approval.",
-      "why": "",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Artists call for Culture Minister’s resignation in open letter to PM",
-      "summary": "The Malta Entertainment Industry and Arts Association (MEIA) has invited artists, cultural workers and organisations to sign an open letter calling for the resignation of Minister for Arts, Culture and National Heritage Malcolm Paul Agius Galea.",
-      "source": "Newsbook",
-      "url": "https://newsbook.com.mt/en/artists-call-for-culture-ministers-resignation-in-open-letter-to-pm/",
-      "date": "2026-11-10T07:34:38+00:00",
-      "age": 6.577426558888889,
-      "sources": [
-        {
-          "name": "Newsbook",
-          "title": "Artists call for Culture Minister’s resignation in open letter to PM",
-          "url": "https://newsbook.com.mt/en/artists-call-for-culture-ministers-resignation-in-open-letter-to-pm/",
-          "date": "2026-11-10T07:34:38+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": true,
-      "score": 7.32
     },
     {
       "cat": "Books & Authors",
@@ -170,7 +90,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T09:35:15+00:00",
-      "age": 4.567148781111111,
+      "age": 20.135740514722222,
       "sources": [
         {
           "name": "BBC News",
@@ -181,31 +101,51 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.87
+      "score": 6.44
     },
     {
-      "cat": "Politics & Government",
-      "title": "Can the EU’s climate strategy survive election season?",
-      "summary": "The EU wants to be a heavyweight at U.N.",
-      "source": "Politico Europe",
-      "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-the-eus-climate-strategy-survive-election-season/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "date": "2026-11-10T05:05:00+00:00",
-      "age": 9.071315447777778,
+      "cat": "Books & Authors",
+      "title": "Jarvis Cocker on judging the Booker prize: ‘It’s just like being in a band’",
+      "summary": "him for judging a literary prize, reading 163 books while on tour, and feeling like the odd one out on the panel • M John Harrison becomes the first science fiction author to win the Booker prize Judging the Booker prize is like being in a band.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/nov/10/jarvis-cocker-on-judging-the-booker-prize-its-just-like-being-in-a-band",
+      "date": "2026-11-10T09:00:34+00:00",
+      "age": 20.713796070277777,
       "sources": [
         {
-          "name": "Politico Europe",
-          "title": "Can the EU’s climate strategy survive election season?",
-          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-the-eus-climate-strategy-survive-election-season/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "date": "2026-11-10T05:05:00+00:00"
+          "name": "The Guardian",
+          "title": "Jarvis Cocker on judging the Booker prize: ‘It’s just like being in a band’",
+          "url": "https://www.theguardian.com/books/2026/nov/10/jarvis-cocker-on-judging-the-booker-prize-its-just-like-being-in-a-band",
+          "date": "2026-11-10T09:00:34+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.75,
-      "expanded": "The EU aims to lead at the U.N. climate summit COP31, but elections in member states may weaken its climate agenda. Politico Europe notes that a rise in populist parties could challenge the bloc’s leadership role in climate negotiations.",
-      "why": "Elections could alter the EU’s influence on global climate policy, affecting international commitments and the bloc’s environmental leadership.",
+      "score": 6.42,
+      "expanded": "Jarvis Cocker, former lead singer of Pulp, said judging the Booker prize feels like being in a band, comparing the diverse panel to a group of musicians who blend different strengths. He noted reading 163 books while touring and feeling like the odd one out on the panel.",
+      "why": "It shows how a musician’s experience can translate to literary evaluation, highlighting the interdisciplinary nature of the Booker judging process.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Iran war live: US House blocks Hegseth impeachment with 11 Democrats absent",
+      "summary": "US House blocks bid to impeach Defense Secretary Pete Hegseth over US-Israel war on Iran as 11 Democrats miss vote.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+      "date": "2026-11-11T00:01:26+00:00",
+      "age": 5.699351625833333,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "title": "Iran war live: US House blocks Hegseth impeachment with 11 Democrats absent",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+          "date": "2026-11-11T00:01:26+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.34
     },
     {
       "cat": "Crime, War & Justice",
@@ -214,7 +154,7 @@
       "source": "Mongabay",
       "url": "https://news.mongabay.com/short-article/2026/11/brazil-deploys-national-security-force-to-indigenous-territory-following-invasion/",
       "date": "2026-11-10T01:01:07+00:00",
-      "age": 13.136037669999999,
+      "age": 28.70462940361111,
       "sources": [
         {
           "name": "Mongabay",
@@ -225,113 +165,125 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.64,
-      "expanded": "Brazil has sent the National Public Security Force to the Ituna/Itatá Indigenous Territory in Pará after an invasion by over 500 people two months earlier. The deployment will last 180 days and is intended to assist Funai in protecting the isolated Igarapé Ipiaçava community.",
-      "why": "The move aims to safeguard an isolated Indigenous group from external threats.",
+      "score": 6.2,
+      "expanded": "More than 500 people invaded the Ituna/Itatá Indigenous Territory in Pará, where the isolated Igarapé Ipiaçava community lives. In response, Brazil has sent the National Public Security Force for 180 days to assist the Indigenous Affairs Agency (Funai) in protecting the territory.",
+      "why": "The deployment aims to safeguard the rights and safety of a vulnerable indigenous group threatened by external intrusion.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "BOV webinar helps businesses navigate international sanctions",
+      "summary": "Bank of Valletta brought businesses together for a well-attended webinar to help them understand international sanctions risks and expectations, recognise warning signs, and make informed decisions.",
+      "source": "Newsbook",
+      "url": "https://newsbook.com.mt/en/bov-webinar-helps-businesses-navigate-international-sanctions/",
+      "date": "2026-11-10T17:08:32+00:00",
+      "age": 12.5810182925,
+      "sources": [
+        {
+          "name": "Newsbook",
+          "title": "BOV webinar helps businesses navigate international sanctions",
+          "url": "https://newsbook.com.mt/en/bov-webinar-helps-businesses-navigate-international-sanctions/",
+          "date": "2026-11-10T17:08:32+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": true,
+      "score": 6.15,
+      "expanded": "Bank of Valletta hosted a webinar that attracted many businesses, aiming to explain international sanctions risks, expectations, warning signs, and decision‑making guidance.",
+      "why": "The session offered companies tools to avoid sanctions violations and protect operations.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Crime, War & Justice",
-      "title": "Gatineau Park foliage reveals local Cold War nuclear testing legacy",
-      "summary": "For more than six decades, local scientists have collected sugar maple leaves from Gatineau Park to measure their radiocarbon levels, creating the longest continuous record of its kind.",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-gatineau-foliage-reveals-local-cold.html",
-      "date": "2026-11-10T00:40:08+00:00",
-      "age": 13.485759892222221,
+      "title": "Investigation: Fungus may have killed Atlantic Forest amphibians in the 1970s and ’80s",
+      "summary": "In the 1970s and ’80s, frogs in Brazil’s Atlantic Forest began dying off.",
+      "source": "Mongabay",
+      "url": "https://news.mongabay.com/2026/11/investigation-fungus-may-have-killed-atlantic-forest-amphibians-in-the-1979s-and-80s/",
+      "date": "2026-11-10T21:24:07+00:00",
+      "age": 8.321296070277777,
       "sources": [
         {
-          "name": "Phys.org",
-          "title": "Gatineau Park foliage reveals local Cold War nuclear testing legacy",
-          "url": "https://phys.org/news/2026-11-gatineau-foliage-reveals-local-cold.html",
-          "date": "2026-11-10T00:40:08+00:00"
+          "name": "Mongabay",
+          "title": "Investigation: Fungus may have killed Atlantic Forest amphibians in the 1970s and ’80s",
+          "url": "https://news.mongabay.com/2026/11/investigation-fungus-may-have-killed-atlantic-forest-amphibians-in-the-1979s-and-80s/",
+          "date": "2026-11-10T21:24:07+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.63
+      "score": 5.77,
+      "expanded": "In the 1970s and 1980s, many frogs in Brazil’s Atlantic Forest died. Researchers had suggested causes such as cold snaps or acid rain. Recent work indicates the pathogen Batrachochytrium dendrobatidis (Bd), a contagious fungus that attacks amphibian skin, likely caused the deaths.",
+      "why": "It resolves a long‑standing mystery about a mass amphibian die‑off in a biodiverse region.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Books & Authors",
-      "title": "M John Harrison becomes first science fiction author to win the Booker prize",
-      "summary": "isionary writer gets the recognition he deserves Eighty-one-year-old M John Harrison has won the Booker prize for The End of Everything , a postapocalyptic novel set on a near-future Kent coast, becoming the oldest winner in the award’s history.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
-      "date": "2026-11-09T22:00:20+00:00",
-      "age": 16.149093225555553,
+      "cat": "Major World Events",
+      "title": "Why Canada is budgeting for extreme earthquake preparedness",
+      "summary": "Prime Minister Mark Carney's second budget proposal aims to help Canadians prepare for the possibility of a major earthquake.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/politics/extreme-earthquake-insurance-canada-budget-9.7415611?cmp=rss",
+      "date": "2026-11-10T21:16:39+00:00",
+      "age": 8.445740514722221,
       "sources": [
         {
-          "name": "The Guardian",
-          "title": "M John Harrison becomes first science fiction author to win the Booker prize",
-          "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
-          "date": "2026-11-09T22:00:20+00:00"
+          "name": "CBC News",
+          "title": "Why Canada is budgeting for extreme earthquake preparedness",
+          "url": "https://www.cbc.ca/news/politics/extreme-earthquake-insurance-canada-budget-9.7415611?cmp=rss",
+          "date": "2026-11-10T21:16:39+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.55,
-      "expanded": "Eighty‑one‑year‑old M John Harrison won the Booker Prize for his post‑apocalyptic novel *The End of Everything*, set on a near‑future Kent coast. He is the oldest winner in the award’s history and the first author from the bona fide science‑fiction world to receive the prize.",
-      "why": "It marks a historic first for the Booker, recognizing a science‑fiction author and expanding the genre’s reach in mainstream literary awards.",
+      "score": 5.77
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "‘Garbage,’ ‘egregious,’ ‘an assault’: museum chair warns AI slop on Inuk war hero John Shiwak making rounds",
+      "summary": "A post purporting to be a true account of Inuk war hero John Shiwak’s WW I military service is circulating and its has chair of the Royal Newfoundland Regiment Museum Frank Gogos calling it out as “garbage.”",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/john-shiwak-ai-post-9.7416033?cmp=rss",
+      "date": "2026-11-10T19:53:12+00:00",
+      "age": 9.836573848055556,
+      "sources": [
+        {
+          "name": "CBC News",
+          "title": "‘Garbage,’ ‘egregious,’ ‘an assault’: museum chair warns AI slop on Inuk war hero John Shiwak making rounds",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/john-shiwak-ai-post-9.7416033?cmp=rss",
+          "date": "2026-11-10T19:53:12+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.73,
+      "expanded": "A post claiming to detail Inuk war hero John Shiwak’s World War I service has been shared online. Frank Gogos, chair of the Royal Newfoundland Regiment Museum, has publicly dismissed the account as \"garbage,\" labeling it \"egregious\" and an \"assault.\"",
+      "why": "The claim spreads misinformation about a respected historical figure, potentially distorting public understanding of his legacy.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Politics & Government",
-      "title": "Israel's new parliament to be sworn in as leaders compete to form government",
-      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T12:25:48+00:00",
-      "age": 1.7246487811111113,
+      "title": "Spanish election: How bad is the housing crisis?",
+      "summary": "Your 5-chart guide to the problem that could bring down the Spanish government.",
+      "source": "Politico Europe",
+      "url": "https://www.politico.eu/article/spain-housing-crisis-election-rising-house-prices-rents/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "date": "2026-11-11T03:00:00+00:00",
+      "age": 2.7232405147222223,
       "sources": [
         {
-          "name": "BBC News",
-          "title": "Israel's new parliament to be sworn in as leaders compete to form government",
-          "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-10T12:25:48+00:00"
-        },
-        {
-          "name": "France 24",
-          "title": "Israel's new parliament to be sworn in as Eisenkot prepares government",
-          "url": "https://www.france24.com/en/middle-east/20261110-israel-s-new-parliament-to-be-sworn-in-as-eisenkot-forms-government",
-          "date": "2026-11-10T09:17:56+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 6.45,
-      "expanded": "Israel’s new Knesset will be sworn in on Tuesday, with Prime Minister Benjamin Netanyahu’s bloc and opposition leader Gadi Eisenkot’s camp both lacking a majority. Eisenkot has been given a mandate to form a coalition government.",
-      "why": "The outcome will determine Israel’s next government and could shift policy direction.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    }
-  ],
-  "afternoon": [
-    {
-      "cat": "Health & Wellness",
-      "title": "The vaccine limbo in the US is worsening the measles outbreak",
-      "summary": "ced three deaths associated with measles last week, among them a seven-month-old baby in New York and a postpartum woman in Pennsylvania , underscoring the need for a more aggressive vaccination approach – but US recommendations haven’t changed.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/measles-outbreak-vaccinations-acip",
-      "date": "2026-11-10T15:00:46+00:00",
-      "age": 0.6330395594444445,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "The vaccine limbo in the US is worsening the measles outbreak",
-          "url": "https://www.theguardian.com/us-news/2026/nov/10/measles-outbreak-vaccinations-acip",
-          "date": "2026-11-10T15:00:46+00:00"
+          "name": "Politico Europe",
+          "title": "Spanish election: How bad is the housing crisis?",
+          "url": "https://www.politico.eu/article/spain-housing-crisis-election-rising-house-prices-rents/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "date": "2026-11-11T03:00:00+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 7.98,
-      "expanded": "The United States reported three measles‑related deaths last week, including a seven‑month‑old infant in New York and a postpartum woman in Pennsylvania. The outbreak has risen sharply while the Advisory Committee on Immunization Practices (ACIP) has been dismantled, leaving vaccination recommendations unchanged.",
-      "why": "The lack of updated guidance amid a growing outbreak highlights the urgency for a more aggressive vaccination strategy.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+      "score": 4.92
     }
   ],
-  "feed_warnings": [],
-  "afternoon_checked_at": "2026-11-10T16:38:44.942402+01:00"
+  "afternoon": [],
+  "feed_warnings": []
 }
