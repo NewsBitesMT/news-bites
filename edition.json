@@ -284,6 +284,64 @@
       "score": 4.92
     }
   ],
-  "afternoon": [],
-  "feed_warnings": []
+  "afternoon": [
+    {
+      "cat": "Crime, War & Justice",
+      "title": "US House votes to derail impeachment of Defense Secretary Hegseth",
+      "summary": "Republicans in ​the US House ​of Representatives banded together on Tuesday ​to ‌derail ⁠aneffort to impeach ‌Defense Secretary Pete Hegseth. Fraser Jackson, our correspondant in Washington DC, has more.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-house-votes-to-derail-impeachment-of-defense-secretary-hegseth",
+      "date": "2026-11-11T12:17:22+00:00",
+      "age": 3.399322073611111,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "US House votes to derail impeachment of Defense Secretary Hegseth",
+          "url": "https://www.france24.com/en/us-house-votes-to-derail-impeachment-of-defense-secretary-hegseth",
+          "date": "2026-11-11T12:17:22+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 8.91
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Deadliest Ebola outbreak in Congo’s history reaches 11,000 cases",
+      "summary": "Congo's Ebola outbreak has become the deadliest in the country's history, with more than 11,000 cases and over 5,000 deaths recorded so far as conflict, strikes and mistrust hamper response.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases",
+      "date": "2026-11-11T10:56:06+00:00",
+      "age": 4.7537665180555555,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "Deadliest Ebola outbreak in Congo’s history reaches 11,000 cases",
+          "url": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases",
+          "date": "2026-11-11T10:56:06+00:00"
+        },
+        {
+          "name": "CBC News",
+          "title": "Congo's Ebola outbreak tops 11,000 cases as disease keeps spreading",
+          "url": "https://www.cbc.ca/news/health/congo-ebola-outbreak-cases-9.7417666?cmp=rss",
+          "date": "2026-11-11T09:54:39+00:00"
+        },
+        {
+          "name": "NPR",
+          "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
+          "url": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
+          "date": "2026-11-11T09:16:01+00:00"
+        }
+      ],
+      "source_count": 3,
+      "malta_relevant": false,
+      "score": 7.87,
+      "expanded": "Congo’s Ebola outbreak has surpassed 11,000 confirmed cases, with more than 5,000 deaths, marking it the deadliest in the country’s history. Health ministry data report 11,042 infections and 5,387 fatalities, nearly half of those infected.",
+      "why": "The high case and death counts highlight the severe public health crisis and the challenges of containment amid conflict and mistrust.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    }
+  ],
+  "feed_warnings": [],
+  "afternoon_checked_at": "2026-11-11T16:41:19.559453+01:00"
 }
