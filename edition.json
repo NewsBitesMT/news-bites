@@ -338,6 +338,128 @@
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
   ],
-  "afternoon": [],
-  "feed_warnings": []
+  "afternoon": [
+    {
+      "cat": "Major World Events",
+      "title": "Nvidia CEO Jensen Huang resigns after revelations on extramarital affairs",
+      "summary": "Jensen Huang resigned as chief executive of AI giant Nvidia on Thursday, November 12, after revelations he had two extramarital affairs, including one with a woman accused of spying for China.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261112-nvidia-ceo-jensen-huang-resigns-after-revelations-on-extramarital-affairs",
+      "date": "2026-11-12T15:46:08+00:00",
+      "age": 0.08188240416666667,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "Nvidia CEO Jensen Huang resigns after revelations on extramarital affairs",
+          "url": "https://www.france24.com/en/video/20261112-nvidia-ceo-jensen-huang-resigns-after-revelations-on-extramarital-affairs",
+          "date": "2026-11-12T15:46:08+00:00"
+        },
+        {
+          "name": "France 24",
+          "title": "Nvidia CEO Jensen Huang steps down",
+          "url": "https://www.france24.com/en/video/20261112-nvidia-ceo-jensen-huang-steps-down",
+          "date": "2026-11-12T15:45:53+00:00"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+          "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+          "date": "2026-11-12T15:31:10+00:00"
+        },
+        {
+          "name": "Al Jazeera English",
+          "title": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss",
+          "date": "2026-11-12T14:44:54+00:00"
+        },
+        {
+          "name": "Al Jazeera English",
+          "title": "Nvidia CEO Jensen Huang resigns",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-resigns?traffic_source=rss",
+          "date": "2026-11-12T14:40:20+00:00"
+        }
+      ],
+      "source_count": 3,
+      "malta_relevant": false,
+      "score": 9.0,
+      "expanded": "Nvidia CEO Jensen Huang stepped down on November 12 after reports that he had two extramarital affairs, one involving a woman alleged to be a Chinese spy and another with a company employee. The company announced an interim replacement, CFO Colette Kress, pending a permanent successor.",
+      "why": "The resignation raises concerns about corporate governance and national security, given the alleged ties to a foreign intelligence figure.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Business & Marketing",
+      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+      "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12T15:26:39+00:00",
+      "age": 0.40660462638888883,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-12T15:26:39+00:00"
+        },
+        {
+          "name": "PBS NewsHour",
+          "title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+          "url": "https://www.pbs.org/newshour/economy/nvidia-ceo-jensen-huang-resigns-after-his-affair-raises-national-security-concerns",
+          "date": "2026-11-12T14:10:01+00:00"
+        },
+        {
+          "name": "France 24",
+          "title": "Nvidia CEO Jensen Huang resigns after affair raises national security concerns",
+          "url": "https://www.france24.com/en/asia-pacific/20261112-nvidia-ceo-jensen-huang-to-step-down-after-affair",
+          "date": "2026-11-12T14:06:37+00:00"
+        },
+        {
+          "name": "Deutsche Welle",
+          "title": "Nvidia CEO Jensen Huang resigns as scandal mounts over alleged affair with suspected Chinese spy",
+          "url": "https://www.dw.com/en/nvidia-ceo-jensen-huang-resigns-as-scandal-mounts-over-alleged-affair-with-suspected-chinese-spy/a-79931658?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-12T14:02:00+00:00"
+        }
+      ],
+      "source_count": 4,
+      "malta_relevant": false,
+      "score": 8.99,
+      "expanded": "Nvidia CEO Jensen Huang resigned after reports of a second extramarital affair. The company announced his departure, citing the affair with a woman accused of spying for China and a separate affair with an Nvidia employee who reports to him. CFO Colette Kress will act as interim CEO while the board searches for a successor.",
+      "why": "The resignation follows national‑security concerns linked to Huang’s alleged relationships, potentially affecting Nvidia’s leadership stability and investor confidence.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+      "summary": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+      "date": "2026-11-12T14:22:50+00:00",
+      "age": 1.4702157375,
+      "sources": [
+        {
+          "name": "NPR",
+          "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+          "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+          "date": "2026-11-12T14:22:50+00:00"
+        },
+        {
+          "name": "CBC News",
+          "title": "Indonesia's vice-president resigns after academic credentials questioned",
+          "url": "https://www.cbc.ca/news/world/indonesia-vice-president-resigns-9.7418723?cmp=rss",
+          "date": "2026-11-12T09:57:39+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 7.46,
+      "expanded": "Indonesia’s Vice‑President Gibran Rakabuming Raka, son of former President Joko Widodo, resigned after the Constitutional Court and Supreme Court found that the documents he submitted for his overseas education did not satisfy election eligibility requirements.",
+      "why": "The resignation highlights the importance of accurate academic credentials for public office and raises questions about the vetting process for high‑level candidates.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    }
+  ],
+  "feed_warnings": [],
+  "afternoon_checked_at": "2026-11-12T16:51:02.776638+01:00"
 }
