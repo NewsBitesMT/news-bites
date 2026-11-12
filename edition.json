@@ -1,87 +1,173 @@
 {
-  "edition_date": "2026-11-11",
-  "generated_at": "2026-11-11T06:43:23.665836+01:00",
+  "edition_date": "2026-11-12",
+  "generated_at": "2026-11-12T06:46:01.152552+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
     {
-      "cat": "Business & Marketing",
-      "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
-      "summary": "k Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economy The Bank of England is risking higher interest rates for longer after a hesitant response to rising inflation , according to leading thinktank.",
+      "cat": "Books & Authors",
+      "title": "‘We are dream-walking into a desperate situation’: the Booker prize winner on his sci-fi alien invasion wakeup call",
+      "summary": "He is a sci-fi titan but M John Harrison has just exploded into the mainstream – with The End of Everything, an apocalyptic novel set on the Kent coast.",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
-      "date": "2026-11-11T00:01:23+00:00",
-      "age": 5.700184959166666,
+      "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-prize-winner-sci-fi-alien-invasion-kent",
+      "date": "2026-11-11T05:00:30+00:00",
+      "age": 24.758653490555556,
       "sources": [
         {
           "name": "The Guardian",
-          "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
-          "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
-          "date": "2026-11-11T00:01:23+00:00"
+          "title": "‘We are dream-walking into a desperate situation’: the Booker prize winner on his sci-fi alien invasion wakeup call",
+          "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-prize-winner-sci-fi-alien-invasion-kent",
+          "date": "2026-11-11T05:00:30+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 10.84,
-      "expanded": "The National Institute of Economic and Social Research (Niesr) argues that the Bank of England’s modest interest‑rate increase last week may cause inflation to remain above the 2 % target until at least 2030, implying the central bank could keep rates higher for an extended period.",
-      "why": "If inflation stays above target, the Bank may need to maintain higher rates longer, affecting borrowing costs and economic growth.",
+      "score": 12.31,
+      "expanded": "M John Harrison, 81, became the oldest author to win the Booker Prize for his 13th novel, The End of Everything, a sci‑fi story set on the Kent coast that explores an alien takeover. It is the first science‑fiction book to receive the award in the prize’s 58‑year history.",
+      "why": "It marks a milestone for the Booker, expanding its genre scope and highlighting contemporary concerns about non‑human intelligence.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Major World Events",
-      "title": "Savers urged to check interest rates on accounts as Macquarie admits failings",
-      "summary": "Macquarie Bank has admitted to failures in the promotion of its \"welcome\" interest rate for new savings account customers.",
+      "title": "ANZ boss warns global markets in 'dangerous situation' as interest rates rise",
+      "summary": "ANZ boss Nuno Matos says he sees a \"dangerous situation\" of rising rates and frothy equity markets.",
       "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-11-11/asic-sues-macquarie-for-savings-rates-failures/107371760",
-      "date": "2026-11-10T22:16:06+00:00",
-      "age": 7.454907181388888,
+      "url": "https://www.abc.net.au/news/2026-11-12/anz-boss-says-global-markets-in-dangerous-situation/107377392",
+      "date": "2026-11-12T04:09:34+00:00",
+      "age": 1.6075423794444443,
       "sources": [
         {
           "name": "ABC News Australia",
-          "title": "Savers urged to check interest rates on accounts as Macquarie admits failings",
-          "url": "https://www.abc.net.au/news/2026-11-11/asic-sues-macquarie-for-savings-rates-failures/107371760",
-          "date": "2026-11-10T22:16:06+00:00"
+          "title": "ANZ boss warns global markets in 'dangerous situation' as interest rates rise",
+          "url": "https://www.abc.net.au/news/2026-11-12/anz-boss-says-global-markets-in-dangerous-situation/107377392",
+          "date": "2026-11-12T04:09:34+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 7.79
+      "score": 7.96
     },
     {
       "cat": "Major World Events",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T21:21:55+00:00",
-      "age": 8.357962736944444,
+      "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough",
+      "summary": "Russia and Ukraine agreed to a large exchange of prisoners of war, both sides said Wednesday as two days of U.S.-mediated talks concluded with no major breakthrough on ending Moscow's nearly 5-year-old full-scale invasion.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough",
+      "date": "2026-11-11T22:59:17+00:00",
+      "age": 6.778931268333333,
       "sources": [
         {
-          "name": "BBC News",
-          "title": "First day of Ukraine peace talks constructive, Zelensky says",
-          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-10T21:21:55+00:00"
+          "name": "PBS NewsHour",
+          "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough",
+          "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough",
+          "date": "2026-11-11T22:59:17+00:00"
         },
         {
-          "name": "Euronews",
-          "title": "Europe must stop 'begging' for seat at Ukraine peace talks, ex-NATO chief warns",
-          "url": "https://www.euronews.com/2026/11/10/europe-must-stop-begging-for-seat-at-ukraine-peace-talks-ex-nato-chief-warns",
-          "date": "2026-11-10T10:56:29+00:00"
+          "name": "France 24",
+          "title": "Russia and Ukraine agree to major prisoner swap as peace talks end",
+          "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end",
+          "date": "2026-11-11T21:46:12+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+          "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-11T18:04:58+00:00"
         },
         {
           "name": "NPR",
-          "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
-          "url": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
-          "date": "2026-11-10T09:38:34+00:00"
+          "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+          "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+          "date": "2026-11-11T13:30:00+00:00"
+        },
+        {
+          "name": "Deutsche Welle",
+          "title": "US, Russia, Ukraine wrap up Abu Dhabi talks with prisoner exchange",
+          "url": "https://www.dw.com/en/us-russia-ukraine-wrap-up-abu-dhabi-talks-with-prisoner-exchange/live-79906232?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-10T07:09:00+00:00"
         }
       ],
-      "source_count": 3,
+      "source_count": 5,
       "malta_relevant": false,
-      "score": 7.77,
-      "expanded": "Delegations from Kyiv, Washington and Moscow met in Abu Dhabi for the first trilateral Ukraine peace talks since February, with President Zelensky describing the first day as constructive. Former NATO chief Anders Fogh Rasumussen cautioned Europe not to beg for a seat at the US‑brokered ceasefire negotiations, emphasizing that influence comes from strength. President Trump’s senior envoy, Jared Kushner, is also present in Abu Dhabi with Russian and Ukrainian negotiators to resume talks.",
-      "why": "The talks represent a rare opportunity for direct dialogue between Ukraine, Russia and the US, potentially shaping the conflict’s resolution.",
+      "score": 7.81,
+      "expanded": "Russia and Ukraine agreed to a large prisoner exchange after two days of U.S.-mediated talks in Abu Dhabi, but the talks ended without a major breakthrough on ending the conflict.",
+      "why": "",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Environment & Climate",
+      "title": "'Everything we love is at stake': Greta Thunberg blasts COP climate summits as being full of lobbyists",
+      "summary": "Swedish activist Greta Thunberg and UN Secretary General Antonio Guterres blasted fossil fuel companies for \"killing our planet\".",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/11/everything-we-love-is-at-stake-greta-thunberg-blasts-cop-climate-summits-as-being-full-of-",
+      "date": "2026-11-11T11:00:45+00:00",
+      "age": 18.75448682388889,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "'Everything we love is at stake': Greta Thunberg blasts COP climate summits as being full of lobbyists",
+          "url": "https://www.euronews.com/2026/11/11/everything-we-love-is-at-stake-greta-thunberg-blasts-cop-climate-summits-as-being-full-of-",
+          "date": "2026-11-11T11:00:45+00:00"
+        },
+        {
+          "name": "Mongabay",
+          "title": "Greta Thunberg arrives at UN climate talks saying ‘everything we love is at stake’",
+          "url": "https://news.mongabay.com/short-article/2026/11/greta-thunberg-arrives-at-un-climate-talks-saying-everything-we-love-is-at-stake/",
+          "date": "2026-11-10T16:17:23+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 6.98,
+      "expanded": "Greta Thunberg arrived at the UN climate meeting COP31 in Antalya, Turkey, and criticized fossil‑fuel companies for harming the planet, urging that people and the planet be prioritized over profits and power.",
+      "why": "Her remarks highlight growing pressure on COP summits to address corporate influence in climate policy.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
+      "summary": "The fine came after President Lula's coalition filed a complaint. The court said there was no evidence of intent to influence the election. Meta said it will defend itself against \"false allegations.\"",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-11T15:17:00+00:00",
+      "age": 14.483653490555554,
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
+          "url": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-11T15:17:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.6,
+      "expanded": "The Brazilian electoral court imposed a fine on Meta following a complaint filed by President Lula’s coalition, concluding that there was no evidence of intentional election bias. Meta responded that it will defend itself against the allegations.",
+      "why": "The ruling underscores Brazil’s regulatory stance on social media influence during elections.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Iran war live: IRGC chief says sanctions won’t stop missile programme",
+      "summary": "Israel orders military to step up preparations for possible attack on Iran as IRGC chief pledges missile development.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+      "date": "2026-11-12T00:00:44+00:00",
+      "age": 5.7547646016666665,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "title": "Iran war live: IRGC chief says sanctions won’t stop missile programme",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+          "date": "2026-11-12T00:00:44+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.34
     },
     {
       "cat": "Books & Authors",
@@ -90,7 +176,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T09:35:15+00:00",
-      "age": 20.135740514722222,
+      "age": 44.17948682388889,
       "sources": [
         {
           "name": "BBC News",
@@ -101,97 +187,129 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.44
-    },
-    {
-      "cat": "Books & Authors",
-      "title": "Jarvis Cocker on judging the Booker prize: ‘It’s just like being in a band’",
-      "summary": "him for judging a literary prize, reading 163 books while on tour, and feeling like the odd one out on the panel • M John Harrison becomes the first science fiction author to win the Booker prize Judging the Booker prize is like being in a band.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/nov/10/jarvis-cocker-on-judging-the-booker-prize-its-just-like-being-in-a-band",
-      "date": "2026-11-10T09:00:34+00:00",
-      "age": 20.713796070277777,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "Jarvis Cocker on judging the Booker prize: ‘It’s just like being in a band’",
-          "url": "https://www.theguardian.com/books/2026/nov/10/jarvis-cocker-on-judging-the-booker-prize-its-just-like-being-in-a-band",
-          "date": "2026-11-10T09:00:34+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.42,
-      "expanded": "Jarvis Cocker, former lead singer of Pulp, said judging the Booker prize feels like being in a band, comparing the diverse panel to a group of musicians who blend different strengths. He noted reading 163 books while touring and feeling like the odd one out on the panel.",
-      "why": "It shows how a musician’s experience can translate to literary evaluation, highlighting the interdisciplinary nature of the Booker judging process.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Iran war live: US House blocks Hegseth impeachment with 11 Democrats absent",
-      "summary": "US House blocks bid to impeach Defense Secretary Pete Hegseth over US-Israel war on Iran as 11 Democrats miss vote.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
-      "date": "2026-11-11T00:01:26+00:00",
-      "age": 5.699351625833333,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "title": "Iran war live: US House blocks Hegseth impeachment with 11 Democrats absent",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
-          "date": "2026-11-11T00:01:26+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.34
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Brazil deploys national security force to Indigenous territory following invasion",
-      "summary": "Two months ago, more than 500 people invaded Brazil’s Ituna/Itatá Indigenous Territory in Pará, northern Brazil, where the isolated Igarapé Ipiaçava Indigenous people live.",
-      "source": "Mongabay",
-      "url": "https://news.mongabay.com/short-article/2026/11/brazil-deploys-national-security-force-to-indigenous-territory-following-invasion/",
-      "date": "2026-11-10T01:01:07+00:00",
-      "age": 28.70462940361111,
-      "sources": [
-        {
-          "name": "Mongabay",
-          "title": "Brazil deploys national security force to Indigenous territory following invasion",
-          "url": "https://news.mongabay.com/short-article/2026/11/brazil-deploys-national-security-force-to-indigenous-territory-following-invasion/",
-          "date": "2026-11-10T01:01:07+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.2,
-      "expanded": "More than 500 people invaded the Ituna/Itatá Indigenous Territory in Pará, where the isolated Igarapé Ipiaçava community lives. In response, Brazil has sent the National Public Security Force for 180 days to assist the Indigenous Affairs Agency (Funai) in protecting the territory.",
-      "why": "The deployment aims to safeguard the rights and safety of a vulnerable indigenous group threatened by external intrusion.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+      "score": 6.0
     },
     {
       "cat": "Major World Events",
-      "title": "BOV webinar helps businesses navigate international sanctions",
-      "summary": "Bank of Valletta brought businesses together for a well-attended webinar to help them understand international sanctions risks and expectations, recognise warning signs, and make informed decisions.",
-      "source": "Newsbook",
-      "url": "https://newsbook.com.mt/en/bov-webinar-helps-businesses-navigate-international-sanctions/",
-      "date": "2026-11-10T17:08:32+00:00",
-      "age": 12.5810182925,
+      "title": "Deadliest Ebola outbreak in Congo’s history reaches 11,000 cases",
+      "summary": "Congo's Ebola outbreak has become the deadliest in the country's history, with more than 11,000 cases and over 5,000 deaths recorded so far as conflict, strikes and mistrust hamper response.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases",
+      "date": "2026-11-11T10:56:06+00:00",
+      "age": 18.83198682388889,
       "sources": [
         {
-          "name": "Newsbook",
-          "title": "BOV webinar helps businesses navigate international sanctions",
-          "url": "https://newsbook.com.mt/en/bov-webinar-helps-businesses-navigate-international-sanctions/",
-          "date": "2026-11-10T17:08:32+00:00"
+          "name": "Euronews",
+          "title": "Deadliest Ebola outbreak in Congo’s history reaches 11,000 cases",
+          "url": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases",
+          "date": "2026-11-11T10:56:06+00:00"
+        },
+        {
+          "name": "NPR",
+          "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
+          "url": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
+          "date": "2026-11-11T09:16:01+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 5.98,
+      "expanded": "Congo’s Ebola outbreak has surpassed 11,000 confirmed cases and more than 5,000 deaths, marking it as the country’s deadliest epidemic. The spread is hindered by ongoing conflict, strikes, and public mistrust of health measures.",
+      "why": "The high case and death counts highlight a severe public health crisis, stressing the need for effective intervention amid political and social challenges.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12T04:00:30+00:00",
+      "age": 1.7586534905555555,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-12T04:00:30+00:00"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
+          "date": "2026-11-12T00:11:12+00:00"
+        },
+        {
+          "name": "France 24",
+          "title": "Democrat Scott Colom wins historic Senate race in Mississippi",
+          "url": "https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi",
+          "date": "2026-11-11T23:47:17+00:00"
+        },
+        {
+          "name": "Deutsche Welle",
+          "title": "Mississippi Senate race: Democrat Scott Colom defeats Republican Cindy Hyde-Smith",
+          "url": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-11T23:33:00+00:00"
+        },
+        {
+          "name": "Al Jazeera English",
+          "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
+          "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
+          "date": "2026-11-11T23:05:34+00:00"
+        },
+        {
+          "name": "PBS NewsHour",
+          "title": "Scott Colom wins Senate election in Mississippi",
+          "url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
+          "date": "2026-11-11T23:01:15+00:00"
+        }
+      ],
+      "source_count": 6,
+      "malta_relevant": false,
+      "score": 5.95
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Indonesian VP resigns over education qualification row",
+      "summary": "Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
+      "date": "2026-11-12T02:22:48+00:00",
+      "age": 3.386986823888889,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "title": "Indonesian VP resigns over education qualification row",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
+          "date": "2026-11-12T02:22:48+00:00"
         }
       ],
       "source_count": 1,
-      "malta_relevant": true,
-      "score": 6.15,
-      "expanded": "Bank of Valletta hosted a webinar that attracted many businesses, aiming to explain international sanctions risks, expectations, warning signs, and decision‑making guidance.",
-      "why": "The session offered companies tools to avoid sanctions violations and protect operations.",
+      "malta_relevant": false,
+      "score": 5.91
+    },
+    {
+      "cat": "Books & Authors",
+      "title": "Does M John Harrison’s Booker win mean science fiction is finally accepted by a ‘snobby’ literary establishment?",
+      "summary": "Kazuo Ishiguro, Jeff VanderMeer, Olivia Laing and other writers weigh in on the publishing world’s genre wars As M John Harrison was announced as the Booker prize winner on Monday evening, the 81-year-old looked gobsmacked.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-science-fiction",
+      "date": "2026-11-11T16:44:36+00:00",
+      "age": 13.023653490555555,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Does M John Harrison’s Booker win mean science fiction is finally accepted by a ‘snobby’ literary establishment?",
+          "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-science-fiction",
+          "date": "2026-11-11T16:44:36+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.64,
+      "expanded": "M John Harrison, 81, won the Booker Prize for a fantastical novel, marking the first time a science‑fiction writer has received the award. The announcement surprised him and has drawn praise from prominent authors such as China Miéville.",
+      "why": "It signals a shift in the literary establishment, acknowledging genre fiction in a traditionally mainstream prize.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
@@ -202,7 +320,7 @@
       "source": "Mongabay",
       "url": "https://news.mongabay.com/2026/11/investigation-fungus-may-have-killed-atlantic-forest-amphibians-in-the-1979s-and-80s/",
       "date": "2026-11-10T21:24:07+00:00",
-      "age": 8.321296070277777,
+      "age": 32.365042379444446,
       "sources": [
         {
           "name": "Mongabay",
@@ -213,135 +331,13 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.77,
-      "expanded": "In the 1970s and 1980s, many frogs in Brazil’s Atlantic Forest died. Researchers had suggested causes such as cold snaps or acid rain. Recent work indicates the pathogen Batrachochytrium dendrobatidis (Bd), a contagious fungus that attacks amphibian skin, likely caused the deaths.",
-      "why": "It resolves a long‑standing mystery about a mass amphibian die‑off in a biodiverse region.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Why Canada is budgeting for extreme earthquake preparedness",
-      "summary": "Prime Minister Mark Carney's second budget proposal aims to help Canadians prepare for the possibility of a major earthquake.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/politics/extreme-earthquake-insurance-canada-budget-9.7415611?cmp=rss",
-      "date": "2026-11-10T21:16:39+00:00",
-      "age": 8.445740514722221,
-      "sources": [
-        {
-          "name": "CBC News",
-          "title": "Why Canada is budgeting for extreme earthquake preparedness",
-          "url": "https://www.cbc.ca/news/politics/extreme-earthquake-insurance-canada-budget-9.7415611?cmp=rss",
-          "date": "2026-11-10T21:16:39+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.77
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "‘Garbage,’ ‘egregious,’ ‘an assault’: museum chair warns AI slop on Inuk war hero John Shiwak making rounds",
-      "summary": "A post purporting to be a true account of Inuk war hero John Shiwak’s WW I military service is circulating and its has chair of the Royal Newfoundland Regiment Museum Frank Gogos calling it out as “garbage.”",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/john-shiwak-ai-post-9.7416033?cmp=rss",
-      "date": "2026-11-10T19:53:12+00:00",
-      "age": 9.836573848055556,
-      "sources": [
-        {
-          "name": "CBC News",
-          "title": "‘Garbage,’ ‘egregious,’ ‘an assault’: museum chair warns AI slop on Inuk war hero John Shiwak making rounds",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/john-shiwak-ai-post-9.7416033?cmp=rss",
-          "date": "2026-11-10T19:53:12+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.73,
-      "expanded": "A post claiming to detail Inuk war hero John Shiwak’s World War I service has been shared online. Frank Gogos, chair of the Royal Newfoundland Regiment Museum, has publicly dismissed the account as \"garbage,\" labeling it \"egregious\" and an \"assault.\"",
-      "why": "The claim spreads misinformation about a respected historical figure, potentially distorting public understanding of his legacy.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Spanish election: How bad is the housing crisis?",
-      "summary": "Your 5-chart guide to the problem that could bring down the Spanish government.",
-      "source": "Politico Europe",
-      "url": "https://www.politico.eu/article/spain-housing-crisis-election-rising-house-prices-rents/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "date": "2026-11-11T03:00:00+00:00",
-      "age": 2.7232405147222223,
-      "sources": [
-        {
-          "name": "Politico Europe",
-          "title": "Spanish election: How bad is the housing crisis?",
-          "url": "https://www.politico.eu/article/spain-housing-crisis-election-rising-house-prices-rents/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "date": "2026-11-11T03:00:00+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.92
-    }
-  ],
-  "afternoon": [
-    {
-      "cat": "Crime, War & Justice",
-      "title": "US House votes to derail impeachment of Defense Secretary Hegseth",
-      "summary": "Republicans in ​the US House ​of Representatives banded together on Tuesday ​to ‌derail ⁠aneffort to impeach ‌Defense Secretary Pete Hegseth. Fraser Jackson, our correspondant in Washington DC, has more.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-house-votes-to-derail-impeachment-of-defense-secretary-hegseth",
-      "date": "2026-11-11T12:17:22+00:00",
-      "age": 3.399322073611111,
-      "sources": [
-        {
-          "name": "France 24",
-          "title": "US House votes to derail impeachment of Defense Secretary Hegseth",
-          "url": "https://www.france24.com/en/us-house-votes-to-derail-impeachment-of-defense-secretary-hegseth",
-          "date": "2026-11-11T12:17:22+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 8.91
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Deadliest Ebola outbreak in Congo’s history reaches 11,000 cases",
-      "summary": "Congo's Ebola outbreak has become the deadliest in the country's history, with more than 11,000 cases and over 5,000 deaths recorded so far as conflict, strikes and mistrust hamper response.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases",
-      "date": "2026-11-11T10:56:06+00:00",
-      "age": 4.7537665180555555,
-      "sources": [
-        {
-          "name": "Euronews",
-          "title": "Deadliest Ebola outbreak in Congo’s history reaches 11,000 cases",
-          "url": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases",
-          "date": "2026-11-11T10:56:06+00:00"
-        },
-        {
-          "name": "CBC News",
-          "title": "Congo's Ebola outbreak tops 11,000 cases as disease keeps spreading",
-          "url": "https://www.cbc.ca/news/health/congo-ebola-outbreak-cases-9.7417666?cmp=rss",
-          "date": "2026-11-11T09:54:39+00:00"
-        },
-        {
-          "name": "NPR",
-          "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
-          "url": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
-          "date": "2026-11-11T09:16:01+00:00"
-        }
-      ],
-      "source_count": 3,
-      "malta_relevant": false,
-      "score": 7.87,
-      "expanded": "Congo’s Ebola outbreak has surpassed 11,000 confirmed cases, with more than 5,000 deaths, marking it the deadliest in the country’s history. Health ministry data report 11,042 infections and 5,387 fatalities, nearly half of those infected.",
-      "why": "The high case and death counts highlight the severe public health crisis and the challenges of containment amid conflict and mistrust.",
+      "score": 5.1,
+      "expanded": "In the 1970s and 1980s, many frogs in Brazil’s Atlantic Forest died. Recent research suggests the pathogen Batrachochytrium dendrobatidis (Bd) caused the deaths, solving a long‑standing mystery.",
+      "why": "Identifying Bd as the cause clarifies past amphibian declines and informs current conservation efforts.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
   ],
-  "feed_warnings": [],
-  "afternoon_checked_at": "2026-11-11T16:41:19.559453+01:00"
+  "afternoon": [],
+  "feed_warnings": []
 }
