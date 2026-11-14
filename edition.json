@@ -1,161 +1,155 @@
 {
-  "edition_date": "2026-11-13",
-  "generated_at": "2026-11-13T06:44:39.385333+01:00",
+  "edition_date": "2026-11-14",
+  "generated_at": "2026-11-14T06:35:32.979879+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
     {
-      "cat": "Books & Authors",
-      "title": "‘We are dream-walking into a desperate situation’: the Booker prize winner on his sci-fi alien invasion wakeup call",
-      "summary": "He is a sci-fi titan but M John Harrison has just exploded into the mainstream – with The End of Everything, an apocalyptic novel set on the Kent coast.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-prize-winner-sci-fi-alien-invasion-kent",
-      "date": "2026-11-11T05:00:30+00:00",
-      "age": 48.735940373333335,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "‘We are dream-walking into a desperate situation’: the Booker prize winner on his sci-fi alien invasion wakeup call",
-          "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-prize-winner-sci-fi-alien-invasion-kent",
-          "date": "2026-11-11T05:00:30+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 12.0,
-      "expanded": "M John Harrison, 81, became the oldest author to win the Booker Prize for his 13th novel, The End of Everything, a science‑fiction story set on the Kent coast that explores an alien invasion and the takeover of non‑human intelligence. It is the first sci‑fi novel to receive the award in the prize’s 58‑year history.",
-      "why": "It marks a historic first for the Booker, expanding the genre recognised by the prize and highlighting contemporary concerns about alien intelligence.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
       "cat": "Major World Events",
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-13T02:01:35+00:00",
-      "age": 3.7178848177777777,
-      "sources": [
-        {
-          "name": "BBC News",
-          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-          "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-13T02:01:35+00:00"
-        },
-        {
-          "name": "France 24",
-          "title": "Live: Zelensky and Kushner confirm that Europe will join next round of Russia-Ukraine talks",
-          "url": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks",
-          "date": "2026-11-13T01:39:42+00:00"
-        },
-        {
-          "name": "Deutsche Welle",
-          "title": "EU leaders tussle over who to send to Ukraine, Russia peace talks",
-          "url": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-12T22:00:00+00:00"
-        },
-        {
-          "name": "France 24",
-          "title": "Zelensky warns Europe over US-Russia talks on broader security arrangements",
-          "url": "https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements",
-          "date": "2026-11-12T19:53:15+00:00"
-        },
-        {
-          "name": "Euronews",
-          "title": "Russia plays down peace talks with Europe after Witkoff raises hopes of breakthrough",
-          "url": "https://www.euronews.com/2026/11/12/russia-plays-down-peace-talks-with-europe-after-witkoff-raises-hopes-of-breakthrough",
-          "date": "2026-11-12T18:31:23+00:00"
-        },
-        {
-          "name": "Deutsche Welle",
-          "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
-          "url": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-12T16:44:00+00:00"
-        }
-      ],
-      "source_count": 4,
-      "malta_relevant": false,
-      "score": 7.9,
-      "expanded": "Ukrainian President Volodymyr Zelensky said it is logical for European leaders to join Russia‑Ukraine peace talks, as Ukraine aims to join the EU. U.S. envoy Jared Kushner confirmed that the next round of talks will include European nations and that Washington is pursuing a large prisoner exchange. Deutsche Welle noted that while Europe’s participation is likely, the specific representatives remain undecided.",
-      "why": "Including European leaders could broaden diplomatic pressure on Russia and align Ukraine’s peace process with EU integration goals.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
-      "summary": "Jensen Huang, long considered the face of the AI revolution, has resigned as Nvidia's President, CEO and board member as sandals over his romantic affairs wiped hundreds of billions of dollars from the company's market value in a matter of days.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261112-jensen-huang-resigns-as-nvidia-ceo-after-mounting-scandals",
-      "date": "2026-11-12T22:10:28+00:00",
-      "age": 7.569829262222222,
-      "sources": [
-        {
-          "name": "France 24",
-          "title": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
-          "url": "https://www.france24.com/en/tv-shows/business/20261112-jensen-huang-resigns-as-nvidia-ceo-after-mounting-scandals",
-          "date": "2026-11-12T22:10:28+00:00"
-        },
-        {
-          "name": "BBC News",
-          "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-12T15:26:39+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 7.29,
-      "expanded": "Nvidia CEO Jensen Huang resigned after reports of a second extramarital affair, which led to a sharp decline in the company’s market value. The resignation followed mounting scandals involving his personal conduct.",
-      "why": "The departure of a key AI industry leader could influence Nvidia’s strategic direction and investor confidence.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Commission set to approve Hungary’s €10bn in post-pandemic recovery fund next week",
-      "summary": "Hungary is on course to receive almost €10 billion in EU recovery funds frozen under Viktor Orbán, after Prime Minister Péter Magyar’s government pushed through sweeping rule-of-law and anti-corruption reforms.",
+      "title": "What is next for Nvidia after CEO Jensen Huang resigns?",
+      "summary": "The AI chip giant has no leader in waiting, may lose its voice in Washington, and has big bets in Europe that its founder championed in person.",
       "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/12/commission-set-to-approve-hungarys-10bn-in-post-pandemic-recovery-fund-next-week",
-      "date": "2026-11-12T17:25:40+00:00",
-      "age": 12.316495928888889,
+      "url": "https://www.euronews.com/2026/11/13/what-is-next-for-nvidia-after-ceo-jensen-huang-resigns",
+      "date": "2026-11-13T08:30:24+00:00",
+      "age": 21.085827748055554,
       "sources": [
         {
           "name": "Euronews",
-          "title": "Commission set to approve Hungary’s €10bn in post-pandemic recovery fund next week",
-          "url": "https://www.euronews.com/2026/11/12/commission-set-to-approve-hungarys-10bn-in-post-pandemic-recovery-fund-next-week",
-          "date": "2026-11-12T17:25:40+00:00"
+          "title": "What is next for Nvidia after CEO Jensen Huang resigns?",
+          "url": "https://www.euronews.com/2026/11/13/what-is-next-for-nvidia-after-ceo-jensen-huang-resigns",
+          "date": "2026-11-13T08:30:24+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "Jensen Huang has resigned, what's next for Nvidia?",
+          "url": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-12T20:21:03+00:00"
+        },
+        {
+          "name": "Deutsche Welle",
+          "title": "Jensen Huang: Spy row, affairs leave Nvidia without its rockstar CEO",
+          "url": "https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-12T15:08:00+00:00"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "malta_relevant": false,
-      "score": 6.66,
-      "expanded": "Hungary is expected to receive nearly €10 billion from the EU’s post‑pandemic recovery fund after its government enacted broad rule‑of‑law and anti‑corruption reforms.",
-      "why": "The funds will support Hungary’s economic recovery and signal EU confidence in the country’s governance reforms.",
+      "score": 8.41,
+      "expanded": "Nvidia’s founder and CEO Jensen Huang has resigned, leaving the company without a designated successor. Colette Kress, the chief financial officer, will serve as interim chief executive. The company’s leadership vacuum could weaken its influence in Washington and impact its European AI initiatives, while the resignation follows reports of extramarital affairs.",
+      "why": "The loss of Nvidia’s prominent figurehead may affect the firm’s role in the US‑China AI competition and its strategic positioning in key markets.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Major World Events",
-      "title": "What Huang's resignation means for chipmakers, AI and U.S. national security",
-      "summary": "Nvidia CEO Jensen Huang announced his resignation after it was reported that he had an affair with a businesswoman accused of being a Chinese spy and an extramarital relationship with an Nvidia executive.",
+      "title": "Ukraine updates: Europe to send united front to potential peace talks",
+      "summary": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-updates-europe-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-13T19:39:00+00:00",
+      "age": 9.942494414722223,
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "title": "Ukraine updates: Europe to send united front to potential peace talks",
+          "url": "https://www.dw.com/en/ukraine-updates-europe-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-13T19:39:00+00:00"
+        },
+        {
+          "name": "Euronews",
+          "title": "EU leaders bring Italy and Poland into Ukraine peace talks team as Kallas fights for spot",
+          "url": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot",
+          "date": "2026-11-13T18:55:24+00:00"
+        },
+        {
+          "name": "Politico Europe",
+          "title": "What Vladimir Putin won in Abu Dhabi Ukraine peace talks",
+          "url": "https://www.politico.eu/article/what-vladimir-putin-won-in-abu-dhabi-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "date": "2026-11-13T16:18:55+00:00"
+        },
+        {
+          "name": "Deutsche Welle",
+          "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
+          "url": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-12T22:00:00+00:00"
+        }
+      ],
+      "source_count": 3,
+      "malta_relevant": false,
+      "score": 7.72,
+      "expanded": "Europe will present a united front in potential Ukraine peace talks, with a joint team led by France, Germany, the UK, Italy, Poland, EU institutions and NATO. No single envoy will be appointed.",
+      "why": "",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
+      "summary": "The Trump administration is asking the justices to overturn lower court decisions that found it was illegal to block asylum applications following an executive order that called the situation at the southern border an \"invasion.\"",
       "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/show/what-huangs-resignation-mean-for-chipmakers-ai-and-u-s-national-security",
-      "date": "2026-11-12T23:55:39+00:00",
-      "age": 5.816773706666666,
+      "url": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
+      "date": "2026-11-13T19:16:41+00:00",
+      "age": 10.314438859166668,
       "sources": [
         {
           "name": "PBS NewsHour",
-          "title": "What Huang's resignation means for chipmakers, AI and U.S. national security",
-          "url": "https://www.pbs.org/newshour/show/what-huangs-resignation-mean-for-chipmakers-ai-and-u-s-national-security",
-          "date": "2026-11-12T23:55:39+00:00"
+          "title": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
+          "url": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
+          "date": "2026-11-13T19:16:41+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.84,
-      "expanded": "Nvidia CEO Jensen Huang resigned after reports of an affair with a businesswoman accused of being a Chinese spy and a separate extramarital relationship with an Nvidia executive. His departure has prompted questions about Nvidia’s future, the broader AI industry, and U.S. national security implications.",
-      "why": "It raises concerns about leadership stability, AI industry direction, and national security.",
+      "score": 6.71,
+      "expanded": "The Trump administration is requesting the Supreme Court to overturn lower court rulings that declared illegal the blocking of asylum applications after an executive order labeling the southern border situation an \"invasion.\"",
+      "why": "",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Business & Marketing",
+      "title": "Iranian activist and Nobel Peace Prize winner Narges Mohammadi shares her story in memoir",
+      "summary": "Written and smuggled out of prison, the 2023 Nobel Prize laureate's memoir reveals the cost of defying Iran's regime and fighting for freedom.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/iranian-activist-and-nobel-peace-prize-winner-narges-mohammadi-shares-her-story-in-memoir/a-79868167?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-13T08:00:00+00:00",
+      "age": 21.59249441472222,
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "title": "Iranian activist and Nobel Peace Prize winner Narges Mohammadi shares her story in memoir",
+          "url": "https://www.dw.com/en/iranian-activist-and-nobel-peace-prize-winner-narges-mohammadi-shares-her-story-in-memoir/a-79868167?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-13T08:00:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.4,
+      "expanded": "Narges Mohammadi, the 2023 Nobel Peace Prize laureate, wrote a memoir while imprisoned in Iran. The book was smuggled out of prison and details the personal costs she faced for opposing the Iranian regime.",
+      "why": "",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Business & Marketing",
+      "title": "'The market will look for alternatives,' on Huang resignation says Andrea Renda, Digital Economy expert",
+      "summary": "Nvidia is at the centre of the global artificial intelligence revolution. But the American chip giant is now facing an extraordinary crisis, following the shock resignation of its CEO Jensen Huang amid allegations of an espionage scandal.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/video/2026/11/13/the-market-will-look-for-alternatives-on-huang-resignation-says-andrea-renda-digital-econo",
+      "date": "2026-11-13T08:29:01+00:00",
+      "age": 21.10888330361111,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "'The market will look for alternatives,' on Huang resignation says Andrea Renda, Digital Economy expert",
+          "url": "https://www.euronews.com/video/2026/11/13/the-market-will-look-for-alternatives-on-huang-resignation-says-andrea-renda-digital-econo",
+          "date": "2026-11-13T08:29:01+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.41,
+      "expanded": "Nvidia CEO Jensen Huang resigned after allegations of an espionage scandal, prompting concerns about the company’s future. Digital economy expert Andrea Renda said the market will seek alternatives.",
+      "why": "The resignation could affect Nvidia’s leadership stability and its role in the AI industry.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
@@ -166,7 +160,7 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
       "date": "2026-11-12T22:00:15+00:00",
-      "age": 7.74010704,
+      "age": 31.588327748055555,
       "sources": [
         {
           "name": "The Guardian",
@@ -177,121 +171,117 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.78,
-      "expanded": "China has decided not to host the 2028 UN climate conference (COP33) after internal deliberations, leaving the venue open for other Asian nations.",
+      "score": 5.12,
+      "expanded": "China has decided not to host the 2028 UN Climate Change Conference (COP33) after internal discussions, leaving the venue open for other Asian nations.",
       "why": "The choice removes the chance for the world’s largest greenhouse‑gas emitter to lead the global climate agenda.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Politics & Government",
-      "title": "MEIA Formally Submits Request For Culture Minister’s Resignation Or Reassignment",
-      "summary": "Pressure is mounting on Prime Minister Robert Abela to remove Culture Minister Malcolm Paul Agius Galea from his portfolio, after thousands of artists and dozens of organisations formally backed calls for his resignation or reassignment.",
-      "source": "Lovin Malta",
-      "url": "https://lovinmalta.com/news/local/meia-formally-submits-request-for-culture-ministers-resignation-or-reassignment/",
-      "date": "2026-11-12T13:05:24+00:00",
-      "age": 16.654273706666668,
+      "cat": "Major World Events",
+      "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+      "summary": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+      "date": "2026-11-12T14:22:50+00:00",
+      "age": 39.21193885916667,
       "sources": [
         {
-          "name": "Lovin Malta",
-          "title": "MEIA Formally Submits Request For Culture Minister’s Resignation Or Reassignment",
-          "url": "https://lovinmalta.com/news/local/meia-formally-submits-request-for-culture-ministers-resignation-or-reassignment/",
-          "date": "2026-11-12T13:05:24+00:00"
+          "name": "NPR",
+          "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+          "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+          "date": "2026-11-12T14:22:50+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.54,
-      "expanded": "The Malta Entertainment Industry and Arts Association (MEIA) has formally submitted an open letter to Prime Minister Robert Abela requesting that Culture Minister Malcolm Paul Agius Galea resign or be reassigned. The letter is backed by thousands of artists and dozens of arts organisations.",
-      "why": "It signals significant pressure on the government to address concerns about the minister’s performance, potentially leading to a cabinet change.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+      "score": 5.0
     },
     {
-      "cat": "Crime, War & Justice",
-      "title": "Russian officer killed by car bomb in St Petersburg as murder investigation begins",
-      "summary": "Kyiv rarely claims responsibility for such attacks on Russian troops, but Ukrainian forces have previously used similar blasts to show that Russia’s security services are vulnerable.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/12/russian-officer-killed-by-car-bomb-in-st-petersburg-as-murder-investigation-begins",
-      "date": "2026-11-12T10:48:52+00:00",
-      "age": 18.92982926222222,
+      "cat": "Politics & Government",
+      "title": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy",
+      "summary": "The post Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy appeared first on ProPublica .",
+      "source": "ProPublica",
+      "url": "https://www.propublica.org/article/hhs-alicia-jackson-ethics-complaint",
+      "date": "2026-11-13T21:50:00+00:00",
+      "age": 7.759161081388889,
       "sources": [
         {
-          "name": "Euronews",
-          "title": "Russian officer killed by car bomb in St Petersburg as murder investigation begins",
-          "url": "https://www.euronews.com/2026/11/12/russian-officer-killed-by-car-bomb-in-st-petersburg-as-murder-investigation-begins",
-          "date": "2026-11-12T10:48:52+00:00"
+          "name": "ProPublica",
+          "title": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy",
+          "url": "https://www.propublica.org/article/hhs-alicia-jackson-ethics-complaint",
+          "date": "2026-11-13T21:50:00+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.47
+      "score": 4.78
     },
     {
-      "cat": "Politics & Government",
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-12T08:46:57+00:00",
-      "age": 20.961773706666666,
-      "sources": [
-        {
-          "name": "BBC News",
-          "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-          "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-12T08:46:57+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.42
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Cindy Holscher wins election for Kansas governor, extending Democrats' wave of victories",
-      "summary": "Holscher, a state senator, promised to halt new data centers and overcame a flood of money that Republicans poured behind Ty Masterson, the president of the GOP-controlled state Senate.",
+      "cat": "Environment & Climate",
+      "title": "UN chief says 'immediate and drastic' emissions cuts needed to avert climate change catastrophe",
+      "summary": "\"You cannot build peace on a burning planet,\" United Nations Secretary-General António Guterres told reporters, stressing that climate change is central to the U.N.'s work because it contributes to geopolitical instability.",
       "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/politics/cindy-holscher-wins-election-for-kansas-governor-extending-democrats-wave-of-victories",
-      "date": "2026-11-12T23:15:50+00:00",
-      "age": 6.480384817777777,
+      "url": "https://www.pbs.org/newshour/world/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe",
+      "date": "2026-11-13T19:45:22+00:00",
+      "age": 9.836383303611113,
       "sources": [
         {
           "name": "PBS NewsHour",
-          "title": "Cindy Holscher wins election for Kansas governor, extending Democrats' wave of victories",
-          "url": "https://www.pbs.org/newshour/politics/cindy-holscher-wins-election-for-kansas-governor-extending-democrats-wave-of-victories",
-          "date": "2026-11-12T23:15:50+00:00"
+          "title": "UN chief says 'immediate and drastic' emissions cuts needed to avert climate change catastrophe",
+          "url": "https://www.pbs.org/newshour/world/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe",
+          "date": "2026-11-13T19:45:22+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.82,
-      "expanded": "State senator Cindy Holscher won the Kansas governor’s race, pledging to stop new data centers. She defeated Republican Ty Masterson, who had significant financial support from GOP donors.",
-      "why": "Her victory continues a trend of Democratic gains in the state.",
+      "score": 4.73,
+      "expanded": "UN Secretary‑General António Guterres warned that urgent and severe reductions in greenhouse‑gas emissions are required to prevent a climate‑change disaster, noting that a warming planet undermines peace and fuels geopolitical instability.",
+      "why": "The UN’s call highlights the link between climate action and global security, urging immediate policy shifts to avert escalating conflicts.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Crime, War & Justice",
-      "title": "Impeachment: How it works and why Trump should be worried",
-      "summary": "Pete Hegseth, Bill Clinton and Donald Trump (twice so far): attempts to impeach political figures are becoming common. The failure rate looks high, but according to experts, conviction is not always the aim.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/impeachment-how-it-works-and-why-trump-should-be-worried/a-79931040?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-12T15:16:00+00:00",
-      "age": 14.47760704,
+      "cat": "Politics & Government",
+      "title": "Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network",
+      "summary": "The post Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network appeared first on ProPublica .",
+      "source": "ProPublica",
+      "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
+      "date": "2026-11-13T11:00:00+00:00",
+      "age": 18.59249441472222,
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "title": "Impeachment: How it works and why Trump should be worried",
-          "url": "https://www.dw.com/en/impeachment-how-it-works-and-why-trump-should-be-worried/a-79931040?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-12T15:16:00+00:00"
+          "name": "ProPublica",
+          "title": "Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network",
+          "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
+          "date": "2026-11-13T11:00:00+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.6,
-      "expanded": "The article explains that attempts to impeach political figures, including former presidents Bill Clinton and Donald Trump, are increasingly common. It notes that while many impeachment efforts fail, experts say conviction is not always the goal of such proceedings.",
-      "why": "It highlights the growing frequency of impeachment attempts and the strategic use of the process beyond securing convictions.",
+      "score": 4.48
+    },
+    {
+      "cat": "Science & Technology",
+      "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+      "summary": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+      "date": "2026-11-13T01:40:17+00:00",
+      "age": 27.921105525833333,
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+          "date": "2026-11-13T01:40:17+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.22,
+      "expanded": "Researchers at Brown University have solved the “dead layer” issue that previously prevented ultra‑thin magnetic materials from functioning, enabling the creation of computer chips that retain electrical and magnetic properties at nearly atomic thicknesses and even exhibit stronger magnetism.",
+      "why": "This advance could allow AI chips to operate with dramatically lower energy consumption, potentially reducing the power demands of artificial‑intelligence systems.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
@@ -302,7 +292,7 @@
       "source": "ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
       "date": "2026-11-12T11:55:55+00:00",
-      "age": 17.812329262222224,
+      "age": 41.66054997027778,
       "sources": [
         {
           "name": "ScienceDaily",
@@ -313,7 +303,7 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.51,
+      "score": 4.0,
       "expanded": "Scientists created an AI method that improves experimental bionic vision by predicting the flashes and shapes of light a blind man sees through a brain implant, using data on how his brain responds to electrical stimulation.",
       "why": "The approach could advance efforts to restore sight for people with blindness.",
       "story_so_far": "",
@@ -321,7 +311,5 @@
     }
   ],
   "afternoon": [],
-  "feed_warnings": [
-    "Literary Hub: ParseError: not well-formed (invalid token): line 23, column 58"
-  ]
+  "feed_warnings": []
 }
