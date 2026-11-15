@@ -1,110 +1,8 @@
 {
-  "edition_date": "2026-11-14",
-  "generated_at": "2026-11-14T06:35:32.979879+01:00",
+  "edition_date": "2026-11-15",
+  "generated_at": "2026-11-15T06:38:18.669100+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
-    {
-      "cat": "Major World Events",
-      "title": "What is next for Nvidia after CEO Jensen Huang resigns?",
-      "summary": "The AI chip giant has no leader in waiting, may lose its voice in Washington, and has big bets in Europe that its founder championed in person.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/13/what-is-next-for-nvidia-after-ceo-jensen-huang-resigns",
-      "date": "2026-11-13T08:30:24+00:00",
-      "age": 21.085827748055554,
-      "sources": [
-        {
-          "name": "Euronews",
-          "title": "What is next for Nvidia after CEO Jensen Huang resigns?",
-          "url": "https://www.euronews.com/2026/11/13/what-is-next-for-nvidia-after-ceo-jensen-huang-resigns",
-          "date": "2026-11-13T08:30:24+00:00"
-        },
-        {
-          "name": "BBC News",
-          "title": "Jensen Huang has resigned, what's next for Nvidia?",
-          "url": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-12T20:21:03+00:00"
-        },
-        {
-          "name": "Deutsche Welle",
-          "title": "Jensen Huang: Spy row, affairs leave Nvidia without its rockstar CEO",
-          "url": "https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-12T15:08:00+00:00"
-        }
-      ],
-      "source_count": 3,
-      "malta_relevant": false,
-      "score": 8.41,
-      "expanded": "Nvidia’s founder and CEO Jensen Huang has resigned, leaving the company without a designated successor. Colette Kress, the chief financial officer, will serve as interim chief executive. The company’s leadership vacuum could weaken its influence in Washington and impact its European AI initiatives, while the resignation follows reports of extramarital affairs.",
-      "why": "The loss of Nvidia’s prominent figurehead may affect the firm’s role in the US‑China AI competition and its strategic positioning in key markets.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Ukraine updates: Europe to send united front to potential peace talks",
-      "summary": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-updates-europe-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-13T19:39:00+00:00",
-      "age": 9.942494414722223,
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "title": "Ukraine updates: Europe to send united front to potential peace talks",
-          "url": "https://www.dw.com/en/ukraine-updates-europe-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-13T19:39:00+00:00"
-        },
-        {
-          "name": "Euronews",
-          "title": "EU leaders bring Italy and Poland into Ukraine peace talks team as Kallas fights for spot",
-          "url": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot",
-          "date": "2026-11-13T18:55:24+00:00"
-        },
-        {
-          "name": "Politico Europe",
-          "title": "What Vladimir Putin won in Abu Dhabi Ukraine peace talks",
-          "url": "https://www.politico.eu/article/what-vladimir-putin-won-in-abu-dhabi-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "date": "2026-11-13T16:18:55+00:00"
-        },
-        {
-          "name": "Deutsche Welle",
-          "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
-          "url": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-12T22:00:00+00:00"
-        }
-      ],
-      "source_count": 3,
-      "malta_relevant": false,
-      "score": 7.72,
-      "expanded": "Europe will present a united front in potential Ukraine peace talks, with a joint team led by France, Germany, the UK, Italy, Poland, EU institutions and NATO. No single envoy will be appointed.",
-      "why": "",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
-      "summary": "The Trump administration is asking the justices to overturn lower court decisions that found it was illegal to block asylum applications following an executive order that called the situation at the southern border an \"invasion.\"",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
-      "date": "2026-11-13T19:16:41+00:00",
-      "age": 10.314438859166668,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "title": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
-          "url": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
-          "date": "2026-11-13T19:16:41+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.71,
-      "expanded": "The Trump administration is requesting the Supreme Court to overturn lower court rulings that declared illegal the blocking of asylum applications after an executive order labeling the southern border situation an \"invasion.\"",
-      "why": "",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
     {
       "cat": "Business & Marketing",
       "title": "Iranian activist and Nobel Peace Prize winner Narges Mohammadi shares her story in memoir",
@@ -112,7 +10,7 @@
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/iranian-activist-and-nobel-peace-prize-winner-narges-mohammadi-shares-her-story-in-memoir/a-79868167?maca=en-rss-en-all-1573-xml-mrss",
       "date": "2026-11-13T08:00:00+00:00",
-      "age": 21.59249441472222,
+      "age": 45.63851919888889,
       "sources": [
         {
           "name": "Deutsche Welle",
@@ -123,143 +21,259 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.4,
-      "expanded": "Narges Mohammadi, the 2023 Nobel Peace Prize laureate, wrote a memoir while imprisoned in Iran. The book was smuggled out of prison and details the personal costs she faced for opposing the Iranian regime.",
+      "score": 6.0,
+      "expanded": "Narges Mohammadi, the 2023 Nobel Peace Prize laureate, wrote a memoir while imprisoned in Iran. The book was smuggled out of prison and details the personal costs she faced for opposing the Iranian regime and advocating for freedom.",
       "why": "",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Business & Marketing",
-      "title": "'The market will look for alternatives,' on Huang resignation says Andrea Renda, Digital Economy expert",
-      "summary": "Nvidia is at the centre of the global artificial intelligence revolution. But the American chip giant is now facing an extraordinary crisis, following the shock resignation of its CEO Jensen Huang amid allegations of an espionage scandal.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/video/2026/11/13/the-market-will-look-for-alternatives-on-huang-resignation-says-andrea-renda-digital-econo",
-      "date": "2026-11-13T08:29:01+00:00",
-      "age": 21.10888330361111,
+      "cat": "Crime, War & Justice",
+      "title": "Inside Ethiopia's war: Rare access to a hospital treating victims of renewed fighting",
+      "summary": "Ethiopia's renewed conflict is taking an increasing toll on civilians, with humanitarian organisations reporting a rise in casualties.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/inside-ethiopia-s-war-rare-access-to-a-hospital-treating-victims-of-renewed-fighting",
+      "date": "2026-11-14T12:23:32+00:00",
+      "age": 17.246296976666667,
       "sources": [
         {
-          "name": "Euronews",
-          "title": "'The market will look for alternatives,' on Huang resignation says Andrea Renda, Digital Economy expert",
-          "url": "https://www.euronews.com/video/2026/11/13/the-market-will-look-for-alternatives-on-huang-resignation-says-andrea-renda-digital-econo",
-          "date": "2026-11-13T08:29:01+00:00"
+          "name": "France 24",
+          "title": "Inside Ethiopia's war: Rare access to a hospital treating victims of renewed fighting",
+          "url": "https://www.france24.com/en/inside-ethiopia-s-war-rare-access-to-a-hospital-treating-victims-of-renewed-fighting",
+          "date": "2026-11-14T12:23:32+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.41,
-      "expanded": "Nvidia CEO Jensen Huang resigned after allegations of an espionage scandal, prompting concerns about the company’s future. Digital economy expert Andrea Renda said the market will seek alternatives.",
-      "why": "The resignation could affect Nvidia’s leadership stability and its role in the AI industry.",
+      "score": 5.52,
+      "expanded": "In Ethiopia’s Amhara region, renewed fighting has increased civilian casualties. France 24’s Tom Canetti gained rare access to a civilian hospital where surgeons are overwhelmed by the influx of wounded patients, while many injured people struggle to reach medical care.",
+      "why": "The surge in casualties highlights the humanitarian crisis and the strain on medical facilities amid ongoing conflict.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Environment & Climate",
-      "title": "China rules out hosting Cop33 climate summit in 2028",
-      "summary": "r world’s biggest emitter to take global lead on climate crisis China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, leaving the field open for other Asian countries to hold it, the Guardian understands.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
-      "date": "2026-11-12T22:00:15+00:00",
-      "age": 31.588327748055555,
+      "cat": "Crime, War & Justice",
+      "title": "Maltese woman killed in Sicilian road collision near Modica",
+      "summary": "A 55-year-old Maltese woman has died following a collision between a car and a trailer truck in southern Sicily on Saturday afternoon. The post Maltese woman killed in Sicilian road collision near Modica appeared first on Newsbook .",
+      "source": "Newsbook",
+      "url": "https://newsbook.com.mt/en/maltese-woman-killed-in-sicilian-road-collision-near-modica/",
+      "date": "2026-11-14T17:12:34+00:00",
+      "age": 12.429074754444443,
       "sources": [
         {
-          "name": "The Guardian",
-          "title": "China rules out hosting Cop33 climate summit in 2028",
-          "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
-          "date": "2026-11-12T22:00:15+00:00"
+          "name": "Newsbook",
+          "title": "Maltese woman killed in Sicilian road collision near Modica",
+          "url": "https://newsbook.com.mt/en/maltese-woman-killed-in-sicilian-road-collision-near-modica/",
+          "date": "2026-11-14T17:12:34+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": true,
+      "score": 5.15,
+      "expanded": "A 55‑year‑old woman from Malta died after a car collided with a trailer truck in southern Sicily near Modica on a Saturday afternoon.",
+      "why": "The incident highlights road safety risks in the region.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Rival promises as parties rally at Victorian election campaign launches",
+      "summary": "Victorian Premier Ben Carroll spruiks his party's public health credentials to a sea of red, while Opposition Leader Jess Wilson accuses Labor of taking away the state's \"vibrancy\".",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-15/labor-liberal-coalition-campaign-launches-health-youth-crime/107387220",
+      "date": "2026-11-15T04:42:10+00:00",
+      "age": 0.9357414211111111,
+      "sources": [
+        {
+          "name": "ABC News Australia",
+          "title": "Rival promises as parties rally at Victorian election campaign launches",
+          "url": "https://www.abc.net.au/news/2026-11-15/labor-liberal-coalition-campaign-launches-health-youth-crime/107387220",
+          "date": "2026-11-15T04:42:10+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.12,
-      "expanded": "China has decided not to host the 2028 UN Climate Change Conference (COP33) after internal discussions, leaving the venue open for other Asian nations.",
-      "why": "The choice removes the chance for the world’s largest greenhouse‑gas emitter to lead the global climate agenda.",
+      "score": 4.97,
+      "expanded": "Victorian Premier Ben Carroll highlighted his party’s public‑health record during a campaign launch, while Opposition Leader Jess Wilson criticized Labor for eroding the state’s vibrancy.",
+      "why": "The exchange underscores the key policy divide between the governing and opposition parties in the upcoming state election.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Major World Events",
-      "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
-      "summary": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
-      "date": "2026-11-12T14:22:50+00:00",
-      "age": 39.21193885916667,
+      "title": "SpaceX rocket orbits Earth then returns to launch pad in breakthrough for Musk",
+      "summary": "The successful return of the SpaceX rocket to its launch pad is a breakthrough in the company's decade-long effort to develop a fully reusable rocket.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-15/spacex-rocket-returns-to-launch-pad-after-orbitting-earth/107387168",
+      "date": "2026-11-14T22:34:32+00:00",
+      "age": 7.062963643333333,
       "sources": [
         {
-          "name": "NPR",
-          "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
-          "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
-          "date": "2026-11-12T14:22:50+00:00"
+          "name": "ABC News Australia",
+          "title": "SpaceX rocket orbits Earth then returns to launch pad in breakthrough for Musk",
+          "url": "https://www.abc.net.au/news/2026-11-15/spacex-rocket-returns-to-launch-pad-after-orbitting-earth/107387168",
+          "date": "2026-11-14T22:34:32+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.0
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy",
-      "summary": "The post Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy appeared first on ProPublica .",
-      "source": "ProPublica",
-      "url": "https://www.propublica.org/article/hhs-alicia-jackson-ethics-complaint",
-      "date": "2026-11-13T21:50:00+00:00",
-      "age": 7.759161081388889,
-      "sources": [
-        {
-          "name": "ProPublica",
-          "title": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy",
-          "url": "https://www.propublica.org/article/hhs-alicia-jackson-ethics-complaint",
-          "date": "2026-11-13T21:50:00+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.78
-    },
-    {
-      "cat": "Environment & Climate",
-      "title": "UN chief says 'immediate and drastic' emissions cuts needed to avert climate change catastrophe",
-      "summary": "\"You cannot build peace on a burning planet,\" United Nations Secretary-General António Guterres told reporters, stressing that climate change is central to the U.N.'s work because it contributes to geopolitical instability.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe",
-      "date": "2026-11-13T19:45:22+00:00",
-      "age": 9.836383303611113,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "title": "UN chief says 'immediate and drastic' emissions cuts needed to avert climate change catastrophe",
-          "url": "https://www.pbs.org/newshour/world/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe",
-          "date": "2026-11-13T19:45:22+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.73,
-      "expanded": "UN Secretary‑General António Guterres warned that urgent and severe reductions in greenhouse‑gas emissions are required to prevent a climate‑change disaster, noting that a warming planet undermines peace and fuels geopolitical instability.",
-      "why": "The UN’s call highlights the link between climate action and global security, urging immediate policy shifts to avert escalating conflicts.",
+      "score": 4.8,
+      "expanded": "SpaceX successfully launched a rocket that orbited Earth and then returned to its launch pad, marking a significant step toward fully reusable rockets.",
+      "why": "This achievement could reduce launch costs and accelerate reusable launch technology.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Politics & Government",
-      "title": "Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network",
-      "summary": "The post Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network appeared first on ProPublica .",
-      "source": "ProPublica",
-      "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
-      "date": "2026-11-13T11:00:00+00:00",
-      "age": 18.59249441472222,
+      "title": "Nigeria's upcoming election marred by rising AI disinformation",
+      "summary": "As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-14T21:05:00+00:00",
+      "age": 8.555185865555556,
       "sources": [
         {
-          "name": "ProPublica",
-          "title": "Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network",
-          "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
-          "date": "2026-11-13T11:00:00+00:00"
+          "name": "Deutsche Welle",
+          "title": "Nigeria's upcoming election marred by rising AI disinformation",
+          "url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-14T21:05:00+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.48
+      "score": 4.76,
+      "expanded": "Nigeria is approaching its 2027 elections, and the use of artificial intelligence in the electoral process has raised concerns about the integrity of the vote and the readiness of institutions to manage it.",
+      "why": "The rise of AI disinformation could undermine confidence in Nigeria’s democratic process.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
+      "summary": "The ballot measure, decided as part of the Nov.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system",
+      "date": "2026-11-14T18:43:07+00:00",
+      "age": 10.919908087777777,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
+          "url": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system",
+          "date": "2026-11-14T18:43:07+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.7,
+      "expanded": "Alaska voters voted against a ballot measure that would have ended the state's open primary and ranked‑voting system. The measure was rejected in the November 3 election, marking the second time in two years that voters have opposed attempts to restore partisan primaries and single‑candidate general elections.",
+      "why": "The decision preserves Alaska’s current open‑primary and ranked‑voting framework, maintaining broader voter participation and multi‑candidate general elections.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
+      "summary": "\"This is absolutely outrageous to even suggest such a thing,\" Defense Minister Antti Häkkänen said.",
+      "source": "Politico Europe",
+      "url": "https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "date": "2026-11-14T09:57:48+00:00",
+      "age": 19.675185865555555,
+      "sources": [
+        {
+          "name": "Politico Europe",
+          "title": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
+          "url": "https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "date": "2026-11-14T09:57:48+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.45
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Netanyahu sends plea to Eisenkot for unity government",
+      "summary": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+      "date": "2026-11-15T01:33:11+00:00",
+      "age": 4.085463643333333,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "title": "Netanyahu sends plea to Eisenkot for unity government",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+          "date": "2026-11-15T01:33:11+00:00"
+        },
+        {
+          "name": "France 24",
+          "title": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
+          "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
+          "date": "2026-11-14T20:35:22+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 4.39,
+      "expanded": "Israeli caretaker Prime Minister Benjamin Netanyahu publicly urged opposition leader Gadi Eisenkot to form a national unity government. Eisenkot rejected the appeal, calling it a political ploy, as he continues negotiations to establish a new administration.",
+      "why": "The outcome will determine Israel’s governing coalition and policy direction amid ongoing political uncertainty.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+      "summary": "experience’ at Folkestone and Calais, without making people get out of cars Airport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an attempt to prevent “short-term and long-term chaos” in Folkestone and Calais.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+      "date": "2026-11-14T07:00:38+00:00",
+      "age": 22.627963643333334,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+          "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+          "date": "2026-11-14T07:00:38+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.37,
+      "expanded": "Getlink, the owner of the Eurotunnel, plans to implement airport‑style passport and fingerprinting checks at the Folkestone‑Calais crossing. The European Commission has approved using an ‘eagle eye’ camera system, already deployed at Rome and Paris airports, to monitor biometric data at the border.",
+      "why": "The new system aims to reduce short‑term and long‑term border chaos by streamlining checks for travelers.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-14T15:53:55+00:00",
+      "age": 13.739908087777778,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-14T15:53:55+00:00"
+        },
+        {
+          "name": "Euronews",
+          "title": "Trump, Xi and Putin to meet in China, White House says",
+          "url": "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says",
+          "date": "2026-11-14T09:00:58+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 4.12,
+      "expanded": "The White House announced that former U.S. President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping will hold a historic meeting in China next week. Trump is expected to discuss reducing nuclear weapons. Trump will leave Washington for the Philippines to attend an ASEAN meeting before traveling to Shenzhen, China.",
+      "why": "It marks an unprecedented gathering of the three leaders, potentially influencing global security and diplomatic relations.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Science & Technology",
@@ -268,7 +282,7 @@
       "source": "ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
       "date": "2026-11-13T01:40:17+00:00",
-      "age": 27.921105525833333,
+      "age": 51.96713031,
       "sources": [
         {
           "name": "ScienceDaily",
@@ -279,33 +293,9 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.22,
-      "expanded": "Researchers at Brown University have solved the “dead layer” issue that previously prevented ultra‑thin magnetic materials from functioning, enabling the creation of computer chips that retain electrical and magnetic properties at nearly atomic thicknesses and even exhibit stronger magnetism.",
-      "why": "This advance could allow AI chips to operate with dramatically lower energy consumption, potentially reducing the power demands of artificial‑intelligence systems.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Science & Technology",
-      "title": "AI-powered bionic eye breakthrough could help the blind see again",
-      "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
-      "date": "2026-11-12T11:55:55+00:00",
-      "age": 41.66054997027778,
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "title": "AI-powered bionic eye breakthrough could help the blind see again",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
-          "date": "2026-11-12T11:55:55+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
       "score": 4.0,
-      "expanded": "Scientists created an AI method that improves experimental bionic vision by predicting the flashes and shapes of light a blind man sees through a brain implant, using data on how his brain responds to electrical stimulation.",
-      "why": "The approach could advance efforts to restore sight for people with blindness.",
+      "expanded": "Researchers at Brown University solved the dead‑layer issue that previously prevented ultra‑thin magnetic materials from functioning, enabling these materials to retain their electrical and magnetic properties at nearly atomic thicknesses and even improve magnetic performance.",
+      "why": "This advance could allow AI chips to operate with much lower energy consumption, addressing the growing power demands of artificial intelligence.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
