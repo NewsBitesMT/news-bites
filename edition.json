@@ -1,149 +1,191 @@
 {
-  "edition_date": "2026-11-15",
-  "generated_at": "2026-11-15T06:38:18.669100+01:00",
+  "edition_date": "2026-11-16",
+  "generated_at": "2026-11-16T06:56:38.198630+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
     {
-      "cat": "Business & Marketing",
-      "title": "Iranian activist and Nobel Peace Prize winner Narges Mohammadi shares her story in memoir",
-      "summary": "Written and smuggled out of prison, the 2023 Nobel Prize laureate's memoir reveals the cost of defying Iran's regime and fighting for freedom.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iranian-activist-and-nobel-peace-prize-winner-narges-mohammadi-shares-her-story-in-memoir/a-79868167?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-13T08:00:00+00:00",
-      "age": 45.63851919888889,
+      "cat": "Politics & Government",
+      "title": "Will Spain’s snap election in November bring a far-right party into government?",
+      "summary": "Country’s sixth general election in 11 years could lead to far-right role in government for first time since Franco’s death Spaniards head to the polls on 29 November to vote in the country’s sixth general election in 11 years.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
+      "date": "2026-11-16T05:00:33+00:00",
+      "age": 0.9347774019444445,
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "title": "Iranian activist and Nobel Peace Prize winner Narges Mohammadi shares her story in memoir",
-          "url": "https://www.dw.com/en/iranian-activist-and-nobel-peace-prize-winner-narges-mohammadi-shares-her-story-in-memoir/a-79868167?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-13T08:00:00+00:00"
+          "name": "The Guardian",
+          "title": "Will Spain’s snap election in November bring a far-right party into government?",
+          "url": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
+          "date": "2026-11-16T05:00:33+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.0,
-      "expanded": "Narges Mohammadi, the 2023 Nobel Peace Prize laureate, wrote a memoir while imprisoned in Iran. The book was smuggled out of prison and details the personal costs she faced for opposing the Iranian regime and advocating for freedom.",
+      "score": 6.97,
+      "expanded": "Spain is holding its sixth general election in 11 years on 29 November, which could end eight years of socialist rule and potentially bring a far‑right party into government for the first time since the end of Franco’s dictatorship.",
+      "why": "It would mark a significant shift in Spain’s post‑Franco democratic politics, introducing a far‑right party into the governing coalition.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Who can force Israel to implement Gaza ceasefire deal?",
+      "summary": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+      "date": "2026-11-15T20:37:43+00:00",
+      "age": 9.315332957499999,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "title": "Who can force Israel to implement Gaza ceasefire deal?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+          "date": "2026-11-15T20:37:43+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.74
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Cape Verde election: Jose Maria Neves set to win second term",
+      "summary": "Nearly two-thirds of the voters in the West African nation voted to keep President Jose Maria Neves in office, according to provisional results.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cape-verde-election-jose-maria-neves-set-to-win-second-term/a-79952606?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-15T16:47:00+00:00",
+      "age": 13.160610735277777,
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "title": "Cape Verde election: Jose Maria Neves set to win second term",
+          "url": "https://www.dw.com/en/cape-verde-election-jose-maria-neves-set-to-win-second-term/a-79952606?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-15T16:47:00+00:00"
+        },
+        {
+          "name": "Euronews",
+          "title": "Cape Verde heads to the polls in presidential election",
+          "url": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election",
+          "date": "2026-11-15T09:45:23+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 6.13,
+      "expanded": "Nearly two‑thirds of voters in Cape Verde cast ballots for incumbent President José Maria Neves, who won the 2021 election, and provisional results indicate he will secure a second term.",
+      "why": "It confirms continuity of leadership in Cape Verde’s stable democratic process.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Environment & Climate",
+      "title": "Nations grapple with loss of 1.5C target at UN climate summit",
+      "summary": "For a decade, the 1.5C goal has served as the north star of climate action, a line nations pledged to hold to avoid the worst ravages of a warming planet.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-nations-grapple-loss-15c-climate.html",
+      "date": "2026-11-15T13:20:05+00:00",
+      "age": 16.609221846388888,
+      "sources": [
+        {
+          "name": "Phys.org",
+          "title": "Nations grapple with loss of 1.5C target at UN climate summit",
+          "url": "https://phys.org/news/2026-11-nations-grapple-loss-15c-climate.html",
+          "date": "2026-11-15T13:20:05+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.54
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+      "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-16T05:06:59+00:00",
+      "age": 0.8275551797222223,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-16T05:06:59+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.98
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Eisenkot says Netanyahu ‘cannot remain’ after alleged election interference by aide",
+      "summary": "Israeli prime ministerial hopeful Gadi Eisenkot said on Sunday caretaker premier Benjamin Netanyahu must leave office immediately following reports of alleged electoral interference by a Netanyahu aide.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261116-eisenkot-netanyahu-cannot-stay-in-office",
+      "date": "2026-11-16T03:47:28+00:00",
+      "age": 2.1528329575000003,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "Eisenkot says Netanyahu ‘cannot remain’ after alleged election interference by aide",
+          "url": "https://www.france24.com/en/middle-east/20261116-eisenkot-netanyahu-cannot-stay-in-office",
+          "date": "2026-11-16T03:47:28+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.94,
+      "expanded": "Gadi Eisenkot, a former army chief and prime ministerial hopeful, said Netanyahu must leave office immediately after reports that a Netanyahu aide allegedly interfered in elections. Eisenkot called Netanyahu and his entourage an immediate threat to democracy, speaking hours after talks about forming a national unity government.",
+      "why": "Eisenkot’s call signals a serious challenge to Netanyahu’s leadership amid allegations of electoral misconduct.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
+      "summary": "riggered by high-profile cases must “pull back the curtain” on the treatment of people making allegations of sexual offences in the criminal justice system in England and Wales, the government’s independent adviser on rape has told the Guardian.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
+      "date": "2026-11-15T23:19:05+00:00",
+      "age": 6.625888513055556,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
+          "url": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
+          "date": "2026-11-15T23:19:05+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.82,
+      "expanded": "Professor Katrin Hohl, the UK government’s independent adviser on rape, has urged ministers to use the public attention from Russell Brand’s rape conviction to review how rape myths and jury directions are handled in criminal trials in England and Wales.",
       "why": "",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Crime, War & Justice",
-      "title": "Inside Ethiopia's war: Rare access to a hospital treating victims of renewed fighting",
-      "summary": "Ethiopia's renewed conflict is taking an increasing toll on civilians, with humanitarian organisations reporting a rise in casualties.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/inside-ethiopia-s-war-rare-access-to-a-hospital-treating-victims-of-renewed-fighting",
-      "date": "2026-11-14T12:23:32+00:00",
-      "age": 17.246296976666667,
-      "sources": [
-        {
-          "name": "France 24",
-          "title": "Inside Ethiopia's war: Rare access to a hospital treating victims of renewed fighting",
-          "url": "https://www.france24.com/en/inside-ethiopia-s-war-rare-access-to-a-hospital-treating-victims-of-renewed-fighting",
-          "date": "2026-11-14T12:23:32+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.52,
-      "expanded": "In Ethiopia’s Amhara region, renewed fighting has increased civilian casualties. France 24’s Tom Canetti gained rare access to a civilian hospital where surgeons are overwhelmed by the influx of wounded patients, while many injured people struggle to reach medical care.",
-      "why": "The surge in casualties highlights the humanitarian crisis and the strain on medical facilities amid ongoing conflict.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Maltese woman killed in Sicilian road collision near Modica",
-      "summary": "A 55-year-old Maltese woman has died following a collision between a car and a trailer truck in southern Sicily on Saturday afternoon. The post Maltese woman killed in Sicilian road collision near Modica appeared first on Newsbook .",
-      "source": "Newsbook",
-      "url": "https://newsbook.com.mt/en/maltese-woman-killed-in-sicilian-road-collision-near-modica/",
-      "date": "2026-11-14T17:12:34+00:00",
-      "age": 12.429074754444443,
-      "sources": [
-        {
-          "name": "Newsbook",
-          "title": "Maltese woman killed in Sicilian road collision near Modica",
-          "url": "https://newsbook.com.mt/en/maltese-woman-killed-in-sicilian-road-collision-near-modica/",
-          "date": "2026-11-14T17:12:34+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": true,
-      "score": 5.15,
-      "expanded": "A 55‑year‑old woman from Malta died after a car collided with a trailer truck in southern Sicily near Modica on a Saturday afternoon.",
-      "why": "The incident highlights road safety risks in the region.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Rival promises as parties rally at Victorian election campaign launches",
-      "summary": "Victorian Premier Ben Carroll spruiks his party's public health credentials to a sea of red, while Opposition Leader Jess Wilson accuses Labor of taking away the state's \"vibrancy\".",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-11-15/labor-liberal-coalition-campaign-launches-health-youth-crime/107387220",
-      "date": "2026-11-15T04:42:10+00:00",
-      "age": 0.9357414211111111,
-      "sources": [
-        {
-          "name": "ABC News Australia",
-          "title": "Rival promises as parties rally at Victorian election campaign launches",
-          "url": "https://www.abc.net.au/news/2026-11-15/labor-liberal-coalition-campaign-launches-health-youth-crime/107387220",
-          "date": "2026-11-15T04:42:10+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.97,
-      "expanded": "Victorian Premier Ben Carroll highlighted his party’s public‑health record during a campaign launch, while Opposition Leader Jess Wilson criticized Labor for eroding the state’s vibrancy.",
-      "why": "The exchange underscores the key policy divide between the governing and opposition parties in the upcoming state election.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
       "cat": "Major World Events",
-      "title": "SpaceX rocket orbits Earth then returns to launch pad in breakthrough for Musk",
-      "summary": "The successful return of the SpaceX rocket to its launch pad is a breakthrough in the company's decade-long effort to develop a fully reusable rocket.",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-11-15/spacex-rocket-returns-to-launch-pad-after-orbitting-earth/107387168",
-      "date": "2026-11-14T22:34:32+00:00",
-      "age": 7.062963643333333,
+      "title": "Ebola outbreak remains out of control in Congo 6 months into response",
+      "summary": "More than 11,000 cases have been recorded, and nearly half of those infected have died, according to government data.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response",
+      "date": "2026-11-15T21:07:00+00:00",
+      "age": 8.827277401944444,
       "sources": [
         {
-          "name": "ABC News Australia",
-          "title": "SpaceX rocket orbits Earth then returns to launch pad in breakthrough for Musk",
-          "url": "https://www.abc.net.au/news/2026-11-15/spacex-rocket-returns-to-launch-pad-after-orbitting-earth/107387168",
-          "date": "2026-11-14T22:34:32+00:00"
+          "name": "PBS NewsHour",
+          "title": "Ebola outbreak remains out of control in Congo 6 months into response",
+          "url": "https://www.pbs.org/newshour/world/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response",
+          "date": "2026-11-15T21:07:00+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.8,
-      "expanded": "SpaceX successfully launched a rocket that orbited Earth and then returned to its launch pad, marking a significant step toward fully reusable rockets.",
-      "why": "This achievement could reduce launch costs and accelerate reusable launch technology.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Nigeria's upcoming election marred by rising AI disinformation",
-      "summary": "As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-14T21:05:00+00:00",
-      "age": 8.555185865555556,
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "title": "Nigeria's upcoming election marred by rising AI disinformation",
-          "url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-14T21:05:00+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.76,
-      "expanded": "Nigeria is approaching its 2027 elections, and the use of artificial intelligence in the electoral process has raised concerns about the integrity of the vote and the readiness of institutions to manage it.",
-      "why": "The rise of AI disinformation could undermine confidence in Nigeria’s democratic process.",
+      "score": 4.75,
+      "expanded": "More than 11,000 Ebola cases have been recorded in the Congo, with nearly half of those infected dying. This outbreak is the deadliest in the country’s history and is projected to exceed the 11,000 deaths of the 2014‑2016 West African epidemic.",
+      "why": "The high fatality rate and potential to surpass a historic global outbreak underscore the severity of the crisis.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
@@ -154,7 +196,7 @@
       "source": "PBS NewsHour",
       "url": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system",
       "date": "2026-11-14T18:43:07+00:00",
-      "age": 10.919908087777777,
+      "age": 35.2253329575,
       "sources": [
         {
           "name": "PBS NewsHour",
@@ -165,137 +207,89 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.7,
-      "expanded": "Alaska voters voted against a ballot measure that would have ended the state's open primary and ranked‑voting system. The measure was rejected in the November 3 election, marking the second time in two years that voters have opposed attempts to restore partisan primaries and single‑candidate general elections.",
+      "score": 4.02,
+      "expanded": "Alaska voters voted against a ballot measure that would have ended the state's open primary and ranked‑voting system. The measure was rejected in the Nov. 3 election, marking the second time in two years that voters have opposed attempts to return to partisan primaries and single‑candidate general elections.",
       "why": "The decision preserves Alaska’s current open‑primary and ranked‑voting framework, maintaining broader voter participation and multi‑candidate general elections.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Politics & Government",
-      "title": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
-      "summary": "\"This is absolutely outrageous to even suggest such a thing,\" Defense Minister Antti Häkkänen said.",
-      "source": "Politico Europe",
-      "url": "https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "date": "2026-11-14T09:57:48+00:00",
-      "age": 19.675185865555555,
+      "cat": "Major World Events",
+      "title": "Mexican drug lord Felix Gallardo dies at 80",
+      "summary": "Felix Gallardo was considered to be the architect of Mexico's modern drug-trafficking trade. He died of multiple organ failure at the age of 80.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-16T05:39:00+00:00",
+      "age": 0.2939440686111111,
       "sources": [
         {
-          "name": "Politico Europe",
-          "title": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
-          "url": "https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "date": "2026-11-14T09:57:48+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.45
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Netanyahu sends plea to Eisenkot for unity government",
-      "summary": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
-      "date": "2026-11-15T01:33:11+00:00",
-      "age": 4.085463643333333,
-      "sources": [
+          "name": "Deutsche Welle",
+          "title": "Mexican drug lord Felix Gallardo dies at 80",
+          "url": "https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-16T05:39:00+00:00"
+        },
         {
-          "name": "Al Jazeera English",
-          "title": "Netanyahu sends plea to Eisenkot for unity government",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
-          "date": "2026-11-15T01:33:11+00:00"
+          "name": "BBC News",
+          "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+          "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-16T03:21:56+00:00"
         },
         {
           "name": "France 24",
-          "title": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
-          "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
-          "date": "2026-11-14T20:35:22+00:00"
+          "title": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies age 80",
+          "url": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies",
+          "date": "2026-11-15T22:48:31+00:00"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "malta_relevant": false,
-      "score": 4.39,
-      "expanded": "Israeli caretaker Prime Minister Benjamin Netanyahu publicly urged opposition leader Gadi Eisenkot to form a national unity government. Eisenkot rejected the appeal, calling it a political ploy, as he continues negotiations to establish a new administration.",
-      "why": "The outcome will determine Israel’s governing coalition and policy direction amid ongoing political uncertainty.",
+      "score": 3.99,
+      "expanded": "Felix Gallardo, a founding figure of Mexico’s Guadalajara cartel and dubbed the ‘boss of bosses’, died at age 80 after multiple organ failure. He had been imprisoned since 1989 and was moved to a hospital two days before his death.",
+      "why": "His death marks the end of a key era in Mexico’s drug‑trafficking history, closing a chapter on the cartel’s early dominance.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Major World Events",
-      "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
-      "summary": "experience’ at Folkestone and Calais, without making people get out of cars Airport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an attempt to prevent “short-term and long-term chaos” in Folkestone and Calais.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
-      "date": "2026-11-14T07:00:38+00:00",
-      "age": 22.627963643333334,
+      "cat": "Crime, War & Justice",
+      "title": "Mother of five children killed in house fire tells inquest 'fire was everywhere'",
+      "summary": "A mother whose five sons and partner died in a house fire on Russell Island has begun giving evidence at an inquest into their deaths.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-16/russell-island-house-fire-five-boys-man-killed-inquest/107389450",
+      "date": "2026-11-16T05:12:03+00:00",
+      "age": 0.7431107352777778,
       "sources": [
         {
-          "name": "The Guardian",
-          "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
-          "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
-          "date": "2026-11-14T07:00:38+00:00"
+          "name": "ABC News Australia",
+          "title": "Mother of five children killed in house fire tells inquest 'fire was everywhere'",
+          "url": "https://www.abc.net.au/news/2026-11-16/russell-island-house-fire-five-boys-man-killed-inquest/107389450",
+          "date": "2026-11-16T05:12:03+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.37,
-      "expanded": "Getlink, the owner of the Eurotunnel, plans to implement airport‑style passport and fingerprinting checks at the Folkestone‑Calais crossing. The European Commission has approved using an ‘eagle eye’ camera system, already deployed at Rome and Paris airports, to monitor biometric data at the border.",
-      "why": "The new system aims to reduce short‑term and long‑term border chaos by streamlining checks for travelers.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+      "score": 3.98
     },
     {
-      "cat": "Major World Events",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-14T15:53:55+00:00",
-      "age": 13.739908087777778,
+      "cat": "Crime, War & Justice",
+      "title": "Tug of war continues over mysterious foreign barge",
+      "summary": "About 10 months after an Indonesian barge drifted through the sea and ran aground on an Australian island, there is still no plan to salvage its rusting wreck.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-16/indonesian-ghost-barge-nelly-112-rusts-torres-strait/107390228",
+      "date": "2026-11-16T03:15:59+00:00",
+      "age": 2.677555179722222,
       "sources": [
         {
-          "name": "BBC News",
-          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-14T15:53:55+00:00"
-        },
-        {
-          "name": "Euronews",
-          "title": "Trump, Xi and Putin to meet in China, White House says",
-          "url": "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says",
-          "date": "2026-11-14T09:00:58+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 4.12,
-      "expanded": "The White House announced that former U.S. President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping will hold a historic meeting in China next week. Trump is expected to discuss reducing nuclear weapons. Trump will leave Washington for the Philippines to attend an ASEAN meeting before traveling to Shenzhen, China.",
-      "why": "It marks an unprecedented gathering of the three leaders, potentially influencing global security and diplomatic relations.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Science & Technology",
-      "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
-      "summary": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
-      "date": "2026-11-13T01:40:17+00:00",
-      "age": 51.96713031,
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
-          "date": "2026-11-13T01:40:17+00:00"
+          "name": "ABC News Australia",
+          "title": "Tug of war continues over mysterious foreign barge",
+          "url": "https://www.abc.net.au/news/2026-11-16/indonesian-ghost-barge-nelly-112-rusts-torres-strait/107390228",
+          "date": "2026-11-16T03:15:59+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.0,
-      "expanded": "Researchers at Brown University solved the dead‑layer issue that previously prevented ultra‑thin magnetic materials from functioning, enabling these materials to retain their electrical and magnetic properties at nearly atomic thicknesses and even improve magnetic performance.",
-      "why": "This advance could allow AI chips to operate with much lower energy consumption, addressing the growing power demands of artificial intelligence.",
+      "score": 3.93,
+      "expanded": "About ten months after an Indonesian barge drifted across the sea and ran aground on an Australian island, authorities have not announced any plan to salvage the rusting wreck.",
+      "why": "",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
