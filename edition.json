@@ -294,6 +294,48 @@
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
   ],
-  "afternoon": [],
-  "feed_warnings": []
+  "afternoon": [
+    {
+      "cat": "Business & Marketing",
+      "title": "Bank of Canada likely to hold interest rates steady in December after flat inflation data: economists",
+      "summary": "The national inflation rate was flat on an annualized basis in October, according to data released by Statistics Canada on Monday.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/business/cpi-inflation-october-9.7423293?cmp=rss",
+      "date": "2026-11-16T13:43:51+00:00",
+      "age": 2.8380356808333334,
+      "sources": [
+        {
+          "name": "CBC News",
+          "title": "Bank of Canada likely to hold interest rates steady in December after flat inflation data: economists",
+          "url": "https://www.cbc.ca/news/business/cpi-inflation-october-9.7423293?cmp=rss",
+          "date": "2026-11-16T13:43:51+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 10.92
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Toronto police arrest suspect in violent Bridle Path home invasion investigation",
+      "summary": "Toronto police say one man has been arrested in last month's violent home invasion in the Bridle Path neighbourhood.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/canada/toronto/suspect-arrested-bridle-path-home-invasion-9.7423587?cmp=rss",
+      "date": "2026-11-16T16:00:34+00:00",
+      "age": 0.5594245697222222,
+      "sources": [
+        {
+          "name": "CBC News",
+          "title": "Toronto police arrest suspect in violent Bridle Path home invasion investigation",
+          "url": "https://www.cbc.ca/news/canada/toronto/suspect-arrested-bridle-path-home-invasion-9.7423587?cmp=rss",
+          "date": "2026-11-16T16:00:34+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 8.98
+    }
+  ],
+  "feed_warnings": [],
+  "afternoon_checked_at": "2026-11-16T17:34:07.928437+01:00"
 }
