@@ -1,341 +1,281 @@
 {
-  "edition_date": "2026-11-16",
-  "generated_at": "2026-11-16T06:56:38.198630+01:00",
+  "edition_date": "2026-11-17",
+  "generated_at": "2026-11-17T06:45:46.958270+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
     {
-      "cat": "Politics & Government",
-      "title": "Will Spain’s snap election in November bring a far-right party into government?",
-      "summary": "Country’s sixth general election in 11 years could lead to far-right role in government for first time since Franco’s death Spaniards head to the polls on 29 November to vote in the country’s sixth general election in 11 years.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
-      "date": "2026-11-16T05:00:33+00:00",
-      "age": 0.9347774019444445,
+      "cat": "Science & Technology",
+      "title": "Report finds consistent pandemic learning loss and gaps between grades and test scores across Canada",
+      "summary": "A new national report identifies declines in student performance in every province and territory examined in Canada, with grade inflation obscuring the extent of setbacks during the COVID-19 pandemic.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-pandemic-loss-gaps-grades-scores.html",
+      "date": "2026-11-17T03:20:01+00:00",
+      "age": 2.4294328569444446,
       "sources": [
         {
-          "name": "The Guardian",
-          "title": "Will Spain’s snap election in November bring a far-right party into government?",
-          "url": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
-          "date": "2026-11-16T05:00:33+00:00"
+          "name": "Phys.org",
+          "title": "Report finds consistent pandemic learning loss and gaps between grades and test scores across Canada",
+          "url": "https://phys.org/news/2026-11-pandemic-loss-gaps-grades-scores.html",
+          "date": "2026-11-17T03:20:01+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.97,
-      "expanded": "Spain is holding its sixth general election in 11 years on 29 November, which could end eight years of socialist rule and potentially bring a far‑right party into government for the first time since the end of Franco’s dictatorship.",
-      "why": "It would mark a significant shift in Spain’s post‑Franco democratic politics, introducing a far‑right party into the governing coalition.",
+      "score": 6.93,
+      "expanded": "A national report shows student performance fell in every Canadian province and territory during the COVID‑19 pandemic, with grade inflation masking the true extent of learning losses and widening gaps between grades and test scores.",
+      "why": "It highlights widespread educational setbacks that may affect future workforce readiness and equity across Canada.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Crime, War & Justice",
-      "title": "Who can force Israel to implement Gaza ceasefire deal?",
-      "summary": "Storms batter Palestinian territory as Israel restricts entry of aid.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-      "date": "2026-11-15T20:37:43+00:00",
-      "age": 9.315332957499999,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "title": "Who can force Israel to implement Gaza ceasefire deal?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-          "date": "2026-11-15T20:37:43+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.74
-    },
-    {
       "cat": "Politics & Government",
-      "title": "Cape Verde election: Jose Maria Neves set to win second term",
-      "summary": "Nearly two-thirds of the voters in the West African nation voted to keep President Jose Maria Neves in office, according to provisional results.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cape-verde-election-jose-maria-neves-set-to-win-second-term/a-79952606?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-15T16:47:00+00:00",
-      "age": 13.160610735277777,
+      "title": "EU’s Kallas fights to find a role in Ukraine peace talks",
+      "summary": "Bloc's top diplomat said foreign ministers want a more direct role in Ukraine peace talks after leaders selected a team of national security advisers for the job.",
+      "source": "Politico Europe",
+      "url": "https://www.politico.eu/article/eu-kaja-kallas-fights-to-find-a-role-in-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "date": "2026-11-17T03:00:00+00:00",
+      "age": 2.763043968055556,
       "sources": [
         {
-          "name": "Deutsche Welle",
-          "title": "Cape Verde election: Jose Maria Neves set to win second term",
-          "url": "https://www.dw.com/en/cape-verde-election-jose-maria-neves-set-to-win-second-term/a-79952606?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-15T16:47:00+00:00"
+          "name": "Politico Europe",
+          "title": "EU’s Kallas fights to find a role in Ukraine peace talks",
+          "url": "https://www.politico.eu/article/eu-kaja-kallas-fights-to-find-a-role-in-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "date": "2026-11-17T03:00:00+00:00"
         },
         {
-          "name": "Euronews",
-          "title": "Cape Verde heads to the polls in presidential election",
-          "url": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election",
-          "date": "2026-11-15T09:45:23+00:00"
+          "name": "Al Jazeera English",
+          "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
+          "url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+          "date": "2026-11-17T00:45:11+00:00"
         }
       ],
       "source_count": 2,
       "malta_relevant": false,
-      "score": 6.13,
-      "expanded": "Nearly two‑thirds of voters in Cape Verde cast ballots for incumbent President José Maria Neves, who won the 2021 election, and provisional results indicate he will secure a second term.",
-      "why": "It confirms continuity of leadership in Cape Verde’s stable democratic process.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+      "score": 6.42
     },
     {
-      "cat": "Environment & Climate",
-      "title": "Nations grapple with loss of 1.5C target at UN climate summit",
-      "summary": "For a decade, the 1.5C goal has served as the north star of climate action, a line nations pledged to hold to avoid the worst ravages of a warming planet.",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-nations-grapple-loss-15c-climate.html",
-      "date": "2026-11-15T13:20:05+00:00",
-      "age": 16.609221846388888,
-      "sources": [
-        {
-          "name": "Phys.org",
-          "title": "Nations grapple with loss of 1.5C target at UN climate summit",
-          "url": "https://phys.org/news/2026-11-nations-grapple-loss-15c-climate.html",
-          "date": "2026-11-15T13:20:05+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.54
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
-      "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-16T05:06:59+00:00",
-      "age": 0.8275551797222223,
-      "sources": [
-        {
-          "name": "BBC News",
-          "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-16T05:06:59+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.98
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Eisenkot says Netanyahu ‘cannot remain’ after alleged election interference by aide",
-      "summary": "Israeli prime ministerial hopeful Gadi Eisenkot said on Sunday caretaker premier Benjamin Netanyahu must leave office immediately following reports of alleged electoral interference by a Netanyahu aide.",
+      "cat": "Science & Technology",
+      "title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
+      "summary": "The US state of California has filed a lawsuit against OpenAI over the \"Hugging Face\" and other cyberattacks, accusing the ChatGPT maker of knowingly testing dangerous advanced AI models without adequate safeguard.",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261116-eisenkot-netanyahu-cannot-stay-in-office",
-      "date": "2026-11-16T03:47:28+00:00",
-      "age": 2.1528329575000003,
+      "url": "https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks",
+      "date": "2026-11-16T21:27:15+00:00",
+      "age": 8.30887730138889,
       "sources": [
         {
           "name": "France 24",
-          "title": "Eisenkot says Netanyahu ‘cannot remain’ after alleged election interference by aide",
-          "url": "https://www.france24.com/en/middle-east/20261116-eisenkot-netanyahu-cannot-stay-in-office",
-          "date": "2026-11-16T03:47:28+00:00"
+          "title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
+          "url": "https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks",
+          "date": "2026-11-16T21:27:15+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "California sues OpenAI over Hugging Face attack",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-16T23:12:24+00:00"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "malta_relevant": false,
-      "score": 4.94,
-      "expanded": "Gadi Eisenkot, a former army chief and prime ministerial hopeful, said Netanyahu must leave office immediately after reports that a Netanyahu aide allegedly interfered in elections. Eisenkot called Netanyahu and his entourage an immediate threat to democracy, speaking hours after talks about forming a national unity government.",
-      "why": "Eisenkot’s call signals a serious challenge to Netanyahu’s leadership amid allegations of electoral misconduct.",
+      "score": 6.27,
+      "expanded": "California filed a lawsuit against OpenAI, alleging the company knowingly tested dangerous advanced AI models, including the Hugging Face attack, without adequate safeguards. The state claims OpenAI misled the public and endangered safety.",
+      "why": "The suit highlights growing concerns over AI safety and regulatory oversight in the U.S.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Crime, War & Justice",
-      "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
-      "summary": "riggered by high-profile cases must “pull back the curtain” on the treatment of people making allegations of sexual offences in the criminal justice system in England and Wales, the government’s independent adviser on rape has told the Guardian.",
+      "cat": "Major World Events",
+      "title": "Trump heads to Asia for historic nuclear talks with China and Russia",
+      "summary": "US President Donald Trump headed to Asia on Monday for economic talks and a planned trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin on nuclear issues and the war in Ukraine.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia",
+      "date": "2026-11-17T03:07:59+00:00",
+      "age": 2.6299884125000004,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "Trump heads to Asia for historic nuclear talks with China and Russia",
+          "url": "https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia",
+          "date": "2026-11-17T03:07:59+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.93,
+      "expanded": "US President Donald Trump traveled to Asia on Monday for economic discussions and to meet with Chinese President Xi Jinping and Russian President Vladimir Putin. The meeting focused on nuclear issues and the war in Ukraine, and Trump also mentioned the possibility of meeting North Korean leader Kim Jong Un.",
+      "why": "The talks involve key global security issues, including nuclear policy and the Ukraine conflict.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Science & Technology",
+      "title": "Magnitude-6.6 earthquake prompts scientist's 'drop, cover, hold' reminder",
+      "summary": "Hundreds of Australians have reported feeling tremors from a magnitude-6.6 earthquake that struck Indonesia this morning.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-17/magnitude-6-6-earthquake-indonesia-tremors-felt-in-darwin/107393396",
+      "date": "2026-11-16T22:06:54+00:00",
+      "age": 7.648043968055556,
+      "sources": [
+        {
+          "name": "ABC News Australia",
+          "title": "Magnitude-6.6 earthquake prompts scientist's 'drop, cover, hold' reminder",
+          "url": "https://www.abc.net.au/news/2026-11-17/magnitude-6-6-earthquake-indonesia-tremors-felt-in-darwin/107393396",
+          "date": "2026-11-16T22:06:54+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.79
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Malta Consults 46 NGOs On New Laws To Better Protect Domestic Violence Victims",
+      "summary": "Malta is working on two new pieces of legislation aimed at strengthening protection for victims of domestic violence and violence against women, including sexual abuse and the non-consensual sharing of intimate images.",
+      "source": "Lovin Malta",
+      "url": "https://lovinmalta.com/news/local/malta-consults-46-ngos-on-new-laws-to-better-protect-domestic-violence-victims/",
+      "date": "2026-11-16T13:15:44+00:00",
+      "age": 16.500821745833335,
+      "sources": [
+        {
+          "name": "Lovin Malta",
+          "title": "Malta Consults 46 NGOs On New Laws To Better Protect Domestic Violence Victims",
+          "url": "https://lovinmalta.com/news/local/malta-consults-46-ngos-on-new-laws-to-better-protect-domestic-violence-victims/",
+          "date": "2026-11-16T13:15:44+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": true,
+      "score": 5.04
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Will the EU’s next Russia sanctions bite?",
+      "summary": "Europe’s sports rulebook is getting an update.",
+      "source": "Politico Europe",
+      "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/will-the-eus-next-russia-sanctions-bite/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "date": "2026-11-17T05:05:00+00:00",
+      "age": 0.6797106347222223,
+      "sources": [
+        {
+          "name": "Politico Europe",
+          "title": "Will the EU’s next Russia sanctions bite?",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/will-the-eus-next-russia-sanctions-bite/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "date": "2026-11-17T05:05:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.98,
+      "expanded": "EU Sports Commissioner Glenn Micallef discusses updates to the EU sports rulebook, illegal sports streaming, the future of FIFA President Gianni Infantino, Russian athletes’ return to international competition, and the EU’s upcoming 22nd round of sanctions against Russia.",
+      "why": "The new sanctions could influence Russia’s economic and political standing in Europe.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Serbia’s Student List candidates to be sworn in as MPs after election triumph",
+      "summary": ", the grassroots movement of political outsiders that pulled off a spectacular victory in last month’s elections over the party of the populist leader Aleksandar Vučić, are to be sworn in as MPs as they begin the process of forming a government.",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
-      "date": "2026-11-15T23:19:05+00:00",
-      "age": 6.625888513055556,
+      "url": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
+      "date": "2026-11-17T05:00:05+00:00",
+      "age": 0.7616550791666667,
       "sources": [
         {
           "name": "The Guardian",
-          "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
-          "url": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
-          "date": "2026-11-15T23:19:05+00:00"
+          "title": "Serbia’s Student List candidates to be sworn in as MPs after election triumph",
+          "url": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
+          "date": "2026-11-17T05:00:05+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.82,
-      "expanded": "Professor Katrin Hohl, the UK government’s independent adviser on rape, has urged ministers to use the public attention from Russell Brand’s rape conviction to review how rape myths and jury directions are handled in criminal trials in England and Wales.",
-      "why": "",
+      "score": 4.98,
+      "expanded": "The Student List, a grassroots movement of political outsiders, won Serbia’s recent elections and 140 of its candidates—including academics, lawyers, scientists and an actor—will be sworn in as MPs during the new parliament’s inaugural session, ending 14 years of rule by President Aleksandar Vučić and the Serbian Progressive Party.",
+      "why": "It marks the end of 14 years of Vučić’s rule and the beginning of a new government led by a diverse, outsider coalition.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Major World Events",
-      "title": "Ebola outbreak remains out of control in Congo 6 months into response",
-      "summary": "More than 11,000 cases have been recorded, and nearly half of those infected have died, according to government data.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response",
-      "date": "2026-11-15T21:07:00+00:00",
-      "age": 8.827277401944444,
+      "cat": "Art, Artists & History of Art",
+      "title": "Restitution Claim on $180M Van Gogh Shakes Up Sotheby's Marquee Week",
+      "summary": "Heirs of the Jewish publisher Samuel Fischer, who once owned the painting, are requesting it be withdrawn from auction.",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/restitution-claim-on-180m-van-gogh-shakes-up-sothebys-marquee-week/",
+      "date": "2026-11-16T20:07:12+00:00",
+      "age": 9.643043968055556,
       "sources": [
         {
-          "name": "PBS NewsHour",
-          "title": "Ebola outbreak remains out of control in Congo 6 months into response",
-          "url": "https://www.pbs.org/newshour/world/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response",
-          "date": "2026-11-15T21:07:00+00:00"
+          "name": "Hyperallergic",
+          "title": "Restitution Claim on $180M Van Gogh Shakes Up Sotheby's Marquee Week",
+          "url": "https://hyperallergic.com/restitution-claim-on-180m-van-gogh-shakes-up-sothebys-marquee-week/",
+          "date": "2026-11-16T20:07:12+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.75,
-      "expanded": "More than 11,000 Ebola cases have been recorded in the Congo, with nearly half of those infected dying. This outbreak is the deadliest in the country’s history and is projected to exceed the 11,000 deaths of the 2014‑2016 West African epidemic.",
-      "why": "The high fatality rate and potential to surpass a historic global outbreak underscore the severity of the crisis.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+      "score": 4.73
     },
     {
       "cat": "Major World Events",
-      "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
-      "summary": "The ballot measure, decided as part of the Nov.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system",
-      "date": "2026-11-14T18:43:07+00:00",
-      "age": 35.2253329575,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
-          "url": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system",
-          "date": "2026-11-14T18:43:07+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.02,
-      "expanded": "Alaska voters voted against a ballot measure that would have ended the state's open primary and ranked‑voting system. The measure was rejected in the Nov. 3 election, marking the second time in two years that voters have opposed attempts to return to partisan primaries and single‑candidate general elections.",
-      "why": "The decision preserves Alaska’s current open‑primary and ranked‑voting framework, maintaining broader voter participation and multi‑candidate general elections.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Mexican drug lord Felix Gallardo dies at 80",
-      "summary": "Felix Gallardo was considered to be the architect of Mexico's modern drug-trafficking trade. He died of multiple organ failure at the age of 80.",
+      "title": "EU sanctions Wildberries CEO Tatyana Kim, Russia's richest woman",
+      "summary": "Wildberries, Russia's largest online retailer, has been the target of Ukrainian attacks for its role in supplying the Russian military. The EU has now frozen its owner's assets and banned her from travel to the bloc.",
       "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-16T05:39:00+00:00",
-      "age": 0.2939440686111111,
+      "url": "https://www.dw.com/en/eu-sanctions-wildberries-ceo-tatyana-kim-russia-s-richest-woman/a-79962532?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-16T19:18:00+00:00",
+      "age": 10.463043968055556,
       "sources": [
         {
           "name": "Deutsche Welle",
-          "title": "Mexican drug lord Felix Gallardo dies at 80",
-          "url": "https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-16T05:39:00+00:00"
-        },
-        {
-          "name": "BBC News",
-          "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-          "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-16T03:21:56+00:00"
-        },
-        {
-          "name": "France 24",
-          "title": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies age 80",
-          "url": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies",
-          "date": "2026-11-15T22:48:31+00:00"
-        }
-      ],
-      "source_count": 3,
-      "malta_relevant": false,
-      "score": 3.99,
-      "expanded": "Felix Gallardo, a founding figure of Mexico’s Guadalajara cartel and dubbed the ‘boss of bosses’, died at age 80 after multiple organ failure. He had been imprisoned since 1989 and was moved to a hospital two days before his death.",
-      "why": "His death marks the end of a key era in Mexico’s drug‑trafficking history, closing a chapter on the cartel’s early dominance.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Mother of five children killed in house fire tells inquest 'fire was everywhere'",
-      "summary": "A mother whose five sons and partner died in a house fire on Russell Island has begun giving evidence at an inquest into their deaths.",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-11-16/russell-island-house-fire-five-boys-man-killed-inquest/107389450",
-      "date": "2026-11-16T05:12:03+00:00",
-      "age": 0.7431107352777778,
-      "sources": [
-        {
-          "name": "ABC News Australia",
-          "title": "Mother of five children killed in house fire tells inquest 'fire was everywhere'",
-          "url": "https://www.abc.net.au/news/2026-11-16/russell-island-house-fire-five-boys-man-killed-inquest/107389450",
-          "date": "2026-11-16T05:12:03+00:00"
+          "title": "EU sanctions Wildberries CEO Tatyana Kim, Russia's richest woman",
+          "url": "https://www.dw.com/en/eu-sanctions-wildberries-ceo-tatyana-kim-russia-s-richest-woman/a-79962532?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-16T19:18:00+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 3.98
+      "score": 4.71
     },
     {
-      "cat": "Crime, War & Justice",
-      "title": "Tug of war continues over mysterious foreign barge",
-      "summary": "About 10 months after an Indonesian barge drifted through the sea and ran aground on an Australian island, there is still no plan to salvage its rusting wreck.",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-11-16/indonesian-ghost-barge-nelly-112-rusts-torres-strait/107390228",
-      "date": "2026-11-16T03:15:59+00:00",
-      "age": 2.677555179722222,
+      "cat": "Major World Events",
+      "title": "Europe must embrace AI's 'creative destruction', Nobel economist says",
+      "summary": "Nobel Prize-winning economist Philippe Aghion urged the EU to encourage new players in the AI market, ease restrictions on state aid and strengthen protections for workers facing technological disruption.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/16/europe-must-embrace-ais-creative-destruction-nobel-economist-says",
+      "date": "2026-11-16T13:24:36+00:00",
+      "age": 16.353043968055555,
       "sources": [
         {
-          "name": "ABC News Australia",
-          "title": "Tug of war continues over mysterious foreign barge",
-          "url": "https://www.abc.net.au/news/2026-11-16/indonesian-ghost-barge-nelly-112-rusts-torres-strait/107390228",
-          "date": "2026-11-16T03:15:59+00:00"
+          "name": "Euronews",
+          "title": "Europe must embrace AI's 'creative destruction', Nobel economist says",
+          "url": "https://www.euronews.com/2026/11/16/europe-must-embrace-ais-creative-destruction-nobel-economist-says",
+          "date": "2026-11-16T13:24:36+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 3.93,
-      "expanded": "About ten months after an Indonesian barge drifted across the sea and ran aground on an Australian island, authorities have not announced any plan to salvage the rusting wreck.",
-      "why": "",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+      "score": 4.55
+    },
+    {
+      "cat": "Health & Wellness",
+      "title": "'It's close to bulletproof,' doctor says of MMR vaccine as measles cases rise",
+      "summary": "Global health authorities are expected to announce that the U.S.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/its-close-to-bulletproof-doctor-says-of-mmr-vaccine-as-measles-cases-rise",
+      "date": "2026-11-16T23:25:20+00:00",
+      "age": 6.340821745833334,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "title": "'It's close to bulletproof,' doctor says of MMR vaccine as measles cases rise",
+          "url": "https://www.pbs.org/newshour/show/its-close-to-bulletproof-doctor-says-of-mmr-vaccine-as-measles-cases-rise",
+          "date": "2026-11-16T23:25:20+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 3.82
     }
   ],
-  "afternoon": [
-    {
-      "cat": "Business & Marketing",
-      "title": "Bank of Canada likely to hold interest rates steady in December after flat inflation data: economists",
-      "summary": "The national inflation rate was flat on an annualized basis in October, according to data released by Statistics Canada on Monday.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/business/cpi-inflation-october-9.7423293?cmp=rss",
-      "date": "2026-11-16T13:43:51+00:00",
-      "age": 2.8380356808333334,
-      "sources": [
-        {
-          "name": "CBC News",
-          "title": "Bank of Canada likely to hold interest rates steady in December after flat inflation data: economists",
-          "url": "https://www.cbc.ca/news/business/cpi-inflation-october-9.7423293?cmp=rss",
-          "date": "2026-11-16T13:43:51+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 10.92
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Toronto police arrest suspect in violent Bridle Path home invasion investigation",
-      "summary": "Toronto police say one man has been arrested in last month's violent home invasion in the Bridle Path neighbourhood.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/canada/toronto/suspect-arrested-bridle-path-home-invasion-9.7423587?cmp=rss",
-      "date": "2026-11-16T16:00:34+00:00",
-      "age": 0.5594245697222222,
-      "sources": [
-        {
-          "name": "CBC News",
-          "title": "Toronto police arrest suspect in violent Bridle Path home invasion investigation",
-          "url": "https://www.cbc.ca/news/canada/toronto/suspect-arrested-bridle-path-home-invasion-9.7423587?cmp=rss",
-          "date": "2026-11-16T16:00:34+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 8.98
-    }
-  ],
-  "feed_warnings": [],
-  "afternoon_checked_at": "2026-11-16T17:34:07.928437+01:00"
+  "afternoon": [],
+  "feed_warnings": []
 }
