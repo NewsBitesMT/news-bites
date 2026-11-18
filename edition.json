@@ -1,279 +1,289 @@
 {
-  "edition_date": "2026-11-17",
-  "generated_at": "2026-11-17T06:45:46.958270+01:00",
+  "edition_date": "2026-11-18",
+  "generated_at": "2026-11-18T06:49:29.093966+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
     {
-      "cat": "Science & Technology",
-      "title": "Report finds consistent pandemic learning loss and gaps between grades and test scores across Canada",
-      "summary": "A new national report identifies declines in student performance in every province and territory examined in Canada, with grade inflation obscuring the extent of setbacks during the COVID-19 pandemic.",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-pandemic-loss-gaps-grades-scores.html",
-      "date": "2026-11-17T03:20:01+00:00",
-      "age": 2.4294328569444446,
+      "cat": "Crime, War & Justice",
+      "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+      "summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+      "date": "2026-11-18T01:07:01+00:00",
+      "age": 4.7078038838888885,
       "sources": [
-        {
-          "name": "Phys.org",
-          "title": "Report finds consistent pandemic learning loss and gaps between grades and test scores across Canada",
-          "url": "https://phys.org/news/2026-11-pandemic-loss-gaps-grades-scores.html",
-          "date": "2026-11-17T03:20:01+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.93,
-      "expanded": "A national report shows student performance fell in every Canadian province and territory during the COVID‑19 pandemic, with grade inflation masking the true extent of learning losses and widening gaps between grades and test scores.",
-      "why": "It highlights widespread educational setbacks that may affect future workforce readiness and equity across Canada.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "EU’s Kallas fights to find a role in Ukraine peace talks",
-      "summary": "Bloc's top diplomat said foreign ministers want a more direct role in Ukraine peace talks after leaders selected a team of national security advisers for the job.",
-      "source": "Politico Europe",
-      "url": "https://www.politico.eu/article/eu-kaja-kallas-fights-to-find-a-role-in-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "date": "2026-11-17T03:00:00+00:00",
-      "age": 2.763043968055556,
-      "sources": [
-        {
-          "name": "Politico Europe",
-          "title": "EU’s Kallas fights to find a role in Ukraine peace talks",
-          "url": "https://www.politico.eu/article/eu-kaja-kallas-fights-to-find-a-role-in-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "date": "2026-11-17T03:00:00+00:00"
-        },
         {
           "name": "Al Jazeera English",
-          "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
-          "url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
-          "date": "2026-11-17T00:45:11+00:00"
+          "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+          "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+          "date": "2026-11-18T01:07:01+00:00"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "malta_relevant": false,
-      "score": 6.42
+      "score": 6.87
     },
     {
-      "cat": "Science & Technology",
-      "title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
-      "summary": "The US state of California has filed a lawsuit against OpenAI over the \"Hugging Face\" and other cyberattacks, accusing the ChatGPT maker of knowingly testing dangerous advanced AI models without adequate safeguard.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks",
-      "date": "2026-11-16T21:27:15+00:00",
-      "age": 8.30887730138889,
+      "cat": "Major World Events",
+      "title": "Canada's national emergency alert system will sound off Wednesday for testing",
+      "summary": "Canada's National Public Alerting System is running tests of its Alert Ready system Wednesday across all provinces and territories. Alert Ready delivers alerts about critical events such as tornadoes, flooding, fires and Amber alerts.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/canada/emergency-alert-test-canada-9.7425360?cmp=rss",
+      "date": "2026-11-17T20:33:35+00:00",
+      "age": 9.26502610611111,
       "sources": [
         {
-          "name": "France 24",
-          "title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
-          "url": "https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks",
-          "date": "2026-11-16T21:27:15+00:00"
-        },
-        {
-          "name": "BBC News",
-          "title": "California sues OpenAI over Hugging Face attack",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-16T23:12:24+00:00"
+          "name": "CBC News",
+          "title": "Canada's national emergency alert system will sound off Wednesday for testing",
+          "url": "https://www.cbc.ca/news/canada/emergency-alert-test-canada-9.7425360?cmp=rss",
+          "date": "2026-11-17T20:33:35+00:00"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "malta_relevant": false,
-      "score": 6.27,
-      "expanded": "California filed a lawsuit against OpenAI, alleging the company knowingly tested dangerous advanced AI models, including the Hugging Face attack, without adequate safeguards. The state claims OpenAI misled the public and endangered safety.",
-      "why": "The suit highlights growing concerns over AI safety and regulatory oversight in the U.S.",
+      "score": 5.74,
+      "expanded": "Canada’s National Public Alerting System will conduct a nationwide test of its Alert Ready system on Wednesday, sending alerts to all provinces and territories about emergencies like tornadoes, flooding, fires and Amber alerts.",
+      "why": "The test ensures the system’s readiness to warn Canadians of critical events.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Major World Events",
-      "title": "Trump heads to Asia for historic nuclear talks with China and Russia",
-      "summary": "US President Donald Trump headed to Asia on Monday for economic talks and a planned trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin on nuclear issues and the war in Ukraine.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia",
-      "date": "2026-11-17T03:07:59+00:00",
-      "age": 2.6299884125000004,
+      "cat": "Environment & Climate",
+      "title": "In final stretch of climate summit, Indigenous leaders call for lasting action",
+      "summary": "The annual U.N. Framework Convention on Climate Change gathering drew historic levels of Indigenous attendance in Belém, Brazil, last year, leading some to dub it “the Indigenous COP.” But the event was marked by frustration and protest, with…",
+      "source": "Mongabay",
+      "url": "https://news.mongabay.com/2026/11/in-final-stretch-of-climate-summit-indigenous-leaders-call-for-lasting-action/",
+      "date": "2026-11-17T15:39:30+00:00",
+      "age": 14.166414995,
       "sources": [
         {
-          "name": "France 24",
-          "title": "Trump heads to Asia for historic nuclear talks with China and Russia",
-          "url": "https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia",
-          "date": "2026-11-17T03:07:59+00:00"
+          "name": "Mongabay",
+          "title": "In final stretch of climate summit, Indigenous leaders call for lasting action",
+          "url": "https://news.mongabay.com/2026/11/in-final-stretch-of-climate-summit-indigenous-leaders-call-for-lasting-action/",
+          "date": "2026-11-17T15:39:30+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.93,
-      "expanded": "US President Donald Trump traveled to Asia on Monday for economic discussions and to meet with Chinese President Xi Jinping and Russian President Vladimir Putin. The meeting focused on nuclear issues and the war in Ukraine, and Trump also mentioned the possibility of meeting North Korean leader Kim Jong Un.",
-      "why": "The talks involve key global security issues, including nuclear policy and the Ukraine conflict.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Science & Technology",
-      "title": "Magnitude-6.6 earthquake prompts scientist's 'drop, cover, hold' reminder",
-      "summary": "Hundreds of Australians have reported feeling tremors from a magnitude-6.6 earthquake that struck Indonesia this morning.",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-11-17/magnitude-6-6-earthquake-indonesia-tremors-felt-in-darwin/107393396",
-      "date": "2026-11-16T22:06:54+00:00",
-      "age": 7.648043968055556,
-      "sources": [
-        {
-          "name": "ABC News Australia",
-          "title": "Magnitude-6.6 earthquake prompts scientist's 'drop, cover, hold' reminder",
-          "url": "https://www.abc.net.au/news/2026-11-17/magnitude-6-6-earthquake-indonesia-tremors-felt-in-darwin/107393396",
-          "date": "2026-11-16T22:06:54+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.79
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Malta Consults 46 NGOs On New Laws To Better Protect Domestic Violence Victims",
-      "summary": "Malta is working on two new pieces of legislation aimed at strengthening protection for victims of domestic violence and violence against women, including sexual abuse and the non-consensual sharing of intimate images.",
-      "source": "Lovin Malta",
-      "url": "https://lovinmalta.com/news/local/malta-consults-46-ngos-on-new-laws-to-better-protect-domestic-violence-victims/",
-      "date": "2026-11-16T13:15:44+00:00",
-      "age": 16.500821745833335,
-      "sources": [
-        {
-          "name": "Lovin Malta",
-          "title": "Malta Consults 46 NGOs On New Laws To Better Protect Domestic Violence Victims",
-          "url": "https://lovinmalta.com/news/local/malta-consults-46-ngos-on-new-laws-to-better-protect-domestic-violence-victims/",
-          "date": "2026-11-16T13:15:44+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": true,
-      "score": 5.04
+      "score": 5.61
     },
     {
       "cat": "Politics & Government",
-      "title": "Will the EU’s next Russia sanctions bite?",
-      "summary": "Europe’s sports rulebook is getting an update.",
+      "title": "FIFA election: Who are Infantino’s challengers, and will he be re-elected?",
+      "summary": "A look at FIFA's presidential election process, the challengers and key dates, as Gianni Infantino seeks a fourth term.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
+      "date": "2026-11-18T05:16:25+00:00",
+      "age": 0.5511372172222222,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "title": "FIFA election: Who are Infantino’s challengers, and will he be re-elected?",
+          "url": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
+          "date": "2026-11-18T05:16:25+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.98
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+      "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T00:44:48+00:00",
+      "age": 5.078081661666666,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+          "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-18T00:44:48+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.86
+    },
+    {
+      "cat": "Science & Technology",
+      "title": "IIHF confirms cyberattack after website goes offline",
+      "summary": "The International Ice Hockey Federation has confirmed it has been targeted by a cyberattack, with the organization's website offline since Tuesday morning.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/iihf-website-hacked-russia-9.7424810?cmp=rss",
+      "date": "2026-11-17T21:44:05+00:00",
+      "age": 8.090026106111111,
+      "sources": [
+        {
+          "name": "CBC News",
+          "title": "IIHF confirms cyberattack after website goes offline",
+          "url": "https://www.cbc.ca/news/world/iihf-website-hacked-russia-9.7424810?cmp=rss",
+          "date": "2026-11-17T21:44:05+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.78,
+      "expanded": "The International Ice Hockey Federation said its website has been offline since Tuesday morning after a cyberattack.",
+      "why": "The federation’s online services and communications are disrupted.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "AI imagery complicates Nigeria's election prep",
+      "summary": "In tonight's edition, concerns emerge that AI has been used to generate fake voting profiles ahead of Nigeria's high-stakes general election in January.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ai-imagery-complicates-nigeria-s-election-prep",
+      "date": "2026-11-17T21:20:27+00:00",
+      "age": 8.483914995,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "AI imagery complicates Nigeria's election prep",
+          "url": "https://www.france24.com/en/ai-imagery-complicates-nigeria-s-election-prep",
+          "date": "2026-11-17T21:20:27+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.76,
+      "expanded": "AI-generated fake voting profiles are reportedly circulating ahead of Nigeria’s January general election, raising concerns about misinformation in the electoral process. The report also notes a mining marshal investigating illegal mining operations and a new archaeological find in northern Sudan, but these are separate issues.",
+      "why": "The spread of AI‑fabricated voter data could undermine the integrity of Nigeria’s upcoming election.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
+      "summary": "German Defense Minister Boris Pistorius slammed the U.S. criticism as a \"stupid thing.\"",
       "source": "Politico Europe",
-      "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/will-the-eus-next-russia-sanctions-bite/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "date": "2026-11-17T05:05:00+00:00",
-      "age": 0.6797106347222223,
+      "url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "date": "2026-11-17T19:53:42+00:00",
+      "age": 9.929748328333332,
       "sources": [
         {
           "name": "Politico Europe",
-          "title": "Will the EU’s next Russia sanctions bite?",
-          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/will-the-eus-next-russia-sanctions-bite/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "date": "2026-11-17T05:05:00+00:00"
+          "title": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
+          "url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "date": "2026-11-17T19:53:42+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.98,
-      "expanded": "EU Sports Commissioner Glenn Micallef discusses updates to the EU sports rulebook, illegal sports streaming, the future of FIFA President Gianni Infantino, Russian athletes’ return to international competition, and the EU’s upcoming 22nd round of sanctions against Russia.",
-      "why": "The new sanctions could influence Russia’s economic and political standing in Europe.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+      "score": 4.72
     },
     {
-      "cat": "Politics & Government",
-      "title": "Serbia’s Student List candidates to be sworn in as MPs after election triumph",
-      "summary": ", the grassroots movement of political outsiders that pulled off a spectacular victory in last month’s elections over the party of the populist leader Aleksandar Vučić, are to be sworn in as MPs as they begin the process of forming a government.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
-      "date": "2026-11-17T05:00:05+00:00",
-      "age": 0.7616550791666667,
+      "cat": "Business & Marketing",
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17T18:27:27+00:00",
+      "age": 11.367248328333332,
       "sources": [
         {
-          "name": "The Guardian",
-          "title": "Serbia’s Student List candidates to be sworn in as MPs after election triumph",
-          "url": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
-          "date": "2026-11-17T05:00:05+00:00"
+          "name": "BBC News",
+          "title": "UK sanctions firms over Israeli West Bank settlements",
+          "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-17T18:27:27+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.98,
-      "expanded": "The Student List, a grassroots movement of political outsiders, won Serbia’s recent elections and 140 of its candidates—including academics, lawyers, scientists and an actor—will be sworn in as MPs during the new parliament’s inaugural session, ending 14 years of rule by President Aleksandar Vučić and the Serbian Progressive Party.",
-      "why": "It marks the end of 14 years of Vučić’s rule and the beginning of a new government led by a diverse, outsider coalition.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Art, Artists & History of Art",
-      "title": "Restitution Claim on $180M Van Gogh Shakes Up Sotheby's Marquee Week",
-      "summary": "Heirs of the Jewish publisher Samuel Fischer, who once owned the painting, are requesting it be withdrawn from auction.",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/restitution-claim-on-180m-van-gogh-shakes-up-sothebys-marquee-week/",
-      "date": "2026-11-16T20:07:12+00:00",
-      "age": 9.643043968055556,
-      "sources": [
-        {
-          "name": "Hyperallergic",
-          "title": "Restitution Claim on $180M Van Gogh Shakes Up Sotheby's Marquee Week",
-          "url": "https://hyperallergic.com/restitution-claim-on-180m-van-gogh-shakes-up-sothebys-marquee-week/",
-          "date": "2026-11-16T20:07:12+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.73
+      "score": 4.68
     },
     {
       "cat": "Major World Events",
-      "title": "EU sanctions Wildberries CEO Tatyana Kim, Russia's richest woman",
-      "summary": "Wildberries, Russia's largest online retailer, has been the target of Ukrainian attacks for its role in supplying the Russian military. The EU has now frozen its owner's assets and banned her from travel to the bloc.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-sanctions-wildberries-ceo-tatyana-kim-russia-s-richest-woman/a-79962532?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-16T19:18:00+00:00",
-      "age": 10.463043968055556,
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "title": "EU sanctions Wildberries CEO Tatyana Kim, Russia's richest woman",
-          "url": "https://www.dw.com/en/eu-sanctions-wildberries-ceo-tatyana-kim-russia-s-richest-woman/a-79962532?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-16T19:18:00+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.71
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Europe must embrace AI's 'creative destruction', Nobel economist says",
-      "summary": "Nobel Prize-winning economist Philippe Aghion urged the EU to encourage new players in the AI market, ease restrictions on state aid and strengthen protections for workers facing technological disruption.",
+      "title": "Russia plays for time as Europe and US push for direct peace talks",
+      "summary": "The next phase of the peace talks remains uncertain as Russia continues to play down the possibility of face-to-face talks with Europe, despite mounting pressure from Washington to make it happen.",
       "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/16/europe-must-embrace-ais-creative-destruction-nobel-economist-says",
-      "date": "2026-11-16T13:24:36+00:00",
-      "age": 16.353043968055555,
+      "url": "https://www.euronews.com/2026/11/17/russia-plays-for-time-as-europe-and-us-push-for-direct-peace-talks",
+      "date": "2026-11-17T15:03:11+00:00",
+      "age": 14.771692772777778,
       "sources": [
         {
           "name": "Euronews",
-          "title": "Europe must embrace AI's 'creative destruction', Nobel economist says",
-          "url": "https://www.euronews.com/2026/11/16/europe-must-embrace-ais-creative-destruction-nobel-economist-says",
-          "date": "2026-11-16T13:24:36+00:00"
+          "title": "Russia plays for time as Europe and US push for direct peace talks",
+          "url": "https://www.euronews.com/2026/11/17/russia-plays-for-time-as-europe-and-us-push-for-direct-peace-talks",
+          "date": "2026-11-17T15:03:11+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.55
+      "score": 4.59,
+      "expanded": "Russia is downplaying the likelihood of in-person peace negotiations with Europe, even as the United States urges direct talks. The future stage of the peace process is unclear, with Russia maintaining a cautious stance.",
+      "why": "It signals potential delays in resolving the conflict, affecting diplomatic momentum between Russia, Europe, and the US.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Health & Wellness",
-      "title": "'It's close to bulletproof,' doctor says of MMR vaccine as measles cases rise",
-      "summary": "Global health authorities are expected to announce that the U.S.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/show/its-close-to-bulletproof-doctor-says-of-mmr-vaccine-as-measles-cases-rise",
-      "date": "2026-11-16T23:25:20+00:00",
-      "age": 6.340821745833334,
+      "cat": "Environment & Climate",
+      "title": "Prince William’s presents Earthshot Prize winners with $1.3M each in Mumbai",
+      "summary": "MUMBAI, India (AP) — Prince William presented five Earthshot Prize winners with 1 million pounds ($1.3 million) each on Tuesday, recognizing their efforts to tackle the world’s climate challenges.",
+      "source": "Mongabay",
+      "url": "https://news.mongabay.com/short-article/2026/11/prince-williams-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
+      "date": "2026-11-17T18:31:16+00:00",
+      "age": 11.303637217222223,
       "sources": [
         {
-          "name": "PBS NewsHour",
-          "title": "'It's close to bulletproof,' doctor says of MMR vaccine as measles cases rise",
-          "url": "https://www.pbs.org/newshour/show/its-close-to-bulletproof-doctor-says-of-mmr-vaccine-as-measles-cases-rise",
-          "date": "2026-11-16T23:25:20+00:00"
+          "name": "Mongabay",
+          "title": "Prince William’s presents Earthshot Prize winners with $1.3M each in Mumbai",
+          "url": "https://news.mongabay.com/short-article/2026/11/prince-williams-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
+          "date": "2026-11-17T18:31:16+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-17T18:20:36+00:00"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "malta_relevant": false,
-      "score": 3.82
+      "score": 4.19,
+      "expanded": "Prince William presented five Earthshot Prize winners with 1 million pounds (about $1.3 million) each during the annual ceremony in Mumbai, part of his and Princess Catherine’s three‑day visit to India.",
+      "why": "The awards recognize significant contributions to climate action and highlight the UK’s support for global environmental initiatives.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "APEC summit: What Trump, Xi and Putin want",
+      "summary": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hope to gain?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-18T05:39:00+00:00",
+      "age": 0.17474832833333334,
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "title": "APEC summit: What Trump, Xi and Putin want",
+          "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-18T05:39:00+00:00"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+          "date": "2026-11-18T05:26:06+00:00"
+        },
+        {
+          "name": "NPR",
+          "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+          "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+          "date": "2026-11-17T12:20:57+00:00"
+        }
+      ],
+      "source_count": 3,
+      "malta_relevant": false,
+      "score": 4.0,
+      "expanded": "The APEC summit in Shenzhen will feature a first‑time trilateral meeting between U.S. President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin. Trump intends to discuss Ukraine, while Xi and Putin have differing priorities on trade, Ukraine, Iran, and arms control. The meeting is expected to address these divergent interests.",
+      "why": "It could shape U.S., Chinese, and Russian positions on key geopolitical issues such as Ukraine, Iran, and global trade.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
   ],
   "afternoon": [],
