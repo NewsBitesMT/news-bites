@@ -286,6 +286,32 @@
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
   ],
-  "afternoon": [],
-  "feed_warnings": []
+  "afternoon": [
+    {
+      "cat": "Environment & Climate",
+      "title": "Lucio Usobiaga wins 2026 ‘Nobel Prize of Gastronomy’ for protecting Mexico’s chinampas ecosystem",
+      "summary": "Lucio Usobiaga of Mexico won the 2026 Basque Culinary World Prize for his project Arca Tierra, a network of farmers and the culinary community of Mexico that helps preserve Mexico City’s traditional chinampa agricultural system.",
+      "source": "Mongabay",
+      "url": "https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/",
+      "date": "2026-11-18T09:31:11+00:00",
+      "age": 6.336702114166667,
+      "sources": [
+        {
+          "name": "Mongabay",
+          "title": "Lucio Usobiaga wins 2026 ‘Nobel Prize of Gastronomy’ for protecting Mexico’s chinampas ecosystem",
+          "url": "https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/",
+          "date": "2026-11-18T09:31:11+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 11.82,
+      "expanded": "Lucio Usobiaga, a Mexican chef, received the 2026 Basque Culinary World Prize for his Arca Tierra initiative, which connects farmers and chefs to safeguard Mexico City’s historic chinampa agricultural system—ancient canal‑island farms built in wetlands.",
+      "why": "The award highlights the role of gastronomy in preserving traditional ecological practices and supports sustainable food systems in urban Mexico.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    }
+  ],
+  "feed_warnings": [],
+  "afternoon_checked_at": "2026-11-18T16:51:23.127594+01:00"
 }
