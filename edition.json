@@ -278,6 +278,74 @@
       "score": 4.66
     }
   ],
-  "afternoon": [],
-  "feed_warnings": []
+  "afternoon": [
+    {
+      "cat": "Major World Events",
+      "title": "AI demand will push up interest rates around the world, IMF head warns",
+      "summary": "t, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund (IMF) has warned.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+      "date": "2026-11-19T15:15:14+00:00",
+      "age": 0.588837531388889,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "AI demand will push up interest rates around the world, IMF head warns",
+          "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+          "date": "2026-11-19T15:15:14+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 7.98,
+      "expanded": "The IMF managing director Kristalina Georgieva warned that growing demand for AI hardware and related technology is driving up consumer prices worldwide, prompting central banks to consider raising interest rates.",
+      "why": "Higher interest rates could affect global borrowing costs and economic growth as AI-driven inflation pressures mount.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "No breakthroughs from Trump, Xi and Putin's 3-way talks on nuclear risks",
+      "summary": "They were to discuss the wars in Ukraine and Iran and how to reduce the dangers posed by nuclear arsenals. But after roughly 70 minutes behind closed doors, they agreed to a far narrower agenda.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/no-breakthroughs-from-trump-xi-and-putins-3-way-talks-on-nuclear-risks",
+      "date": "2026-11-19T15:45:15+00:00",
+      "age": 0.08855975361111111,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "title": "No breakthroughs from Trump, Xi and Putin's 3-way talks on nuclear risks",
+          "url": "https://www.pbs.org/newshour/world/no-breakthroughs-from-trump-xi-and-putins-3-way-talks-on-nuclear-risks",
+          "date": "2026-11-19T15:45:15+00:00"
+        },
+        {
+          "name": "France 24",
+          "title": "What to know about Xi, Putin and Trump's historic trilateral summit",
+          "url": "https://www.france24.com/en/asia-pacific/20261119-what-to-know-about-xi-putin-and-trump-s-historic-trilateral-summit",
+          "date": "2026-11-19T13:11:27+00:00"
+        },
+        {
+          "name": "Newsbook",
+          "title": "Trump, Xi and Putin agree to nuclear risk talks and boost oil supplies",
+          "url": "https://newsbook.com.mt/en/trump-xi-and-putin-agree-to-nuclear-risk-talks-and-boost-oil-supplies/",
+          "date": "2026-11-19T12:29:28+00:00"
+        },
+        {
+          "name": "Euronews",
+          "title": "Watch: Trump, Putin and Xi sit down for historic three-way talks",
+          "url": "https://www.euronews.com/video/2026/11/19/watch-trump-putin-and-xi-sit-down-for-historic-three-way-talks",
+          "date": "2026-11-19T09:20:23+00:00"
+        }
+      ],
+      "source_count": 4,
+      "malta_relevant": false,
+      "score": 7.0,
+      "expanded": "The leaders of the United States, China and Russia met in Shenzhen for a closed‑door summit. They discussed the wars in Ukraine and Iran and how to reduce nuclear risks, but after about 70 minutes they agreed only to a narrow agenda. The meeting produced a “peace declaration” that mentioned reforming the UN, increasing refined petroleum supplies and upholding immunity for officials in international courts.",
+      "why": "",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    }
+  ],
+  "feed_warnings": [],
+  "afternoon_checked_at": "2026-11-19T16:50:33.815101+01:00"
 }
