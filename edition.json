@@ -1,292 +1,8 @@
 {
-  "edition_date": "2026-11-18",
-  "generated_at": "2026-11-18T06:49:29.093966+01:00",
+  "edition_date": "2026-11-19",
+  "generated_at": "2026-11-19T06:47:52.306485+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-      "summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
-      "date": "2026-11-18T01:07:01+00:00",
-      "age": 4.7078038838888885,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-          "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
-          "date": "2026-11-18T01:07:01+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.87
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Canada's national emergency alert system will sound off Wednesday for testing",
-      "summary": "Canada's National Public Alerting System is running tests of its Alert Ready system Wednesday across all provinces and territories. Alert Ready delivers alerts about critical events such as tornadoes, flooding, fires and Amber alerts.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/canada/emergency-alert-test-canada-9.7425360?cmp=rss",
-      "date": "2026-11-17T20:33:35+00:00",
-      "age": 9.26502610611111,
-      "sources": [
-        {
-          "name": "CBC News",
-          "title": "Canada's national emergency alert system will sound off Wednesday for testing",
-          "url": "https://www.cbc.ca/news/canada/emergency-alert-test-canada-9.7425360?cmp=rss",
-          "date": "2026-11-17T20:33:35+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.74,
-      "expanded": "Canada’s National Public Alerting System will conduct a nationwide test of its Alert Ready system on Wednesday, sending alerts to all provinces and territories about emergencies like tornadoes, flooding, fires and Amber alerts.",
-      "why": "The test ensures the system’s readiness to warn Canadians of critical events.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Environment & Climate",
-      "title": "In final stretch of climate summit, Indigenous leaders call for lasting action",
-      "summary": "The annual U.N. Framework Convention on Climate Change gathering drew historic levels of Indigenous attendance in Belém, Brazil, last year, leading some to dub it “the Indigenous COP.” But the event was marked by frustration and protest, with…",
-      "source": "Mongabay",
-      "url": "https://news.mongabay.com/2026/11/in-final-stretch-of-climate-summit-indigenous-leaders-call-for-lasting-action/",
-      "date": "2026-11-17T15:39:30+00:00",
-      "age": 14.166414995,
-      "sources": [
-        {
-          "name": "Mongabay",
-          "title": "In final stretch of climate summit, Indigenous leaders call for lasting action",
-          "url": "https://news.mongabay.com/2026/11/in-final-stretch-of-climate-summit-indigenous-leaders-call-for-lasting-action/",
-          "date": "2026-11-17T15:39:30+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.61
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "FIFA election: Who are Infantino’s challengers, and will he be re-elected?",
-      "summary": "A look at FIFA's presidential election process, the challengers and key dates, as Gianni Infantino seeks a fourth term.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
-      "date": "2026-11-18T05:16:25+00:00",
-      "age": 0.5511372172222222,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "title": "FIFA election: Who are Infantino’s challengers, and will he be re-elected?",
-          "url": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
-          "date": "2026-11-18T05:16:25+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.98
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-      "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T00:44:48+00:00",
-      "age": 5.078081661666666,
-      "sources": [
-        {
-          "name": "BBC News",
-          "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-          "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-18T00:44:48+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.86
-    },
-    {
-      "cat": "Science & Technology",
-      "title": "IIHF confirms cyberattack after website goes offline",
-      "summary": "The International Ice Hockey Federation has confirmed it has been targeted by a cyberattack, with the organization's website offline since Tuesday morning.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/iihf-website-hacked-russia-9.7424810?cmp=rss",
-      "date": "2026-11-17T21:44:05+00:00",
-      "age": 8.090026106111111,
-      "sources": [
-        {
-          "name": "CBC News",
-          "title": "IIHF confirms cyberattack after website goes offline",
-          "url": "https://www.cbc.ca/news/world/iihf-website-hacked-russia-9.7424810?cmp=rss",
-          "date": "2026-11-17T21:44:05+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.78,
-      "expanded": "The International Ice Hockey Federation said its website has been offline since Tuesday morning after a cyberattack.",
-      "why": "The federation’s online services and communications are disrupted.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "AI imagery complicates Nigeria's election prep",
-      "summary": "In tonight's edition, concerns emerge that AI has been used to generate fake voting profiles ahead of Nigeria's high-stakes general election in January.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ai-imagery-complicates-nigeria-s-election-prep",
-      "date": "2026-11-17T21:20:27+00:00",
-      "age": 8.483914995,
-      "sources": [
-        {
-          "name": "France 24",
-          "title": "AI imagery complicates Nigeria's election prep",
-          "url": "https://www.france24.com/en/ai-imagery-complicates-nigeria-s-election-prep",
-          "date": "2026-11-17T21:20:27+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.76,
-      "expanded": "AI-generated fake voting profiles are reportedly circulating ahead of Nigeria’s January general election, raising concerns about misinformation in the electoral process. The report also notes a mining marshal investigating illegal mining operations and a new archaeological find in northern Sudan, but these are separate issues.",
-      "why": "The spread of AI‑fabricated voter data could undermine the integrity of Nigeria’s upcoming election.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
-      "summary": "German Defense Minister Boris Pistorius slammed the U.S. criticism as a \"stupid thing.\"",
-      "source": "Politico Europe",
-      "url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "date": "2026-11-17T19:53:42+00:00",
-      "age": 9.929748328333332,
-      "sources": [
-        {
-          "name": "Politico Europe",
-          "title": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
-          "url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "date": "2026-11-17T19:53:42+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.72
-    },
-    {
-      "cat": "Business & Marketing",
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-17T18:27:27+00:00",
-      "age": 11.367248328333332,
-      "sources": [
-        {
-          "name": "BBC News",
-          "title": "UK sanctions firms over Israeli West Bank settlements",
-          "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-17T18:27:27+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.68
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Russia plays for time as Europe and US push for direct peace talks",
-      "summary": "The next phase of the peace talks remains uncertain as Russia continues to play down the possibility of face-to-face talks with Europe, despite mounting pressure from Washington to make it happen.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/17/russia-plays-for-time-as-europe-and-us-push-for-direct-peace-talks",
-      "date": "2026-11-17T15:03:11+00:00",
-      "age": 14.771692772777778,
-      "sources": [
-        {
-          "name": "Euronews",
-          "title": "Russia plays for time as Europe and US push for direct peace talks",
-          "url": "https://www.euronews.com/2026/11/17/russia-plays-for-time-as-europe-and-us-push-for-direct-peace-talks",
-          "date": "2026-11-17T15:03:11+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.59,
-      "expanded": "Russia is downplaying the likelihood of in-person peace negotiations with Europe, even as the United States urges direct talks. The future stage of the peace process is unclear, with Russia maintaining a cautious stance.",
-      "why": "It signals potential delays in resolving the conflict, affecting diplomatic momentum between Russia, Europe, and the US.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Environment & Climate",
-      "title": "Prince William’s presents Earthshot Prize winners with $1.3M each in Mumbai",
-      "summary": "MUMBAI, India (AP) — Prince William presented five Earthshot Prize winners with 1 million pounds ($1.3 million) each on Tuesday, recognizing their efforts to tackle the world’s climate challenges.",
-      "source": "Mongabay",
-      "url": "https://news.mongabay.com/short-article/2026/11/prince-williams-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
-      "date": "2026-11-17T18:31:16+00:00",
-      "age": 11.303637217222223,
-      "sources": [
-        {
-          "name": "Mongabay",
-          "title": "Prince William’s presents Earthshot Prize winners with $1.3M each in Mumbai",
-          "url": "https://news.mongabay.com/short-article/2026/11/prince-williams-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
-          "date": "2026-11-17T18:31:16+00:00"
-        },
-        {
-          "name": "BBC News",
-          "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-          "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-17T18:20:36+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 4.19,
-      "expanded": "Prince William presented five Earthshot Prize winners with 1 million pounds (about $1.3 million) each during the annual ceremony in Mumbai, part of his and Princess Catherine’s three‑day visit to India.",
-      "why": "The awards recognize significant contributions to climate action and highlight the UK’s support for global environmental initiatives.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "APEC summit: What Trump, Xi and Putin want",
-      "summary": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hope to gain?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-18T05:39:00+00:00",
-      "age": 0.17474832833333334,
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "title": "APEC summit: What Trump, Xi and Putin want",
-          "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-18T05:39:00+00:00"
-        },
-        {
-          "name": "The Guardian",
-          "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-          "date": "2026-11-18T05:26:06+00:00"
-        },
-        {
-          "name": "NPR",
-          "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-          "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
-          "date": "2026-11-17T12:20:57+00:00"
-        }
-      ],
-      "source_count": 3,
-      "malta_relevant": false,
-      "score": 4.0,
-      "expanded": "The APEC summit in Shenzhen will feature a first‑time trilateral meeting between U.S. President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin. Trump intends to discuss Ukraine, while Xi and Putin have differing priorities on trade, Ukraine, Iran, and arms control. The meeting is expected to address these divergent interests.",
-      "why": "It could shape U.S., Chinese, and Russian positions on key geopolitical issues such as Ukraine, Iran, and global trade.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    }
-  ],
-  "afternoon": [
     {
       "cat": "Environment & Climate",
       "title": "Lucio Usobiaga wins 2026 ‘Nobel Prize of Gastronomy’ for protecting Mexico’s chinampas ecosystem",
@@ -294,7 +10,7 @@
       "source": "Mongabay",
       "url": "https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/",
       "date": "2026-11-18T09:31:11+00:00",
-      "age": 6.336702114166667,
+      "age": 20.278140693333334,
       "sources": [
         {
           "name": "Mongabay",
@@ -305,13 +21,263 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 11.82,
-      "expanded": "Lucio Usobiaga, a Mexican chef, received the 2026 Basque Culinary World Prize for his Arca Tierra initiative, which connects farmers and chefs to safeguard Mexico City’s historic chinampa agricultural system—ancient canal‑island farms built in wetlands.",
-      "why": "The award highlights the role of gastronomy in preserving traditional ecological practices and supports sustainable food systems in urban Mexico.",
+      "score": 11.44,
+      "expanded": "Lucio Usobiaga, a Mexican chef, received the 2026 Basque Culinary World Prize for his project Arca Tierra, which connects farmers and the culinary community to protect Mexico City’s chinampa agricultural system—ancient pre‑Aztec canal islands used for farming.",
+      "why": "The award highlights efforts to preserve a unique, sustainable agricultural heritage that supports local food security and biodiversity.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+      "summary": "that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay , if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+      "date": "2026-11-18T09:58:28+00:00",
+      "age": 19.82341847111111,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+          "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+          "date": "2026-11-18T09:58:28+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 8.45,
+      "expanded": "A ruling by the International Court of Justice (ICJ) that Myanmar committed genocide against the Rohingya could trigger US sanctions against ICJ judges, including Nobel Peace Prize laureate Navi Pillay, as the US fears precedent for future cases such as Israel’s actions in Gaza.",
+      "why": "US sanctions on ICJ judges would signal a shift in international legal accountability and could affect future genocide adjudications.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
+      "summary": "Emergency appeal follows a California judge's ruling that ending their temporary protected status was unlawful.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
+      "date": "2026-11-19T04:46:59+00:00",
+      "age": 1.01480736,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "title": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
+          "url": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
+          "date": "2026-11-19T04:46:59+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.97
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Israeli military launches new operation on central Gaza despite ceasefire",
+      "summary": "The military says it is targeting Hamas infrastructure near two refugee camps, while Hamas has accused Israel of violating the truce in place since October 2025.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
+      "date": "2026-11-18T16:01:27+00:00",
+      "age": 13.773696248888887,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "Israeli military launches new operation on central Gaza despite ceasefire",
+          "url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
+          "date": "2026-11-18T16:01:27+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.62,
+      "expanded": "Israeli forces have begun a new operation in central Gaza, aiming at Hamas infrastructure close to two refugee camps, even though a ceasefire has been in place since October 2025.",
+      "why": "",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Five Essential Books for Understanding the History of the U.S. Supreme Court",
+      "summary": "Today’s Supreme Court is widely thought of as the final authority on the U.S.",
+      "source": "Literary Hub",
+      "url": "https://lithub.com/five-essential-books-for-understanding-the-history-of-the-u-s-supreme-court/",
+      "date": "2026-11-18T08:15:50+00:00",
+      "age": 21.53397402666667,
+      "sources": [
+        {
+          "name": "Literary Hub",
+          "title": "Five Essential Books for Understanding the History of the U.S. Supreme Court",
+          "url": "https://lithub.com/five-essential-books-for-understanding-the-history-of-the-u-s-supreme-court/",
+          "date": "2026-11-18T08:15:50+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.4
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+      "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T16:33:16+00:00",
+      "age": 13.243418471111111,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+          "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-18T16:33:16+00:00"
+        },
+        {
+          "name": "Euronews",
+          "title": "Singer Julio Iglesias under investigation for alleged sexual offences",
+          "url": "https://www.euronews.com/2026/11/18/singer-julio-iglesias-under-investigation-for-alleged-sexual-offences",
+          "date": "2026-11-18T14:29:22+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 6.13,
+      "expanded": "The 83‑year‑old singer Julio Iglesias is under investigation by the Spanish National High Court after a complaint from two former employees. They allege sexual offences, bodily harm and degrading treatment at his Caribbean residences in 2021. Iglesias has been summoned to testify on 3 February.",
+      "why": "The case involves a high‑profile public figure and raises concerns about abuse of power and workplace safety.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Economists warn Australia is showing the hallmarks of recession",
+      "summary": "Mortgage holders may welcome news of an end to interest rate hikes this year, and possibly next, but more Australians are tipped to be jobless in 2027.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-19/australias-jobs-market-looking-like-a-recession/107403620",
+      "date": "2026-11-19T04:31:58+00:00",
+      "age": 1.2650851377777779,
+      "sources": [
+        {
+          "name": "ABC News Australia",
+          "title": "Economists warn Australia is showing the hallmarks of recession",
+          "url": "https://www.abc.net.au/news/2026-11-19/australias-jobs-market-looking-like-a-recession/107403620",
+          "date": "2026-11-19T04:31:58+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.96
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
+      "summary": "stralia may already have “one foot in recession” after unemployment surged to 4.9% in October, from 4.7%, in a shock increase that will add to rising worries that this year’s five interest rate hikes have pushed the economy past a tipping point.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
+      "date": "2026-11-19T03:32:42+00:00",
+      "age": 2.2528629155555557,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
+          "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
+          "date": "2026-11-19T03:32:42+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.94,
+      "expanded": "Australia’s unemployment rate rose from 4.7% to 4.9% in October, the highest in five years, according to the Australian Bureau of Statistics. The employment figure fell by 43,500 people that month, challenging expectations of steady job growth.",
+      "why": "The spike may indicate the economy is approaching recession, raising concerns about the impact of recent interest rate hikes.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Environment & Climate",
+      "title": "COP31: Vanuatu calls for UN climate summit reform, warns of backsliding",
+      "summary": "Vanuatu's Environment Minister Ralph Regenvanu has called for changes to the UN climate summit process, accusing a small group of countries of blocking progress and warning that COP31 risks reversing previous commitments.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261119-cop31-vanuatu-un-climate-summit-reform-warns-of-backsliding",
+      "date": "2026-11-19T02:00:39+00:00",
+      "age": 3.787029582222222,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "COP31: Vanuatu calls for UN climate summit reform, warns of backsliding",
+          "url": "https://www.france24.com/en/europe/20261119-cop31-vanuatu-un-climate-summit-reform-warns-of-backsliding",
+          "date": "2026-11-19T02:00:39+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.89,
+      "expanded": "Vanuatu’s Environment Minister Ralph Regenvanu urged reforms to the UN climate summit process, saying a small group of countries is blocking progress and that COP31 could reverse earlier commitments.",
+      "why": "If COP31 fails to advance, global climate action may stall, undermining earlier gains.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Environment & Climate",
+      "title": "In final stretch of climate summit, Indigenous leaders call for lasting action",
+      "summary": "The annual U.N. Framework Convention on Climate Change gathering drew historic levels of Indigenous attendance in Belém, Brazil, last year, leading some to dub it “the Indigenous COP.” But the event was marked by frustration and protest, with…",
+      "source": "Mongabay",
+      "url": "https://news.mongabay.com/2026/11/in-final-stretch-of-climate-summit-indigenous-leaders-call-for-lasting-action/",
+      "date": "2026-11-17T15:39:30+00:00",
+      "age": 38.139529582222224,
+      "sources": [
+        {
+          "name": "Mongabay",
+          "title": "In final stretch of climate summit, Indigenous leaders call for lasting action",
+          "url": "https://news.mongabay.com/2026/11/in-final-stretch-of-climate-summit-indigenous-leaders-call-for-lasting-action/",
+          "date": "2026-11-17T15:39:30+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.0
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "5 key places that signal where Spain’s election is heading",
+      "summary": "We analyzed the results of every congressional election in the country’s history to find the battlegrounds you need to know about.",
+      "source": "Politico Europe",
+      "url": "https://www.politico.eu/article/5-key-places-that-signal-where-spains-election-is-heading/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "date": "2026-11-19T03:00:00+00:00",
+      "age": 2.797862915555555,
+      "sources": [
+        {
+          "name": "Politico Europe",
+          "title": "5 key places that signal where Spain’s election is heading",
+          "url": "https://www.politico.eu/article/5-key-places-that-signal-where-spains-election-is-heading/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "date": "2026-11-19T03:00:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.92,
+      "expanded": "The article identifies five key locations in Spain that are crucial for understanding the direction of the upcoming election, based on an analysis of all past congressional election results.",
+      "why": "These battlegrounds could determine the balance of power in Spain’s parliament.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Euronews Verify: Can the EU close Russia's sanctions loopholes?",
+      "summary": "Another batch of EU sanctions targeting Russian banks, oil refineries and Russia's \"shadow fleet\" is expected later this month. But are sanctions actually effective against Moscow?",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/18/euronews-verify-can-the-eu-close-russias-sanctions-loopholes",
+      "date": "2026-11-18T17:35:02+00:00",
+      "age": 12.213974026666666,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "Euronews Verify: Can the EU close Russia's sanctions loopholes?",
+          "url": "https://www.euronews.com/2026/11/18/euronews-verify-can-the-eu-close-russias-sanctions-loopholes",
+          "date": "2026-11-18T17:35:02+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.66
     }
   ],
-  "feed_warnings": [],
-  "afternoon_checked_at": "2026-11-18T16:51:23.127594+01:00"
+  "afternoon": [],
+  "feed_warnings": []
 }
