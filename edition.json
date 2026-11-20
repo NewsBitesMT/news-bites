@@ -1,6 +1,6 @@
 {
-  "edition_date": "2026-11-19",
-  "generated_at": "2026-11-19T06:47:52.306485+01:00",
+  "edition_date": "2026-11-20",
+  "generated_at": "2026-11-20T06:49:05.750364+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
     {
@@ -10,7 +10,7 @@
       "source": "Mongabay",
       "url": "https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/",
       "date": "2026-11-18T09:31:11+00:00",
-      "age": 20.278140693333334,
+      "age": 44.298541772499995,
       "sources": [
         {
           "name": "Mongabay",
@@ -21,9 +21,9 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 11.44,
-      "expanded": "Lucio Usobiaga, a Mexican chef, received the 2026 Basque Culinary World Prize for his project Arca Tierra, which connects farmers and the culinary community to protect Mexico City’s chinampa agricultural system—ancient pre‑Aztec canal islands used for farming.",
-      "why": "The award highlights efforts to preserve a unique, sustainable agricultural heritage that supports local food security and biodiversity.",
+      "score": 11.0,
+      "expanded": "Lucio Usobiaga, a Mexican chef, received the 2026 Basque Culinary World Prize—often called the ‘Nobel Prize of Gastronomy’—for his project Arca Tierra. The initiative links farmers and the culinary community to protect Mexico City’s traditional chinampa agricultural system, a pre‑Aztec network of canal‑island farms.",
+      "why": "The award highlights efforts to preserve an ancient, sustainable farming method that supports local food security and cultural heritage.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
@@ -34,7 +34,7 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
       "date": "2026-11-18T09:58:28+00:00",
-      "age": 19.82341847111111,
+      "age": 43.84381955027777,
       "sources": [
         {
           "name": "The Guardian",
@@ -45,307 +45,251 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 8.45,
-      "expanded": "A ruling by the International Court of Justice (ICJ) that Myanmar committed genocide against the Rohingya could trigger US sanctions against ICJ judges, including Nobel Peace Prize laureate Navi Pillay, as the US fears precedent for future cases such as Israel’s actions in Gaza.",
-      "why": "US sanctions on ICJ judges would signal a shift in international legal accountability and could affect future genocide adjudications.",
+      "score": 8.0,
+      "expanded": "The International Court of Justice may rule that Myanmar committed genocide against the Rohingya, a decision that could trigger U.S. sanctions on ICJ judges, including Nobel Peace Prize laureate Navi Pillay. The court has never found a state liable for genocide, and cases hinge on proving intent to destroy a protected group.",
+      "why": "A ruling could set a precedent for future cases, such as those involving Israel’s actions in Gaza, and would signal U.S. willingness to sanction international judges.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Crime, War & Justice",
-      "title": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
-      "summary": "Emergency appeal follows a California judge's ruling that ending their temporary protected status was unlawful.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
-      "date": "2026-11-19T04:46:59+00:00",
-      "age": 1.01480736,
+      "title": "The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud.",
+      "summary": "The post The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud. appeared first on ProPublica .",
+      "source": "ProPublica",
+      "url": "https://www.propublica.org/article/civilian-workers-war-injuries-insurance-companies",
+      "date": "2026-11-19T16:15:00+00:00",
+      "age": 13.568263994722221,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "title": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
-          "url": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
-          "date": "2026-11-19T04:46:59+00:00"
+          "name": "ProPublica",
+          "title": "The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud.",
+          "url": "https://www.propublica.org/article/civilian-workers-war-injuries-insurance-companies",
+          "date": "2026-11-19T16:15:00+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.97
+      "score": 7.62
     },
     {
       "cat": "Crime, War & Justice",
-      "title": "Israeli military launches new operation on central Gaza despite ceasefire",
-      "summary": "The military says it is targeting Hamas infrastructure near two refugee camps, while Hamas has accused Israel of violating the truce in place since October 2025.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
-      "date": "2026-11-18T16:01:27+00:00",
-      "age": 13.773696248888887,
+      "title": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
+      "summary": "Prime Minister Mark Carney condemned Russia's war with Ukraine while President Vladimir Putin, the man prosecuting that war, was in the room for leaders' speeches at the APEC summit in China.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/politics/carney-putin-apec-ukraine-9.7428573?cmp=rss",
+      "date": "2026-11-19T19:33:17+00:00",
+      "age": 10.2635417725,
       "sources": [
         {
-          "name": "Euronews",
-          "title": "Israeli military launches new operation on central Gaza despite ceasefire",
-          "url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
-          "date": "2026-11-18T16:01:27+00:00"
+          "name": "CBC News",
+          "title": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
+          "url": "https://www.cbc.ca/news/politics/carney-putin-apec-ukraine-9.7428573?cmp=rss",
+          "date": "2026-11-19T19:33:17+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.62,
-      "expanded": "Israeli forces have begun a new operation in central Gaza, aiming at Hamas infrastructure close to two refugee camps, even though a ceasefire has been in place since October 2025.",
-      "why": "",
+      "score": 6.71,
+      "expanded": "Prime Minister Mark Carney publicly denounced Russia’s war in Ukraine during the APEC summit in China, where Russian President Vladimir Putin was present for speeches.",
+      "why": "It highlights a direct challenge to Russia’s leadership amid a major international gathering.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Crime, War & Justice",
-      "title": "Five Essential Books for Understanding the History of the U.S. Supreme Court",
-      "summary": "Today’s Supreme Court is widely thought of as the final authority on the U.S.",
-      "source": "Literary Hub",
-      "url": "https://lithub.com/five-essential-books-for-understanding-the-history-of-the-u-s-supreme-court/",
-      "date": "2026-11-18T08:15:50+00:00",
-      "age": 21.53397402666667,
-      "sources": [
-        {
-          "name": "Literary Hub",
-          "title": "Five Essential Books for Understanding the History of the U.S. Supreme Court",
-          "url": "https://lithub.com/five-essential-books-for-understanding-the-history-of-the-u-s-supreme-court/",
-          "date": "2026-11-18T08:15:50+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.4
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-      "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+      "cat": "Health & Wellness",
+      "title": "Covid inquiry urges UK–Ireland pandemic co-ordination in future",
+      "summary": "In its latest report into the programme of test and trace, it said cooperation was needed \"to ensure that border control measures are effective and operable in practice\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T16:33:16+00:00",
-      "age": 13.243418471111111,
+      "url": "https://www.bbc.co.uk/news/articles/c6x280lqrxpgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19T15:07:43+00:00",
+      "age": 14.68965288361111,
       "sources": [
         {
           "name": "BBC News",
-          "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-          "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-18T16:33:16+00:00"
-        },
+          "title": "Covid inquiry urges UK–Ireland pandemic co-ordination in future",
+          "url": "https://www.bbc.co.uk/news/articles/c6x280lqrxpgo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-19T15:07:43+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.59,
+      "expanded": "The Covid inquiry’s latest report on the test‑and‑trace programme recommends that the UK and Ireland cooperate to make border control measures effective and workable in practice.",
+      "why": "Coordinated border controls could improve pandemic response and reduce cross‑border transmission.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Serbia's student movement takes another step towards power with parliament speaker election",
+      "summary": "Aleksandar Čupić's appointment marks a historic breakthrough for the grassroots movement, which ended 14 years of rule by Aleksandar Vučić's party after campaigning against corruption.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/19/serbias-student-movement-takes-another-step-towards-power-with-parliament-speaker-election",
+      "date": "2026-11-19T14:41:35+00:00",
+      "age": 15.125208439166666,
+      "sources": [
         {
           "name": "Euronews",
-          "title": "Singer Julio Iglesias under investigation for alleged sexual offences",
-          "url": "https://www.euronews.com/2026/11/18/singer-julio-iglesias-under-investigation-for-alleged-sexual-offences",
-          "date": "2026-11-18T14:29:22+00:00"
+          "title": "Serbia's student movement takes another step towards power with parliament speaker election",
+          "url": "https://www.euronews.com/2026/11/19/serbias-student-movement-takes-another-step-towards-power-with-parliament-speaker-election",
+          "date": "2026-11-19T14:41:35+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.58
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Trump administration moves to drop lawsuit challenging Alaska Senate election result",
+      "summary": "The Trump administration on Thursday moved to effectively drop its lawsuit that sought to block the certification of Democrat Mary Peltola's victory in Alaska's U.S.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/trump-doj-alaska-lawsuit-dismissed-peltola-9.7429320?cmp=rss",
+      "date": "2026-11-20T03:37:47+00:00",
+      "age": 2.1885417725,
+      "sources": [
+        {
+          "name": "CBC News",
+          "title": "Trump administration moves to drop lawsuit challenging Alaska Senate election result",
+          "url": "https://www.cbc.ca/news/world/trump-doj-alaska-lawsuit-dismissed-peltola-9.7429320?cmp=rss",
+          "date": "2026-11-20T03:37:47+00:00"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+          "date": "2026-11-20T02:58:52+00:00"
         }
       ],
       "source_count": 2,
       "malta_relevant": false,
-      "score": 6.13,
-      "expanded": "The 83‑year‑old singer Julio Iglesias is under investigation by the Spanish National High Court after a complaint from two former employees. They allege sexual offences, bodily harm and degrading treatment at his Caribbean residences in 2021. Iglesias has been summoned to testify on 3 February.",
-      "why": "The case involves a high‑profile public figure and raises concerns about abuse of power and workplace safety.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Economists warn Australia is showing the hallmarks of recession",
-      "summary": "Mortgage holders may welcome news of an end to interest rate hikes this year, and possibly next, but more Australians are tipped to be jobless in 2027.",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-11-19/australias-jobs-market-looking-like-a-recession/107403620",
-      "date": "2026-11-19T04:31:58+00:00",
-      "age": 1.2650851377777779,
-      "sources": [
-        {
-          "name": "ABC News Australia",
-          "title": "Economists warn Australia is showing the hallmarks of recession",
-          "url": "https://www.abc.net.au/news/2026-11-19/australias-jobs-market-looking-like-a-recession/107403620",
-          "date": "2026-11-19T04:31:58+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.96
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
-      "summary": "stralia may already have “one foot in recession” after unemployment surged to 4.9% in October, from 4.7%, in a shock increase that will add to rising worries that this year’s five interest rate hikes have pushed the economy past a tipping point.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
-      "date": "2026-11-19T03:32:42+00:00",
-      "age": 2.2528629155555557,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
-          "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
-          "date": "2026-11-19T03:32:42+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.94,
-      "expanded": "Australia’s unemployment rate rose from 4.7% to 4.9% in October, the highest in five years, according to the Australian Bureau of Statistics. The employment figure fell by 43,500 people that month, challenging expectations of steady job growth.",
-      "why": "The spike may indicate the economy is approaching recession, raising concerns about the impact of recent interest rate hikes.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Environment & Climate",
-      "title": "COP31: Vanuatu calls for UN climate summit reform, warns of backsliding",
-      "summary": "Vanuatu's Environment Minister Ralph Regenvanu has called for changes to the UN climate summit process, accusing a small group of countries of blocking progress and warning that COP31 risks reversing previous commitments.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261119-cop31-vanuatu-un-climate-summit-reform-warns-of-backsliding",
-      "date": "2026-11-19T02:00:39+00:00",
-      "age": 3.787029582222222,
-      "sources": [
-        {
-          "name": "France 24",
-          "title": "COP31: Vanuatu calls for UN climate summit reform, warns of backsliding",
-          "url": "https://www.france24.com/en/europe/20261119-cop31-vanuatu-un-climate-summit-reform-warns-of-backsliding",
-          "date": "2026-11-19T02:00:39+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.89,
-      "expanded": "Vanuatu’s Environment Minister Ralph Regenvanu urged reforms to the UN climate summit process, saying a small group of countries is blocking progress and that COP31 could reverse earlier commitments.",
-      "why": "If COP31 fails to advance, global climate action may stall, undermining earlier gains.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Environment & Climate",
-      "title": "In final stretch of climate summit, Indigenous leaders call for lasting action",
-      "summary": "The annual U.N. Framework Convention on Climate Change gathering drew historic levels of Indigenous attendance in Belém, Brazil, last year, leading some to dub it “the Indigenous COP.” But the event was marked by frustration and protest, with…",
-      "source": "Mongabay",
-      "url": "https://news.mongabay.com/2026/11/in-final-stretch-of-climate-summit-indigenous-leaders-call-for-lasting-action/",
-      "date": "2026-11-17T15:39:30+00:00",
-      "age": 38.139529582222224,
-      "sources": [
-        {
-          "name": "Mongabay",
-          "title": "In final stretch of climate summit, Indigenous leaders call for lasting action",
-          "url": "https://news.mongabay.com/2026/11/in-final-stretch-of-climate-summit-indigenous-leaders-call-for-lasting-action/",
-          "date": "2026-11-17T15:39:30+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.0
+      "score": 6.44
     },
     {
       "cat": "Politics & Government",
-      "title": "5 key places that signal where Spain’s election is heading",
-      "summary": "We analyzed the results of every congressional election in the country’s history to find the battlegrounds you need to know about.",
+      "title": "5 takeaways from the Spanish election debate",
+      "summary": "The two main party leaders clashed over corruption, migration and the economy, as polls point to a possible conservative government backed by the far right.",
       "source": "Politico Europe",
-      "url": "https://www.politico.eu/article/5-key-places-that-signal-where-spains-election-is-heading/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "date": "2026-11-19T03:00:00+00:00",
-      "age": 2.797862915555555,
+      "url": "https://www.politico.eu/article/spain-election-debate-5-takeaways-pedro-sanchez-alberto-nunez-feijoo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "date": "2026-11-20T03:00:00+00:00",
+      "age": 2.8182639947222223,
       "sources": [
         {
           "name": "Politico Europe",
-          "title": "5 key places that signal where Spain’s election is heading",
-          "url": "https://www.politico.eu/article/5-key-places-that-signal-where-spains-election-is-heading/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "date": "2026-11-19T03:00:00+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.92,
-      "expanded": "The article identifies five key locations in Spain that are crucial for understanding the direction of the upcoming election, based on an analysis of all past congressional election results.",
-      "why": "These battlegrounds could determine the balance of power in Spain’s parliament.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Euronews Verify: Can the EU close Russia's sanctions loopholes?",
-      "summary": "Another batch of EU sanctions targeting Russian banks, oil refineries and Russia's \"shadow fleet\" is expected later this month. But are sanctions actually effective against Moscow?",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/18/euronews-verify-can-the-eu-close-russias-sanctions-loopholes",
-      "date": "2026-11-18T17:35:02+00:00",
-      "age": 12.213974026666666,
-      "sources": [
-        {
-          "name": "Euronews",
-          "title": "Euronews Verify: Can the EU close Russia's sanctions loopholes?",
-          "url": "https://www.euronews.com/2026/11/18/euronews-verify-can-the-eu-close-russias-sanctions-loopholes",
-          "date": "2026-11-18T17:35:02+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.66
-    }
-  ],
-  "afternoon": [
-    {
-      "cat": "Major World Events",
-      "title": "AI demand will push up interest rates around the world, IMF head warns",
-      "summary": "t, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund (IMF) has warned.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-      "date": "2026-11-19T15:15:14+00:00",
-      "age": 0.588837531388889,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "AI demand will push up interest rates around the world, IMF head warns",
-          "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-          "date": "2026-11-19T15:15:14+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 7.98,
-      "expanded": "The IMF managing director Kristalina Georgieva warned that growing demand for AI hardware and related technology is driving up consumer prices worldwide, prompting central banks to consider raising interest rates.",
-      "why": "Higher interest rates could affect global borrowing costs and economic growth as AI-driven inflation pressures mount.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "No breakthroughs from Trump, Xi and Putin's 3-way talks on nuclear risks",
-      "summary": "They were to discuss the wars in Ukraine and Iran and how to reduce the dangers posed by nuclear arsenals. But after roughly 70 minutes behind closed doors, they agreed to a far narrower agenda.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/no-breakthroughs-from-trump-xi-and-putins-3-way-talks-on-nuclear-risks",
-      "date": "2026-11-19T15:45:15+00:00",
-      "age": 0.08855975361111111,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "title": "No breakthroughs from Trump, Xi and Putin's 3-way talks on nuclear risks",
-          "url": "https://www.pbs.org/newshour/world/no-breakthroughs-from-trump-xi-and-putins-3-way-talks-on-nuclear-risks",
-          "date": "2026-11-19T15:45:15+00:00"
+          "title": "5 takeaways from the Spanish election debate",
+          "url": "https://www.politico.eu/article/spain-election-debate-5-takeaways-pedro-sanchez-alberto-nunez-feijoo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "date": "2026-11-20T03:00:00+00:00"
         },
         {
           "name": "France 24",
-          "title": "What to know about Xi, Putin and Trump's historic trilateral summit",
-          "url": "https://www.france24.com/en/asia-pacific/20261119-what-to-know-about-xi-putin-and-trump-s-historic-trilateral-summit",
-          "date": "2026-11-19T13:11:27+00:00"
-        },
-        {
-          "name": "Newsbook",
-          "title": "Trump, Xi and Putin agree to nuclear risk talks and boost oil supplies",
-          "url": "https://newsbook.com.mt/en/trump-xi-and-putin-agree-to-nuclear-risk-talks-and-boost-oil-supplies/",
-          "date": "2026-11-19T12:29:28+00:00"
-        },
-        {
-          "name": "Euronews",
-          "title": "Watch: Trump, Putin and Xi sit down for historic three-way talks",
-          "url": "https://www.euronews.com/video/2026/11/19/watch-trump-putin-and-xi-sit-down-for-historic-three-way-talks",
-          "date": "2026-11-19T09:20:23+00:00"
+          "title": "PM Sánchez admits 'mistakes' in key debate ahead of Spain's election",
+          "url": "https://www.france24.com/en/europe/20261120-pm-s%C3%A1nchez-admits-mistakes-in-key-debate-ahead-of-spain-election",
+          "date": "2026-11-20T00:49:44+00:00"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "malta_relevant": false,
-      "score": 7.0,
-      "expanded": "The leaders of the United States, China and Russia met in Shenzhen for a closed‑door summit. They discussed the wars in Ukraine and Iran and how to reduce nuclear risks, but after about 70 minutes they agreed only to a narrow agenda. The meeting produced a “peace declaration” that mentioned reforming the UN, increasing refined petroleum supplies and upholding immunity for officials in international courts.",
-      "why": "",
+      "score": 6.42,
+      "expanded": "During Spain’s televised election debate, Prime Minister Pedro Sánchez admitted government shortcomings, while opposition leader Alberto Núñez Feijóo criticized corruption, migration and the economy. Polls suggest a conservative government could form with far‑right Vox support.",
+      "why": "The debate highlighted potential shifts in Spain’s political landscape, including the possibility of Vox joining a government.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Business & Marketing",
+      "title": "Increase in direct cremations since pandemic",
+      "summary": "A 2026 Cost of Dying Report found direct cremation was now chosen for about one in five funerals.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19T06:23:22+00:00",
+      "age": 23.42881955027778,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "Increase in direct cremations since pandemic",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-19T06:23:22+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.35
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "France to monitor YouTubers for political bias ahead of 2027 election",
+      "summary": "France will hold its presidential election on 18 April and 2 May next year, with far-right leader Marine Le Pen currently leading in opinion polls. Parliamentary elections are expected to follow in June.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/19/france-to-monitor-youtubers-for-political-bias-ahead-of-2027-election",
+      "date": "2026-11-19T19:36:15+00:00",
+      "age": 10.214097328055555,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "France to monitor YouTubers for political bias ahead of 2027 election",
+          "url": "https://www.euronews.com/2026/11/19/france-to-monitor-youtubers-for-political-bias-ahead-of-2027-election",
+          "date": "2026-11-19T19:36:15+00:00"
+        },
+        {
+          "name": "France 24",
+          "title": "French media regulator says it will monitor top YouTubers for bias in election coverage",
+          "url": "https://www.france24.com/en/france/20261119-french-regulator-warns-influential-youtubers-respect-pluralism-rules-election-coverage",
+          "date": "2026-11-19T17:55:25+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 6.22,
+      "expanded": "France’s media regulator Arcom announced it will extend election‑campaign rules to the country’s most influential YouTubers, aiming to monitor political bias ahead of the 2027 presidential election. The move follows the upcoming election dates—April 18 and May 2, 2027—with Marine Le Pen leading polls, and parliamentary elections slated for June.",
+      "why": "It signals a regulatory response to the growing influence of online content creators on political discourse.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
+      "summary": "ast The New South Wales opposition leader, Kellie Sloane, says she is “pretty sure” the exodus of Liberals before the March state election has finished, after Mark Speakman became the eighth MP to decide not to recontest their lower house seats.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+      "date": "2026-11-20T05:02:16+00:00",
+      "age": 0.7804862169444444,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+          "date": "2026-11-20T05:02:16+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.98,
+      "expanded": "Kellie Sloane, the NSW opposition leader, said the exodus of Liberal MPs ahead of the March state election is likely over after Mark Speakman announced he would not re‑contest his Cronulla seat, making him the eighth Liberal MP to step down.",
+      "why": "The departure of multiple Liberal MPs could affect the party’s representation and influence in the upcoming election.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "For these Australians, the recession has already arrived",
+      "summary": "From small businesses to mortgage holders, this is how some ABC readers have told us the recession-like squeeze is impacting them.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-20/australians-describe-struggling-like-economy-is-in-recession/107372480",
+      "date": "2026-11-19T19:40:17+00:00",
+      "age": 10.146875105833333,
+      "sources": [
+        {
+          "name": "ABC News Australia",
+          "title": "For these Australians, the recession has already arrived",
+          "url": "https://www.abc.net.au/news/2026-11-20/australians-describe-struggling-like-economy-is-in-recession/107372480",
+          "date": "2026-11-19T19:40:17+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.72
     }
   ],
-  "feed_warnings": [],
-  "afternoon_checked_at": "2026-11-19T16:50:33.815101+01:00"
+  "afternoon": [],
+  "feed_warnings": []
 }
