@@ -1,56 +1,8 @@
 {
-  "edition_date": "2026-11-20",
-  "generated_at": "2026-11-20T06:49:05.750364+01:00",
+  "edition_date": "2026-11-21",
+  "generated_at": "2026-11-21T06:42:55.128128+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
-    {
-      "cat": "Environment & Climate",
-      "title": "Lucio Usobiaga wins 2026 ‘Nobel Prize of Gastronomy’ for protecting Mexico’s chinampas ecosystem",
-      "summary": "Lucio Usobiaga of Mexico won the 2026 Basque Culinary World Prize for his project Arca Tierra, a network of farmers and the culinary community of Mexico that helps preserve Mexico City’s traditional chinampa agricultural system.",
-      "source": "Mongabay",
-      "url": "https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/",
-      "date": "2026-11-18T09:31:11+00:00",
-      "age": 44.298541772499995,
-      "sources": [
-        {
-          "name": "Mongabay",
-          "title": "Lucio Usobiaga wins 2026 ‘Nobel Prize of Gastronomy’ for protecting Mexico’s chinampas ecosystem",
-          "url": "https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/",
-          "date": "2026-11-18T09:31:11+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 11.0,
-      "expanded": "Lucio Usobiaga, a Mexican chef, received the 2026 Basque Culinary World Prize—often called the ‘Nobel Prize of Gastronomy’—for his project Arca Tierra. The initiative links farmers and the culinary community to protect Mexico City’s traditional chinampa agricultural system, a pre‑Aztec network of canal‑island farms.",
-      "why": "The award highlights efforts to preserve an ancient, sustainable farming method that supports local food security and cultural heritage.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-      "summary": "that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay , if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-      "date": "2026-11-18T09:58:28+00:00",
-      "age": 43.84381955027777,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-          "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-          "date": "2026-11-18T09:58:28+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 8.0,
-      "expanded": "The International Court of Justice may rule that Myanmar committed genocide against the Rohingya, a decision that could trigger U.S. sanctions on ICJ judges, including Nobel Peace Prize laureate Navi Pillay. The court has never found a state liable for genocide, and cases hinge on proving intent to destroy a protected group.",
-      "why": "A ruling could set a precedent for future cases, such as those involving Israel’s actions in Gaza, and would signal U.S. willingness to sanction international judges.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
     {
       "cat": "Crime, War & Justice",
       "title": "The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud.",
@@ -58,7 +10,7 @@
       "source": "ProPublica",
       "url": "https://www.propublica.org/article/civilian-workers-war-injuries-insurance-companies",
       "date": "2026-11-19T16:15:00+00:00",
-      "age": 13.568263994722221,
+      "age": 37.46531337333333,
       "sources": [
         {
           "name": "ProPublica",
@@ -69,225 +21,271 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 7.62
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
-      "summary": "Prime Minister Mark Carney condemned Russia's war with Ukraine while President Vladimir Putin, the man prosecuting that war, was in the room for leaders' speeches at the APEC summit in China.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/politics/carney-putin-apec-ukraine-9.7428573?cmp=rss",
-      "date": "2026-11-19T19:33:17+00:00",
-      "age": 10.2635417725,
-      "sources": [
-        {
-          "name": "CBC News",
-          "title": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
-          "url": "https://www.cbc.ca/news/politics/carney-putin-apec-ukraine-9.7428573?cmp=rss",
-          "date": "2026-11-19T19:33:17+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.71,
-      "expanded": "Prime Minister Mark Carney publicly denounced Russia’s war in Ukraine during the APEC summit in China, where Russian President Vladimir Putin was present for speeches.",
-      "why": "It highlights a direct challenge to Russia’s leadership amid a major international gathering.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Health & Wellness",
-      "title": "Covid inquiry urges UK–Ireland pandemic co-ordination in future",
-      "summary": "In its latest report into the programme of test and trace, it said cooperation was needed \"to ensure that border control measures are effective and operable in practice\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x280lqrxpgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19T15:07:43+00:00",
-      "age": 14.68965288361111,
-      "sources": [
-        {
-          "name": "BBC News",
-          "title": "Covid inquiry urges UK–Ireland pandemic co-ordination in future",
-          "url": "https://www.bbc.co.uk/news/articles/c6x280lqrxpgo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-19T15:07:43+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.59,
-      "expanded": "The Covid inquiry’s latest report on the test‑and‑trace programme recommends that the UK and Ireland cooperate to make border control measures effective and workable in practice.",
-      "why": "Coordinated border controls could improve pandemic response and reduce cross‑border transmission.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+      "score": 7.0
     },
     {
       "cat": "Politics & Government",
-      "title": "Serbia's student movement takes another step towards power with parliament speaker election",
-      "summary": "Aleksandar Čupić's appointment marks a historic breakthrough for the grassroots movement, which ended 14 years of rule by Aleksandar Vučić's party after campaigning against corruption.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/19/serbias-student-movement-takes-another-step-towards-power-with-parliament-speaker-election",
-      "date": "2026-11-19T14:41:35+00:00",
-      "age": 15.125208439166666,
-      "sources": [
-        {
-          "name": "Euronews",
-          "title": "Serbia's student movement takes another step towards power with parliament speaker election",
-          "url": "https://www.euronews.com/2026/11/19/serbias-student-movement-takes-another-step-towards-power-with-parliament-speaker-election",
-          "date": "2026-11-19T14:41:35+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.58
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Trump administration moves to drop lawsuit challenging Alaska Senate election result",
-      "summary": "The Trump administration on Thursday moved to effectively drop its lawsuit that sought to block the certification of Democrat Mary Peltola's victory in Alaska's U.S.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/trump-doj-alaska-lawsuit-dismissed-peltola-9.7429320?cmp=rss",
-      "date": "2026-11-20T03:37:47+00:00",
-      "age": 2.1885417725,
-      "sources": [
-        {
-          "name": "CBC News",
-          "title": "Trump administration moves to drop lawsuit challenging Alaska Senate election result",
-          "url": "https://www.cbc.ca/news/world/trump-doj-alaska-lawsuit-dismissed-peltola-9.7429320?cmp=rss",
-          "date": "2026-11-20T03:37:47+00:00"
-        },
-        {
-          "name": "The Guardian",
-          "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-          "date": "2026-11-20T02:58:52+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 6.44
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "5 takeaways from the Spanish election debate",
-      "summary": "The two main party leaders clashed over corruption, migration and the economy, as polls point to a possible conservative government backed by the far right.",
-      "source": "Politico Europe",
-      "url": "https://www.politico.eu/article/spain-election-debate-5-takeaways-pedro-sanchez-alberto-nunez-feijoo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "date": "2026-11-20T03:00:00+00:00",
-      "age": 2.8182639947222223,
-      "sources": [
-        {
-          "name": "Politico Europe",
-          "title": "5 takeaways from the Spanish election debate",
-          "url": "https://www.politico.eu/article/spain-election-debate-5-takeaways-pedro-sanchez-alberto-nunez-feijoo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "date": "2026-11-20T03:00:00+00:00"
-        },
-        {
-          "name": "France 24",
-          "title": "PM Sánchez admits 'mistakes' in key debate ahead of Spain's election",
-          "url": "https://www.france24.com/en/europe/20261120-pm-s%C3%A1nchez-admits-mistakes-in-key-debate-ahead-of-spain-election",
-          "date": "2026-11-20T00:49:44+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 6.42,
-      "expanded": "During Spain’s televised election debate, Prime Minister Pedro Sánchez admitted government shortcomings, while opposition leader Alberto Núñez Feijóo criticized corruption, migration and the economy. Polls suggest a conservative government could form with far‑right Vox support.",
-      "why": "The debate highlighted potential shifts in Spain’s political landscape, including the possibility of Vox joining a government.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Business & Marketing",
-      "title": "Increase in direct cremations since pandemic",
-      "summary": "A 2026 Cost of Dying Report found direct cremation was now chosen for about one in five funerals.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19T06:23:22+00:00",
-      "age": 23.42881955027778,
-      "sources": [
-        {
-          "name": "BBC News",
-          "title": "Increase in direct cremations since pandemic",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-19T06:23:22+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.35
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "France to monitor YouTubers for political bias ahead of 2027 election",
-      "summary": "France will hold its presidential election on 18 April and 2 May next year, with far-right leader Marine Le Pen currently leading in opinion polls. Parliamentary elections are expected to follow in June.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/19/france-to-monitor-youtubers-for-political-bias-ahead-of-2027-election",
-      "date": "2026-11-19T19:36:15+00:00",
-      "age": 10.214097328055555,
-      "sources": [
-        {
-          "name": "Euronews",
-          "title": "France to monitor YouTubers for political bias ahead of 2027 election",
-          "url": "https://www.euronews.com/2026/11/19/france-to-monitor-youtubers-for-political-bias-ahead-of-2027-election",
-          "date": "2026-11-19T19:36:15+00:00"
-        },
-        {
-          "name": "France 24",
-          "title": "French media regulator says it will monitor top YouTubers for bias in election coverage",
-          "url": "https://www.france24.com/en/france/20261119-french-regulator-warns-influential-youtubers-respect-pluralism-rules-election-coverage",
-          "date": "2026-11-19T17:55:25+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 6.22,
-      "expanded": "France’s media regulator Arcom announced it will extend election‑campaign rules to the country’s most influential YouTubers, aiming to monitor political bias ahead of the 2027 presidential election. The move follows the upcoming election dates—April 18 and May 2, 2027—with Marine Le Pen leading polls, and parliamentary elections slated for June.",
-      "why": "It signals a regulatory response to the growing influence of online content creators on political discourse.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
-      "summary": "ast The New South Wales opposition leader, Kellie Sloane, says she is “pretty sure” the exodus of Liberals before the March state election has finished, after Mark Speakman became the eighth MP to decide not to recontest their lower house seats.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-      "date": "2026-11-20T05:02:16+00:00",
-      "age": 0.7804862169444444,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-          "date": "2026-11-20T05:02:16+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.98,
-      "expanded": "Kellie Sloane, the NSW opposition leader, said the exodus of Liberal MPs ahead of the March state election is likely over after Mark Speakman announced he would not re‑contest his Cronulla seat, making him the eighth Liberal MP to step down.",
-      "why": "The departure of multiple Liberal MPs could affect the party’s representation and influence in the upcoming election.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "For these Australians, the recession has already arrived",
-      "summary": "From small businesses to mortgage holders, this is how some ABC readers have told us the recession-like squeeze is impacting them.",
+      "title": "Labor set for historic defeat at Victorian election, political experts say",
+      "summary": "Premier Ben Carroll and Opposition Leader Jess Wilson have been campaigning at early voting centres as Victoria marks a week until the November 28 election.",
       "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-11-20/australians-describe-struggling-like-economy-is-in-recession/107372480",
-      "date": "2026-11-19T19:40:17+00:00",
-      "age": 10.146875105833333,
+      "url": "https://www.abc.net.au/news/2026-11-21/victorian-election-final-week/107412434",
+      "date": "2026-11-21T04:25:18+00:00",
+      "age": 1.2936467066666668,
       "sources": [
         {
           "name": "ABC News Australia",
-          "title": "For these Australians, the recession has already arrived",
-          "url": "https://www.abc.net.au/news/2026-11-20/australians-describe-struggling-like-economy-is-in-recession/107372480",
-          "date": "2026-11-19T19:40:17+00:00"
+          "title": "Labor set for historic defeat at Victorian election, political experts say",
+          "url": "https://www.abc.net.au/news/2026-11-21/victorian-election-final-week/107412434",
+          "date": "2026-11-21T04:25:18+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.72
+      "score": 6.96
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Putin proposes second humanitarian ceasefire — is it a trap?",
+      "summary": "Russian President Putin has suggested evacuating civilians from the embattled Ukrainian city of Kostiantynivka. But experts warn this could serve military, not humanitarian, aims. What should Kyiv do?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/putin-proposes-second-humanitarian-ceasefire-is-it-a-trap/a-79996772?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-19T20:53:00+00:00",
+      "age": 32.83198004,
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "title": "Putin proposes second humanitarian ceasefire — is it a trap?",
+          "url": "https://www.dw.com/en/putin-proposes-second-humanitarian-ceasefire-is-it-a-trap/a-79996772?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-19T20:53:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.09
+    },
+    {
+      "cat": "Environment & Climate",
+      "title": "Activists, leaders criticize COP31 climate talks as fossil fuels go unmentioned in draft deal",
+      "summary": "United Nations climate talks in Turkey stretched into overtime Friday and delegates put off some decisions to next year, unable to find common ground on multiple issues with mutterings and protests about failure.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/activists-leaders-criticize-cop31-climate-talks-as-fossil-fuels-go-unmentioned-in-draft-deal",
+      "date": "2026-11-20T23:06:45+00:00",
+      "age": 6.6028133733333325,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "title": "Activists, leaders criticize COP31 climate talks as fossil fuels go unmentioned in draft deal",
+          "url": "https://www.pbs.org/newshour/world/activists-leaders-criticize-cop31-climate-talks-as-fossil-fuels-go-unmentioned-in-draft-deal",
+          "date": "2026-11-20T23:06:45+00:00"
+        },
+        {
+          "name": "Al Jazeera English",
+          "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+          "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+          "date": "2026-11-20T23:06:41+00:00"
+        },
+        {
+          "name": "Mongabay",
+          "title": "UN climate talks slammed by activists, leaders as fossil fuels go unmentioned in draft agreement",
+          "url": "https://news.mongabay.com/short-article/2026/11/un-climate-talks-slammed-by-activists-leaders-as-fossil-fuels-go-unmentioned-in-draft-agreement/",
+          "date": "2026-11-20T17:07:44+00:00"
+        },
+        {
+          "name": "France 24",
+          "title": "COP31 wrapping up in Turkey: Climate deal elusive as fossil fuels go unmentioned",
+          "url": "https://www.france24.com/en/video/20261120-cop31-wrapping-up-in-turkey-climate-deal-elusive-as-fossil-fuels-go-unmentioned",
+          "date": "2026-11-20T14:38:56+00:00"
+        },
+        {
+          "name": "Deutsche Welle",
+          "title": "No mention of fossil fuels in latest COP31 draft deal",
+          "url": "https://www.dw.com/en/no-mention-of-fossil-fuels-in-latest-cop31-draft-deal/a-79992394?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-19T16:03:00+00:00"
+        }
+      ],
+      "source_count": 5,
+      "malta_relevant": false,
+      "score": 5.82,
+      "expanded": "At COP31 in Antalya, Turkey, delegates extended talks into overtime and postponed decisions to the next year because they could not agree on key issues, including the absence of concrete commitments to phase out fossil fuels.",
+      "why": "The lack of fossil‑fuel commitments risks turning the summit into a ‘fossil summit’ and undermines efforts to achieve the drastic emission cuts needed to avert climate change.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Environment & Climate",
+      "title": "COP31: UN Climate summit enters final phase with no deal in sight",
+      "summary": "After nearly two weeks of negotiations, countries remain divided on how to fight global warming. A new draft declaration doesn't mention the phaseout of fossil fuels, the main drivers of climate change. DW has more.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-20T20:31:00+00:00",
+      "age": 9.198646706666667,
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "title": "COP31: UN Climate summit enters final phase with no deal in sight",
+          "url": "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-20T20:31:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.74
+    },
+    {
+      "cat": "Art, Artists & History of Art",
+      "title": "Van Gogh’s record-breaking ‘Blossoming Chestnut Trees’: the $190m sale and the restitution claim that nearly upended it",
+      "summary": "The Nazi-era claim, resolved just hours before the Sotheby’s New York sale, appeared to have little impact on the final price",
+      "source": "The Art Newspaper",
+      "url": "https://www.theartnewspaper.com/2026/11/20/deeper-look-van-goghs-record-breaking-blossoming-chestnut-trees-190m-sale-restitution-claim",
+      "date": "2026-11-20T11:56:50+00:00",
+      "age": 17.76809115111111,
+      "sources": [
+        {
+          "name": "The Art Newspaper",
+          "title": "Van Gogh’s record-breaking ‘Blossoming Chestnut Trees’: the $190m sale and the restitution claim that nearly upended it",
+          "url": "https://www.theartnewspaper.com/2026/11/20/deeper-look-van-goghs-record-breaking-blossoming-chestnut-trees-190m-sale-restitution-claim",
+          "date": "2026-11-20T11:56:50+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.51
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+      "summary": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+      "date": "2026-11-20T11:37:35+00:00",
+      "age": 18.088924484444444,
+      "sources": [
+        {
+          "name": "NPR",
+          "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+          "date": "2026-11-20T11:37:35+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.5
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "ANC fights to keep control of South Africa's key cities after election setback",
+      "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21T00:34:51+00:00",
+      "age": 5.13448004,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "ANC fights to keep control of South Africa's key cities after election setback",
+          "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-21T00:34:51+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.86
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
+      "summary": "to enforce Thursday's ruling, which orders Myanmar's military-supported government to allow those who fled the violence to return home safely, to pay reparations to the Rohingya Muslims and prosecute those suspected of having committed genocide.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/rights-groups-urge-sanctions-after-icj-finds-myanmar-guilty-of-genocide-against-rohingya",
+      "date": "2026-11-21T00:28:54+00:00",
+      "age": 5.233646706666666,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
+          "url": "https://www.pbs.org/newshour/world/rights-groups-urge-sanctions-after-icj-finds-myanmar-guilty-of-genocide-against-rohingya",
+          "date": "2026-11-21T00:28:54+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.85,
+      "expanded": "The International Court of Justice ruled that Myanmar’s military‑supported government is guilty of genocide against Rohingya Muslims, ordering the state to allow refugees to return, pay reparations, and prosecute suspects. Rights groups are calling for sanctions.",
+      "why": "The ruling obligates Myanmar to address the humanitarian crisis and hold perpetrators accountable, but the ICJ lacks enforcement power, prompting external pressure for compliance.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Art, Artists & History of Art",
+      "title": "Russian strikes damage historic buildings in Kyiv and Odesa, including World Heritage sites",
+      "summary": "The St Volodymyr’s Cathedral and the St Michael’s Golden-Domed Cathedral and Monastery in Kyiv are among the heritage buildings targeted in recent Russian attacks",
+      "source": "The Art Newspaper",
+      "url": "https://www.theartnewspaper.com/2026/11/20/russian-strikes-damage-heritage-sites-kyiv-odesa",
+      "date": "2026-11-20T22:06:36+00:00",
+      "age": 7.605313373333333,
+      "sources": [
+        {
+          "name": "The Art Newspaper",
+          "title": "Russian strikes damage historic buildings in Kyiv and Odesa, including World Heritage sites",
+          "url": "https://www.theartnewspaper.com/2026/11/20/russian-strikes-damage-heritage-sites-kyiv-odesa",
+          "date": "2026-11-20T22:06:36+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.79,
+      "expanded": "Russian attacks have damaged historic Ukrainian sites, including St Volodymyr’s Cathedral and St Michael’s Golden‑Domed Cathedral and Monastery in Kyiv.",
+      "why": "The destruction threatens cultural heritage and international heritage sites.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Science & Technology",
+      "title": "Bell says it's investigating cyberattack that led to potential theft of business customer data",
+      "summary": "Bell says it's investigating a cyber incident in which some enterprise client data may have been stolen.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/business/bell-agentic-cyber-attack-9.7430468?cmp=rss",
+      "date": "2026-11-20T21:54:02+00:00",
+      "age": 7.814757817777777,
+      "sources": [
+        {
+          "name": "CBC News",
+          "title": "Bell says it's investigating cyberattack that led to potential theft of business customer data",
+          "url": "https://www.cbc.ca/news/business/bell-agentic-cyber-attack-9.7430468?cmp=rss",
+          "date": "2026-11-20T21:54:02+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.78,
+      "expanded": "Bell reports a cyber incident where an \"agentic\" threat actor accessed its systems, including the platform used for ordering and supplying telecom networks, and may have stolen data from some enterprise clients.",
+      "why": "Potential loss of sensitive business customer data could affect client trust and regulatory compliance.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Spain’s political crossroads, Europe’s wider stakes: Spaniards to vote in key election",
+      "summary": "The stakes are high – not only for people in Spain, but also for Europe.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261120-spains-political-crossroads-europes-wider-stakes-spaniards-to-vote-in-key-election",
+      "date": "2026-11-20T15:17:17+00:00",
+      "age": 14.427257817777779,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "Spain’s political crossroads, Europe’s wider stakes: Spaniards to vote in key election",
+          "url": "https://www.france24.com/en/tv-shows/talking-europe/20261120-spains-political-crossroads-europes-wider-stakes-spaniards-to-vote-in-key-election",
+          "date": "2026-11-20T15:17:17+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.6,
+      "expanded": "On November 29, Spain will hold a parliamentary election that could end the Socialist-led government and allow a coalition between right‑wing and far‑right parties. The result may also end Prime Minister Pedro Sánchez’s third term. The election’s outcome is significant for Spain and for the European Union, as Spain is one of the EU’s largest and most influential members. The stakes are heightened by recent train crashes and the migrant crisis in Ceuta.",
+      "why": "The election could reshape Spain’s government and influence EU politics, affecting policy and stability in a key member state.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
   ],
   "afternoon": [],
