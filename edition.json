@@ -290,8 +290,64 @@
       "score": 3.94
     }
   ],
-  "afternoon": [],
+  "afternoon": [
+    {
+      "cat": "Major World Events",
+      "title": "Budget bounce puts Labour 12,000 votes ahead of PN, poll finds",
+      "summary": "Labour has opened a 4.2-point lead over the Nationalist Party in the first MaltaToday survey conducted after the Budget, reversing the neck-and-neck position recorded in October.",
+      "source": "Newsbook",
+      "url": "https://newsbook.com.mt/en/budget-bounce-puts-labour-12000-votes-ahead-of-pn-poll-finds/",
+      "date": "2026-11-22T10:46:55+00:00",
+      "age": 4.839861405555555,
+      "sources": [
+        {
+          "name": "Newsbook",
+          "title": "Budget bounce puts Labour 12,000 votes ahead of PN, poll finds",
+          "url": "https://newsbook.com.mt/en/budget-bounce-puts-labour-12000-votes-ahead-of-pn-poll-finds/",
+          "date": "2026-11-22T10:46:55+00:00"
+        },
+        {
+          "name": "Lovin Malta",
+          "title": "Almost 12,000 Votes Separate Labour And PN In First Post-Budget Survey",
+          "url": "https://lovinmalta.com/news/news-politics/almost-12000-votes-separate-labour-and-pn-in-first-post-budget-survey/",
+          "date": "2026-11-22T07:08:53+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 8.37,
+      "expanded": "A MaltaToday survey conducted after the 2027 Budget shows the Labour Party leading the Nationalist Party by 4.2 percentage points, translating to roughly 12,000 more votes. Labour would receive 50% of the vote, PN 45.8%, with smaller parties sharing the remaining 4.2%.",
+      "why": "The result indicates a shift in voter sentiment following the Budget, giving Labour a clear advantage over the PN.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Mongolia's power struggle deepens as Parliament approves president's resignation",
+      "summary": "Mongolia is facing growing political and economic uncertainty after Parliament approved the resignation of president Khurelsukh Ukhnaa.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/22/mongolia-faces-snap-presidential-vote-as-outgoing-leader-calls-for-constitutional-reform",
+      "date": "2026-11-22T11:00:00+00:00",
+      "age": 4.621805849999999,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "Mongolia's power struggle deepens as Parliament approves president's resignation",
+          "url": "https://www.euronews.com/2026/11/22/mongolia-faces-snap-presidential-vote-as-outgoing-leader-calls-for-constitutional-reform",
+          "date": "2026-11-22T11:00:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 7.87,
+      "expanded": "Mongolia’s Parliament has approved the resignation of President Khurelsukh Ukhnaa, deepening a power struggle within the ruling People’s Party. The country is also grappling with rising inflation and fuel shortages, adding economic pressure.",
+      "why": "The resignation signals a shift in Mongolia’s political landscape amid economic challenges, potentially affecting governance and policy stability.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    }
+  ],
   "feed_warnings": [
     "ScienceDaily: ParseError: junk after document element: line 440, column 46"
-  ]
+  ],
+  "afternoon_checked_at": "2026-11-22T16:37:18.501046+01:00"
 }
