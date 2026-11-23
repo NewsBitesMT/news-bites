@@ -344,6 +344,32 @@
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
   ],
-  "afternoon": [],
-  "feed_warnings": []
+  "afternoon": [
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Sanctions, summits and strikes: The war in Ukraine shows no sign of slowing",
+      "summary": "Good morning. Leo Cendrowicz here, bringing you the Monday newsletter. This week, we’re dealing with more bombing of Ukraine, and the metaphorical bombing of the COP31 climate talks in Turkey.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
+      "date": "2026-11-23T07:26:44+00:00",
+      "age": 8.507778031388888,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "Sanctions, summits and strikes: The war in Ukraine shows no sign of slowing",
+          "url": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
+          "date": "2026-11-23T07:26:44+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 7.76,
+      "expanded": "The war in Ukraine continues with increased bombing, while the COP31 climate talks in Turkey are described as being metaphorically bombed, indicating disruptions to the summit.",
+      "why": "It shows the conflict’s ongoing intensity and its impact on international climate negotiations.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    }
+  ],
+  "feed_warnings": [],
+  "afternoon_checked_at": "2026-11-23T16:57:12.000902+01:00"
 }
