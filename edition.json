@@ -1,296 +1,8 @@
 {
-  "edition_date": "2026-11-22",
-  "generated_at": "2026-11-22T06:42:41.620238+01:00",
+  "edition_date": "2026-11-23",
+  "generated_at": "2026-11-23T06:51:05.167957+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
-    {
-      "cat": "Major World Events",
-      "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
-      "summary": "The standard proposal would substantially reduce what credit card companies can charge customers. The median credit card interest rate is roughly 22.2%, according to an August survey by the New York Federal Reserve.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
-      "date": "2026-11-21T21:20:34+00:00",
-      "age": 8.368783402777778,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
-          "url": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
-          "date": "2026-11-21T21:20:34+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 7.77,
-      "expanded": "Former President Donald Trump announced he will collaborate with Democrats to impose a 10% cap on credit card interest rates, a significant reduction from the current median rate of about 22.2% reported by the New York Federal Reserve.",
-      "why": "A 10% cap would lower borrowing costs for consumers, potentially easing financial strain and reducing debt burdens.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Environment & Climate",
-      "title": "New draft deal aims to avert collapse of talks at climate summit",
-      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-22T05:26:10+00:00",
-      "age": 0.27545006944444445,
-      "sources": [
-        {
-          "name": "BBC News",
-          "title": "New draft deal aims to avert collapse of talks at climate summit",
-          "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-22T05:26:10+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.99
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
-      "summary": "ms, which this year had phones banned and checks for cameras hidden in clothing South Korea’s education minister resigned on Sunday after an AI-assisted cheating scandal that erupted in the lead-up to the country’s key university entrance exams.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-      "date": "2026-11-22T05:04:39+00:00",
-      "age": 0.6340611805555555,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
-          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-          "date": "2026-11-22T05:04:39+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.98,
-      "expanded": "South Korea’s education minister resigned after an AI‑assisted cheating scandal involving university entrance exams. The scandal began when a top scorer in a national tax accountant exam admitted using a miniature camera and smartphone to cheat, sparking fears that similar tactics could be used in the upcoming suneung exams.",
-      "why": "The resignation signals a serious breach of academic integrity and raises concerns about the reliability of high‑stakes exams in South Korea.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Environment & Climate",
-      "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
-      "summary": "COP31 President ​Murat Kurum asks negotiators to consider a last-minute proposal in attempt to reach an agreement.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
-      "date": "2026-11-22T04:51:35+00:00",
-      "age": 0.8518389583333333,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
-          "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
-          "date": "2026-11-22T04:51:35+00:00"
-        },
-        {
-          "name": "Deutsche Welle",
-          "title": "COP31: UN Climate summit runs into second day of overtime",
-          "url": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-second-day-of-overtime/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-22T01:12:00+00:00"
-        },
-        {
-          "name": "BBC News",
-          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-21T22:19:43+00:00"
-        },
-        {
-          "name": "Euronews",
-          "title": "Fossil fuel row sees COP31 talks spill into overtime",
-          "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime",
-          "date": "2026-11-21T08:56:33+00:00"
-        }
-      ],
-      "source_count": 4,
-      "malta_relevant": false,
-      "score": 5.98,
-      "expanded": "COP31 climate talks have stalled over a fossil‑fuel dispute, pushing the summit into a second day of overtime. President Murat Kurum urged negotiators to consider a last‑minute proposal as countries remain split on how to curb global warming, with a third draft text now in focus.",
-      "why": "The impasse shows the challenge of securing a new global climate agreement amid near‑200 nations’ divisions.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Art, Artists & History of Art",
-      "title": "Van Gogh’s record-breaking ‘Blossoming Chestnut Trees’: the $190m sale and the restitution claim that nearly upended it",
-      "summary": "The Nazi-era claim, resolved just hours before the Sotheby’s New York sale, appeared to have little impact on the final price",
-      "source": "The Art Newspaper",
-      "url": "https://www.theartnewspaper.com/2026/11/20/deeper-look-van-goghs-record-breaking-blossoming-chestnut-trees-190m-sale-restitution-claim",
-      "date": "2026-11-20T11:56:50+00:00",
-      "age": 41.76433895833333,
-      "sources": [
-        {
-          "name": "The Art Newspaper",
-          "title": "Van Gogh’s record-breaking ‘Blossoming Chestnut Trees’: the $190m sale and the restitution claim that nearly upended it",
-          "url": "https://www.theartnewspaper.com/2026/11/20/deeper-look-van-goghs-record-breaking-blossoming-chestnut-trees-190m-sale-restitution-claim",
-          "date": "2026-11-20T11:56:50+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.0
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Government launches inquiry into peptides amid surge in hospital visits",
-      "summary": "Mark Butler has ordered an inquiry into peptides amid concerns about unsafe online prescribing practices and an alarming surge in hospital visits linked to the substances.",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-11-22/health-minister-mark-butler-orders-peptide-inquiry/107414136",
-      "date": "2026-11-22T02:26:36+00:00",
-      "age": 3.268227847222222,
-      "sources": [
-        {
-          "name": "ABC News Australia",
-          "title": "Government launches inquiry into peptides amid surge in hospital visits",
-          "url": "https://www.abc.net.au/news/2026-11-22/health-minister-mark-butler-orders-peptide-inquiry/107414136",
-          "date": "2026-11-22T02:26:36+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.91,
-      "expanded": "Mark Butler has ordered an inquiry into peptides after a rise in hospital visits linked to the substances and concerns over unsafe online prescribing practices.",
-      "why": "The inquiry aims to address potential health risks from unregulated peptide use.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
-      "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-22T00:10:37+00:00",
-      "age": 5.534616736111111,
-      "sources": [
-        {
-          "name": "BBC News",
-          "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
-          "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-22T00:10:37+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.85
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
-      "summary": "are being co-opted by opposition parties ‘stirring up racial discord’ Residents of a Suffolk village have voted to “leave the UK” in a referendum held in response to government plans to house 930 asylum seekers at a nearby former military base.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
-      "date": "2026-11-21T18:20:37+00:00",
-      "age": 11.367950069444445,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
-          "date": "2026-11-21T18:20:37+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.68
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
-      "summary": "to enforce Thursday's ruling, which orders Myanmar's military-supported government to allow those who fled the violence to return home safely, to pay reparations to the Rohingya Muslims and prosecute those suspected of having committed genocide.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/rights-groups-urge-sanctions-after-icj-finds-myanmar-guilty-of-genocide-against-rohingya",
-      "date": "2026-11-21T00:28:54+00:00",
-      "age": 29.22989451388889,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
-          "url": "https://www.pbs.org/newshour/world/rights-groups-urge-sanctions-after-icj-finds-myanmar-guilty-of-genocide-against-rohingya",
-          "date": "2026-11-21T00:28:54+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.19,
-      "expanded": "The International Court of Justice ruled that Myanmar’s military‑supported government must allow Rohingya refugees to return, pay reparations, and prosecute alleged genocide perpetrators, but the court lacks enforcement power.",
-      "why": "The ruling obligates Myanmar to address the Rohingya crisis, yet enforcement depends on external action, prompting rights groups to call for sanctions.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Art, Artists & History of Art",
-      "title": "Russian strikes damage historic buildings in Kyiv and Odesa, including World Heritage sites",
-      "summary": "The St Volodymyr’s Cathedral and the St Michael’s Golden-Domed Cathedral and Monastery in Kyiv are among the heritage buildings targeted in recent Russian attacks",
-      "source": "The Art Newspaper",
-      "url": "https://www.theartnewspaper.com/2026/11/20/russian-strikes-damage-heritage-sites-kyiv-odesa",
-      "date": "2026-11-20T22:06:36+00:00",
-      "age": 31.601561180555557,
-      "sources": [
-        {
-          "name": "The Art Newspaper",
-          "title": "Russian strikes damage historic buildings in Kyiv and Odesa, including World Heritage sites",
-          "url": "https://www.theartnewspaper.com/2026/11/20/russian-strikes-damage-heritage-sites-kyiv-odesa",
-          "date": "2026-11-20T22:06:36+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.12,
-      "expanded": "Russian attacks have damaged historic Ukrainian sites, including St Volodymyr’s Cathedral and St Michael’s Golden‑Domed Cathedral and Monastery in Kyiv.",
-      "why": "These are World Heritage sites, so their damage threatens cultural heritage.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "FIFA presidential election 2027: Infantino facing Diallo and Tashima — could an alliance change everything?",
-      "summary": "Two challengers to Gianni Infantino have registered for next year's FIFA presidential election. What do Philippe Diallo and Kozo Tashima stand for – and do they stand a chance against the incumbent?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fifa-presidential-election-2027-infantino-facing-diallo-and-tashima-could-an-alliance-change-everything/a-80002882?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-20T12:58:00+00:00",
-      "age": 40.74489451388889,
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "title": "FIFA presidential election 2027: Infantino facing Diallo and Tashima — could an alliance change everything?",
-          "url": "https://www.dw.com/en/fifa-presidential-election-2027-infantino-facing-diallo-and-tashima-could-an-alliance-change-everything/a-80002882?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-20T12:58:00+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.0,
-      "expanded": "Two new candidates, Philippe Diallo and Kozo Tashima, have registered to challenge Gianni Infantino in the 2027 FIFA presidential election.",
-      "why": "Their entry introduces fresh competition for the FIFA presidency, potentially reshaping the organization’s leadership and future direction.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
-      "summary": "Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
-      "date": "2026-11-22T03:34:02+00:00",
-      "age": 2.1443389583333334,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
-          "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
-          "date": "2026-11-22T03:34:02+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 3.94
-    }
-  ],
-  "afternoon": [
     {
       "cat": "Major World Events",
       "title": "Budget bounce puts Labour 12,000 votes ahead of PN, poll finds",
@@ -298,7 +10,7 @@
       "source": "Newsbook",
       "url": "https://newsbook.com.mt/en/budget-bounce-puts-labour-12000-votes-ahead-of-pn-poll-finds/",
       "date": "2026-11-22T10:46:55+00:00",
-      "age": 4.839861405555555,
+      "age": 19.0694911025,
       "sources": [
         {
           "name": "Newsbook",
@@ -315,9 +27,9 @@
       ],
       "source_count": 2,
       "malta_relevant": false,
-      "score": 8.37,
-      "expanded": "A MaltaToday survey conducted after the 2027 Budget shows the Labour Party leading the Nationalist Party by 4.2 percentage points, translating to roughly 12,000 more votes. Labour would receive 50% of the vote, PN 45.8%, with smaller parties sharing the remaining 4.2%.",
-      "why": "The result indicates a shift in voter sentiment following the Budget, giving Labour a clear advantage over the PN.",
+      "score": 7.97,
+      "expanded": "A MaltaToday survey conducted after the 2027 Budget shows the Labour Party ahead of the Nationalist Party by 4.2 percentage points, translating to roughly 12,000 more votes. Labour would receive 50% of the vote, PN 45.8%, with smaller parties sharing the remaining 4.2%.",
+      "why": "The result indicates a shift in voter sentiment following the Budget, potentially affecting the balance of power in Malta’s upcoming election.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
@@ -328,7 +40,7 @@
       "source": "Euronews",
       "url": "https://www.euronews.com/2026/11/22/mongolia-faces-snap-presidential-vote-as-outgoing-leader-calls-for-constitutional-reform",
       "date": "2026-11-22T11:00:00+00:00",
-      "age": 4.621805849999999,
+      "age": 18.851435546944444,
       "sources": [
         {
           "name": "Euronews",
@@ -339,15 +51,299 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 7.87,
-      "expanded": "Mongolia’s Parliament has approved the resignation of President Khurelsukh Ukhnaa, deepening a power struggle within the ruling People’s Party. The country is also grappling with rising inflation and fuel shortages, adding economic pressure.",
-      "why": "The resignation signals a shift in Mongolia’s political landscape amid economic challenges, potentially affecting governance and policy stability.",
+      "score": 7.48,
+      "expanded": "Mongolia’s Parliament has approved the resignation of President Khurelsukh Ukhnaa, deepening a political power struggle. The country is already under economic strain, with rising inflation and fuel shortages, while competing factions within the ruling People’s Party vie for influence.",
+      "why": "The resignation signals escalating political instability amid economic hardship, potentially affecting governance and policy continuity.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+      "summary": "The standard proposal would substantially reduce what credit card companies can charge customers. The median credit card interest rate is roughly 22.2%, according to an August survey by the New York Federal Reserve.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
+      "date": "2026-11-21T21:20:34+00:00",
+      "age": 32.50865776916667,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+          "url": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
+          "date": "2026-11-21T21:20:34+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 7.1,
+      "expanded": "Former President Donald Trump announced he would collaborate with Democrats to impose a 10% cap on credit card interest rates, a move that would significantly lower the current median rate of about 22.2% reported by the New York Federal Reserve in August.",
+      "why": "",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Supreme Court dismisses residents' MotoGP challenge",
+      "summary": "Another legal challenge to the state government's MotoGP plans has been unsuccessful, with a case launched by an Adelaide residents' group being dismissed in court.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-23/sa-supreme-court-dismisses-motogp-case-by-adelaide-residents/107417058",
+      "date": "2026-11-23T04:04:22+00:00",
+      "age": 1.7786577691666667,
+      "sources": [
+        {
+          "name": "ABC News Australia",
+          "title": "Supreme Court dismisses residents' MotoGP challenge",
+          "url": "https://www.abc.net.au/news/2026-11-23/sa-supreme-court-dismisses-motogp-case-by-adelaide-residents/107417058",
+          "date": "2026-11-23T04:04:22+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.95
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-22T14:05:20+00:00",
+      "age": 15.762546658055555,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "Three killed and dozens missing after fire at Indonesian factory",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-22T14:05:20+00:00"
+        },
+        {
+          "name": "France 24",
+          "title": "Indonesia factory hit by deadly blaze: Three killed and 36 missing",
+          "url": "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
+          "date": "2026-11-22T12:11:00+00:00"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+          "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+          "date": "2026-11-22T07:11:17+00:00"
+        },
+        {
+          "name": "Deutsche Welle",
+          "title": "Dozens missing as deadly fire hits Indonesian candy factory",
+          "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-22T06:14:00+00:00"
+        }
+      ],
+      "source_count": 4,
+      "malta_relevant": false,
+      "score": 6.56,
+      "expanded": "A fire broke out at a confectionery factory west of Jakarta, killing three people and leaving 36 missing. Fifteen survivors were rescued, and firefighters were still battling flames more than 12 hours later. The blaze reportedly started in a cooling unit on the third floor, though the cause remains unknown.",
+      "why": "The incident highlights risks in food production facilities and the potential for large-scale casualties.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Environment & Climate",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23T05:34:39+00:00",
+      "age": 0.27393554694444444,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "What's next after no deal at COP31 climate talks?",
+          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-23T05:34:39+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-23T05:15:06+00:00"
+        },
+        {
+          "name": "France 24",
+          "title": "COP31 climate talks in Turkey collapse",
+          "url": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
+          "date": "2026-11-23T00:44:47+00:00"
+        },
+        {
+          "name": "PBS NewsHour",
+          "title": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal",
+          "url": "https://www.pbs.org/newshour/world/in-their-own-words-leaders-at-un-climate-talks-discuss-why-negotiations-ended-without-deal",
+          "date": "2026-11-22T23:00:37+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "What's next after no deal at COP31 climate summit?",
+          "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-22T18:28:48+00:00"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Cop31 climate talks break down as key deal rejected",
+          "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+          "date": "2026-11-22T16:14:46+00:00"
+        },
+        {
+          "name": "Euronews",
+          "title": "COP31 climate talks fail after EU and others reject final deal proposal",
+          "url": "https://www.euronews.com/2026/11/22/cop31-climate-talks-fail-after-eu-and-others-reject-final-deal-proposal",
+          "date": "2026-11-22T14:23:49+00:00"
+        },
+        {
+          "name": "Deutsche Welle",
+          "title": "COP31 climate talks end without consensus on how to fund vulnerable countries or move the world away from coal, oil and gas use",
+          "url": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-22T13:18:00+00:00"
+        }
+      ],
+      "source_count": 6,
+      "malta_relevant": false,
+      "score": 5.99
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Jim Chalmers says he doesn't expect a recession, but 'things might get a bit harder'",
+      "summary": "The Treasurer said the government was on track for cuts to more than cover any new spending in next month's mid-year budget update and that forecasts would project higher unemployment and lower growth.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-23/chalmers-flags-net-spending-cuts-in-mid-year-budget/107417628",
+      "date": "2026-11-23T05:18:24+00:00",
+      "age": 0.5447688802777778,
+      "sources": [
+        {
+          "name": "ABC News Australia",
+          "title": "Jim Chalmers says he doesn't expect a recession, but 'things might get a bit harder'",
+          "url": "https://www.abc.net.au/news/2026-11-23/chalmers-flags-net-spending-cuts-in-mid-year-budget/107417628",
+          "date": "2026-11-23T05:18:24+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.98,
+      "expanded": "Treasurer Jim Chalmers said Australia is on track to cut spending to offset any new budget items, but forecasts predict higher unemployment and lower growth. He does not expect a recession, though conditions may become tougher.",
+      "why": "It signals the government's fiscal stance and potential economic slowdown, affecting businesses and households.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Environment & Climate",
+      "title": "Climate summit deal rejected after draft fails to mention fossil fuels",
+      "summary": "ited Kingdom and vulnerable developing nations rejected the proposed final agreement at the COP31 United Nations climate summit in Antalya on Sunday, after the draft text failed even to mention fossil fuels, the primary driver of global warming.",
+      "source": "Newsbook",
+      "url": "https://newsbook.com.mt/en/climate-summit-deal-rejected-after-draft-fails-to-mention-fossil-fuels/",
+      "date": "2026-11-22T17:08:55+00:00",
+      "age": 12.702824435833334,
+      "sources": [
+        {
+          "name": "Newsbook",
+          "title": "Climate summit deal rejected after draft fails to mention fossil fuels",
+          "url": "https://newsbook.com.mt/en/climate-summit-deal-rejected-after-draft-fails-to-mention-fossil-fuels/",
+          "date": "2026-11-22T17:08:55+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.65,
+      "expanded": "The EU, UK and vulnerable developing countries rejected the draft final agreement at COP31 in Antalya because it omitted any reference to fossil fuels, the main cause of global warming.",
+      "why": "The rejection signals that key climate actors demand explicit fossil‑fuel policy in agreements to address climate change effectively.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+      "summary": "n Lewis Pugh saw ships ablaze and fighter jets overhead during three-day swim as Iran conflict continues A British endurance swimmer has completed a three-day swim through the strait of Hormuz to highlight the environmental cost of the Iran war.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+      "date": "2026-11-22T13:36:01+00:00",
+      "age": 16.251157769166667,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+          "url": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+          "date": "2026-11-22T13:36:01+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "Hormuz swim highlights environmental cost of war",
+          "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-21T16:12:31+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 5.05
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Far right wants to transform the EU after big national election wins",
+      "summary": "Patriots’ co-president Kinga Gál says her political family’s immediate mission is helping its parties win national elections.",
+      "source": "Politico Europe",
+      "url": "https://www.politico.eu/article/far-right-patriots-for-europe-national-election-wins-transform-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "date": "2026-11-23T03:00:00+00:00",
+      "age": 2.8514355469444443,
+      "sources": [
+        {
+          "name": "Politico Europe",
+          "title": "Far right wants to transform the EU after big national election wins",
+          "url": "https://www.politico.eu/article/far-right-patriots-for-europe-national-election-wins-transform-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "date": "2026-11-23T03:00:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.92
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Polls put Spain's PP ahead of PSOE a week before 29 November election",
+      "summary": "Polls by Ipsos, Data10, GAD3 and Hamalgama Métrica all place the PP as the leading force, though they differ on the gap to the socialists and far-right Vox’s result. All four surveys suggest a right-wing coalition would secure a majority.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/22/polls-put-spains-pp-ahead-of-psoe-a-week-before-29-november-election",
+      "date": "2026-11-22T19:28:41+00:00",
+      "age": 10.373379991388889,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "Polls put Spain's PP ahead of PSOE a week before 29 November election",
+          "url": "https://www.euronews.com/2026/11/22/polls-put-spains-pp-ahead-of-psoe-a-week-before-29-november-election",
+          "date": "2026-11-22T19:28:41+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.71
+    },
+    {
+      "cat": "Health & Wellness",
+      "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
+      "summary": "Scientists have identified a gene that helps the brain’s immune cells contain harmful plaques linked to Alzheimer’s, potentially revealing a new way to fight the disease.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
+      "date": "2026-11-22T03:00:27+00:00",
+      "age": 26.843935546944444,
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
+          "date": "2026-11-22T03:00:27+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.25,
+      "expanded": "Scientists discovered a gene that enables brain immune cells to contain harmful plaques associated with Alzheimer’s. In mice, when the gene failed, toxic plaque buildup increased and cognitive function worsened, suggesting that restoring the gene could protect the brain.",
+      "why": "It offers a potential new target for Alzheimer’s treatment by addressing a previously unknown flaw in the brain’s cleanup system.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
   ],
-  "feed_warnings": [
-    "ScienceDaily: ParseError: junk after document element: line 440, column 46"
-  ],
-  "afternoon_checked_at": "2026-11-22T16:37:18.501046+01:00"
+  "afternoon": [],
+  "feed_warnings": []
 }
