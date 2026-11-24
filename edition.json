@@ -288,8 +288,40 @@
       "score": 3.99
     }
   ],
-  "afternoon": [],
+  "afternoon": [
+    {
+      "cat": "Books & Authors",
+      "title": "First Children’s Booker prize reveals ‘Great Eight’ shortlist",
+      "summary": "by authors including Shaun Tan, Eoin Colfer and Liz Hyder Books by the Oscar-winning artist Shaun Tan, Artemis Fowl author Eoin Colfer and Nero award-winner Liz Hyder are among the eight titles shortlisted for the first Children’s Booker prize.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/nov/24/first-childrens-booker-prize-reveals-great-eight-shortlist",
+      "date": "2026-11-24T07:30:09+00:00",
+      "age": 8.452371342777777,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "First Children’s Booker prize reveals ‘Great Eight’ shortlist",
+          "url": "https://www.theguardian.com/books/2026/nov/24/first-childrens-booker-prize-reveals-great-eight-shortlist",
+          "date": "2026-11-24T07:30:09+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "First Children's Booker prize reveals shortlist - and its child judges",
+          "url": "https://www.bbc.co.uk/news/articles/c65y18gl23gko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-24T07:29:37+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 8.27,
+      "expanded": "Judge Frank Cottrell‑Boyce announced the eight titles shortlisted for the inaugural Children’s Booker Prize, a £50,000 award. The shortlist features books by Shaun Tan, Eoin Colfer, Liz Hyder and Andrew Donkin, among others.",
+      "why": "It marks the first time the Booker Prize Foundation offers a dedicated award for children’s fiction, aiming to boost reading among young people.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    }
+  ],
   "feed_warnings": [
     "Hyperallergic: HTTPError: HTTP Error 404: Not Found"
-  ]
+  ],
+  "afternoon_checked_at": "2026-11-24T16:57:17.536824+01:00"
 }
