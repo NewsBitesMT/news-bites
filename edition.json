@@ -282,9 +282,97 @@
       "score": 4.66
     }
   ],
-  "afternoon": [],
+  "afternoon": [
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Von der Leyen: Energy ceasefire would show Putin is serious about peace talks",
+      "summary": "“A strong European team will participate in the next round of talks” on Ukraine, the European Commission chief tells lawmakers.",
+      "source": "Politico Europe",
+      "url": "https://www.politico.eu/article/von-der-leyen-energy-ceasefire-would-show-putin-is-serious-about-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "date": "2026-11-25T12:09:47+00:00",
+      "age": 3.7752088311111107,
+      "sources": [
+        {
+          "name": "Politico Europe",
+          "title": "Von der Leyen: Energy ceasefire would show Putin is serious about peace talks",
+          "url": "https://www.politico.eu/article/von-der-leyen-energy-ceasefire-would-show-putin-is-serious-about-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "date": "2026-11-25T12:09:47+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 10.9
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-25T15:42:50+00:00",
+      "age": 0.2243754977777778,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-25T15:42:50+00:00"
+        },
+        {
+          "name": "Al Jazeera English",
+          "title": "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
+          "url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss",
+          "date": "2026-11-25T15:35:33+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 8.49,
+      "expanded": "South Africa’s president, Cyril Ramaphosa, won a court case that removed a finding that had exposed him to a possible impeachment. The ruling effectively repealed the ‘farmgate’ impeachment threat that had been raised earlier.",
+      "why": "The decision provides Ramaphosa with a political reprieve, removing the impeachment risk that could have destabilised his administration.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Exiled Catalan separatist Puigdemont to return to Spain after election",
+      "summary": "Catalan separatist ​and former regional leader Carles Puigdemont said on Wednesday he would end nearly a decade of self-imposed exile in Belgium and return to Spain on December 12, ​after ‌this weekend's national election.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261125-exiled-catalan-separatist-puigdemont-to-return-to-spain-after-election",
+      "date": "2026-11-25T14:49:23+00:00",
+      "age": 1.115208831111111,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "Exiled Catalan separatist Puigdemont to return to Spain after election",
+          "url": "https://www.france24.com/en/video/20261125-exiled-catalan-separatist-puigdemont-to-return-to-spain-after-election",
+          "date": "2026-11-25T14:49:23+00:00"
+        },
+        {
+          "name": "Al Jazeera English",
+          "title": "Catalan separatist Puigdemont to return to Spain on December 12",
+          "url": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
+          "date": "2026-11-25T12:25:46+00:00"
+        },
+        {
+          "name": "Deutsche Welle",
+          "title": "Spain: Catalan separatist Puigdemont sets date for return",
+          "url": "https://www.dw.com/en/spain-catalan-separatist-puigdemont-sets-date-for-return/a-80045846?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-25T11:57:00+00:00"
+        }
+      ],
+      "source_count": 3,
+      "malta_relevant": false,
+      "score": 7.97,
+      "expanded": "Carles Puigdemont, the former Catalan president, announced he will leave his decade‑long exile in Belgium and return to Spain on December 12 after the national election. The Supreme Court has dropped the criminal case against him, and he plans to present a new Catalan independence proposal on December 17.",
+      "why": "His return signals a potential shift in Catalan separatist activity and may influence Spain’s political landscape ahead of the upcoming election.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    }
+  ],
   "feed_warnings": [
     "ScienceDaily: ParseError: junk after document element: line 440, column 46",
     "Hyperallergic: HTTPError: HTTP Error 404: Not Found"
-  ]
+  ],
+  "afternoon_checked_at": "2026-11-25T16:56:17.751779+01:00"
 }
