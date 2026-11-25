@@ -1,303 +1,43 @@
 {
-  "edition_date": "2026-11-24",
-  "generated_at": "2026-11-24T06:45:32.244106+01:00",
+  "edition_date": "2026-11-25",
+  "generated_at": "2026-11-25T06:44:54.828024+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
     {
-      "cat": "Politics & Government",
-      "title": "Back to 1936? Civil war ghosts haunt Spanish election campaign",
-      "summary": "With the far right poised to enter government, politicians are reopening the wounds of a war that began 90 years ago.",
-      "source": "Politico Europe",
-      "url": "https://www.politico.eu/article/back-to-1936-civil-war-ghosts-haunt-spanish-election-campaign/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "date": "2026-11-24T03:00:00+00:00",
-      "age": 2.7589567005555558,
+      "cat": "Business & Marketing",
+      "title": "Why inflation is up, but interest rates are not expected to follow",
+      "summary": "All our economic indicator lights are flashing red, but the worst may be over.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-25/inflation-up-but-rates-not-expected-to-follow/107424642",
+      "date": "2026-11-25T03:32:26+00:00",
+      "age": 2.2080077872222224,
       "sources": [
         {
-          "name": "Politico Europe",
-          "title": "Back to 1936? Civil war ghosts haunt Spanish election campaign",
-          "url": "https://www.politico.eu/article/back-to-1936-civil-war-ghosts-haunt-spanish-election-campaign/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "date": "2026-11-24T03:00:00+00:00"
+          "name": "ABC News Australia",
+          "title": "Why inflation is up, but interest rates are not expected to follow",
+          "url": "https://www.abc.net.au/news/2026-11-25/inflation-up-but-rates-not-expected-to-follow/107424642",
+          "date": "2026-11-25T03:32:26+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 7.92
+      "score": 10.94
     },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
-      "summary": "European Commission president Ursula von der Leyen sets out 22nd package of sanctions Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-      "date": "2026-11-23T16:42:56+00:00",
-      "age": 13.043401144999999,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
-          "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-          "date": "2026-11-23T16:42:56+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 7.64,
-      "expanded": "The European Commission announced its 22nd sanctions package targeting Russia, aiming to pressure the country and reduce its ability to finance the Ukraine war. Ursula von der Leyen highlighted the need to maintain support for Ukraine’s defense and future negotiations, while Dutch Prime Minister Rutte emphasized securing critical supplies and air‑defence ammunition for Ukraine.",
-      "why": "The sanctions seek to limit Russia’s war funding and reinforce Ukraine’s defense capabilities, potentially affecting the conflict’s dynamics.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-23T20:48:35+00:00",
-      "age": 8.949234478333333,
-      "sources": [
-        {
-          "name": "BBC News",
-          "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-23T20:48:35+00:00"
-        },
-        {
-          "name": "France 24",
-          "title": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
-          "url": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya",
-          "date": "2026-11-23T19:41:45+00:00"
-        },
-        {
-          "name": "Deutsche Welle",
-          "title": "Ukraine updates: Kyiv claims strike that sank Russian ship off Libya",
-          "url": "https://www.dw.com/en/ukraine-updates-kyiv-claims-strike-that-sank-russian-ship-off-libya/live-80015859?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-23T07:42:00+00:00"
-        }
-      ],
-      "source_count": 3,
-      "malta_relevant": false,
-      "score": 6.75,
-      "expanded": "Ukraine claims it sank a Russian warship and a cargo vessel in the Libyan port of Benghazi using Ukrainian‑made naval drones, according to President Zelenskyy. The attacks are part of Ukraine’s broader strategy to target Russian shipping abroad.",
-      "why": "The incidents illustrate the war’s expansion beyond Eastern Europe, potentially increasing regional tensions and prompting NATO discussions on Russian maritime conduct.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "South Korea’s education minister resigns after backlash over AI exam cheating rules",
-      "summary": "South Korea’s university entrance exam can shape a student’s future.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/23/south-koreas-education-minister-resigns-after-backlash-over-ai-exam-cheating-rules",
-      "date": "2026-11-23T15:35:18+00:00",
-      "age": 14.170623367222221,
-      "sources": [
-        {
-          "name": "Euronews",
-          "title": "South Korea’s education minister resigns after backlash over AI exam cheating rules",
-          "url": "https://www.euronews.com/2026/11/23/south-koreas-education-minister-resigns-after-backlash-over-ai-exam-cheating-rules",
-          "date": "2026-11-23T15:35:18+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.61,
-      "expanded": "South Korea’s education minister resigned after criticism of last‑minute security measures for the university entrance exam, which were introduced to curb fears of AI‑assisted cheating using hidden cameras and smart glasses.",
-      "why": "The resignation highlights the challenges of regulating AI in high‑stakes exams and the political fallout from security policy decisions.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Environment & Climate",
-      "title": "From COP31 Antalya to Copenhagen: UN climate summits where no agreement was reached",
-      "summary": "Since 1995, UN climate and environment summits have often seen deadlock, delays and frustration.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/23/from-cop31-antalya-to-copenhagen-un-climate-summits-where-no-agreement-was-reached",
-      "date": "2026-11-23T11:06:05+00:00",
-      "age": 18.657567811666667,
-      "sources": [
-        {
-          "name": "Euronews",
-          "title": "From COP31 Antalya to Copenhagen: UN climate summits where no agreement was reached",
-          "url": "https://www.euronews.com/2026/11/23/from-cop31-antalya-to-copenhagen-un-climate-summits-where-no-agreement-was-reached",
-          "date": "2026-11-23T11:06:05+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.48
-    },
-    {
-      "cat": "Science & Technology",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-24T02:15:59+00:00",
-      "age": 3.4925678116666665,
-      "sources": [
-        {
-          "name": "BBC News",
-          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-24T02:15:59+00:00"
-        },
-        {
-          "name": "France 24",
-          "title": "NATO vows space defence after Russia nuclear satellite report",
-          "url": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report",
-          "date": "2026-11-23T22:33:03+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 5.4,
-      "expanded": "NATO chief Mark Rutte pledged the alliance would defend against space threats after German media reported that Russia might launch a nuclear‑armed satellite in the coming weeks, potentially giving it the ability to destroy other satellites.",
-      "why": "It signals NATO’s readiness to counter emerging space weapons, reflecting growing concerns over space security.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
-      "summary": "CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
-      "date": "2026-11-24T04:59:13+00:00",
-      "age": 0.7720122561111111,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
-          "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
-          "date": "2026-11-24T04:59:13+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.98
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
-      "summary": "Ukrainian President Volodymyr Zelensky is calling for a new round of negotiations involving Ukraine, Russia, the United States and European leaders, saying Kyiv is ready to meet as early as Tuesday.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
-      "date": "2026-11-24T00:30:11+00:00",
-      "age": 5.255901145,
-      "sources": [
-        {
-          "name": "France 24",
-          "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
-          "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
-          "date": "2026-11-24T00:30:11+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.85
-    },
-    {
-      "cat": "Major World Events",
-      "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
-      "summary": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
-      "date": "2026-11-23T23:26:16+00:00",
-      "age": 6.3211789227777775,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
-          "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
-          "date": "2026-11-23T23:26:16+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.82
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Federal court clears way for army to detonate bomb-making chemicals in Iowa",
-      "summary": "ocial media, tried to push responsibility of ‘any and all death or destruction’ on Democratic governor-elect The US army can proceed with detonating several tons of degraded bomb-making chemicals in Iowa, a federal appeals court ruled on Monday.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-      "date": "2026-11-24T02:25:49+00:00",
-      "age": 3.3286789227777778,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "Federal court clears way for army to detonate bomb-making chemicals in Iowa",
-          "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-          "date": "2026-11-24T02:25:49+00:00"
-        },
-        {
-          "name": "PBS NewsHour",
-          "title": "Trump says Army will not detonate bomb-making chemicals in Iowa without court approval",
-          "url": "https://www.pbs.org/newshour/nation/trump-says-army-will-not-detonate-bomb-making-chemicals-in-iowa-without-court-approval",
-          "date": "2026-11-23T19:25:48+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 4.41
-    },
-    {
-      "cat": "Health & Wellness",
-      "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
-      "summary": "Scientists have identified a gene that helps the brain’s immune cells contain harmful plaques linked to Alzheimer’s, potentially revealing a new way to fight the disease.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
-      "date": "2026-11-22T03:00:27+00:00",
-      "age": 50.75145670055556,
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
-          "date": "2026-11-22T03:00:27+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.0,
-      "expanded": "Scientists discovered a gene that enables brain immune cells to contain harmful plaques associated with Alzheimer’s. In mice, when the gene failed, toxic plaque buildup accelerated and cognitive decline worsened, suggesting that restoring the gene’s function might protect the brain.",
-      "why": "The finding highlights a potential new target for Alzheimer’s therapies by addressing a previously unknown flaw in the brain’s cleanup system.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Art, Artists & History of Art",
-      "title": "US affordable artists' housing initiatives hobbled by uneven regulation and oversight",
-      "summary": "Recent and ongoing projects in Colorado and California illustrate the challenges faced by well-meaning organisations",
-      "source": "The Art Newspaper",
-      "url": "https://www.theartnewspaper.com/2026/11/24/affordable-artists-housing-initiatives-patchwork-regulation-oversight",
-      "date": "2026-11-24T05:16:08+00:00",
-      "age": 0.4900678116666667,
-      "sources": [
-        {
-          "name": "The Art Newspaper",
-          "title": "US affordable artists' housing initiatives hobbled by uneven regulation and oversight",
-          "url": "https://www.theartnewspaper.com/2026/11/24/affordable-artists-housing-initiatives-patchwork-regulation-oversight",
-          "date": "2026-11-24T05:16:08+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 3.99
-    }
-  ],
-  "afternoon": [
     {
       "cat": "Books & Authors",
-      "title": "First Children’s Booker prize reveals ‘Great Eight’ shortlist",
-      "summary": "by authors including Shaun Tan, Eoin Colfer and Liz Hyder Books by the Oscar-winning artist Shaun Tan, Artemis Fowl author Eoin Colfer and Nero award-winner Liz Hyder are among the eight titles shortlisted for the first Children’s Booker prize.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/nov/24/first-childrens-booker-prize-reveals-great-eight-shortlist",
-      "date": "2026-11-24T07:30:09+00:00",
-      "age": 8.452371342777777,
+      "title": "Here’s the shortlist for the first-ever Children’s Booker Prize.",
+      "summary": "Today, the Booker Prize Foundation announced the “Great Eight” shortlist of titles for inaugural Children’s Booker Prize, which will be awarded annually beginning in 2027.",
+      "source": "Literary Hub",
+      "url": "https://lithub.com/heres-the-shortlist-for-the-first-ever-childrens-booker-prize/",
+      "date": "2026-11-24T20:49:41+00:00",
+      "age": 8.920507787222222,
       "sources": [
+        {
+          "name": "Literary Hub",
+          "title": "Here’s the shortlist for the first-ever Children’s Booker Prize.",
+          "url": "https://lithub.com/heres-the-shortlist-for-the-first-ever-childrens-booker-prize/",
+          "date": "2026-11-24T20:49:41+00:00"
+        },
         {
           "name": "The Guardian",
           "title": "First Children’s Booker prize reveals ‘Great Eight’ shortlist",
@@ -311,17 +51,240 @@
           "date": "2026-11-24T07:29:37+00:00"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "malta_relevant": false,
-      "score": 8.27,
-      "expanded": "Judge Frank Cottrell‑Boyce announced the eight titles shortlisted for the inaugural Children’s Booker Prize, a £50,000 award. The shortlist features books by Shaun Tan, Eoin Colfer, Liz Hyder and Andrew Donkin, among others.",
-      "why": "It marks the first time the Booker Prize Foundation offers a dedicated award for children’s fiction, aiming to boost reading among young people.",
+      "score": 9.75,
+      "expanded": "The Booker Prize Foundation announced the inaugural Children’s Booker Prize shortlist, called the “Great Eight,” featuring eight titles from authors such as Shaun Tan, Eoin Colfer, and Liz Hyder. The prize, set to be awarded annually from 2027, offers £50,000.",
+      "why": "It marks the first major literary award dedicated to children’s fiction, aiming to boost reading among young people.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "How Russia used a Melania Trump-brokered ceasefire for political mileage",
+      "summary": "Ukraine's Human Rights Ombudsman Dmytro Lubinets explains how a delicate deal to evacuate people from a frontline town, facilitated by US first lady Melania Trump, worked.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-25/inside-evacuation-of-ukrainian-town-oleshky/107423258",
+      "date": "2026-11-25T01:55:19+00:00",
+      "age": 3.8266188983333334,
+      "sources": [
+        {
+          "name": "ABC News Australia",
+          "title": "How Russia used a Melania Trump-brokered ceasefire for political mileage",
+          "url": "https://www.abc.net.au/news/2026-11-25/inside-evacuation-of-ukrainian-town-oleshky/107423258",
+          "date": "2026-11-25T01:55:19+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.89,
+      "expanded": "Ukraine's Human Rights Ombudsman Dmytro Lubinets described a delicate ceasefire deal that allowed civilians to be evacuated from a frontline town. The agreement was facilitated by U.S. First Lady Melania Trump.",
+      "why": "",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Business & Marketing",
+      "title": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
+      "summary": "Huawei was found guilty of 10 out of 12 charges levelled against it. The company said it plans to appeal the verdict.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-25T02:01:00+00:00",
+      "age": 3.731896676111111,
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "title": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
+          "url": "https://www.dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-25T02:01:00+00:00"
+        },
+        {
+          "name": "France 24",
+          "title": "New York jury convicts Huawei of stealing trade secrets",
+          "url": "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets",
+          "date": "2026-11-24T23:31:22+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 6.4,
+      "expanded": "A New York jury convicted Huawei of violating U.S. sanctions and stealing trade secrets, finding the company guilty on 10 of 12 charges. The verdict was reached after a three‑month trial and the company announced it will appeal.",
+      "why": "The ruling reinforces U.S. pressure on Huawei amid national‑security concerns and could limit the company’s access to U.S. technology and markets.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Poll finds US voters want government to end Iran war regardless of terms",
+      "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+      "date": "2026-11-25T01:14:22+00:00",
+      "age": 4.509118898333333,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "title": "Poll finds US voters want government to end Iran war regardless of terms",
+          "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+          "date": "2026-11-25T01:14:22+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.87
+    },
+    {
+      "cat": "Science & Technology",
+      "title": "Myanmar earthquake reveals how fault history could help anticipate future slip",
+      "summary": "Earthquakes are full of unknowns—scientists can't accurately predict exactly when or where the next big earthquake will strike.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-myanmar-earthquake-reveals-fault-history.html",
+      "date": "2026-11-25T00:20:08+00:00",
+      "age": 5.413007787222222,
+      "sources": [
+        {
+          "name": "Phys.org",
+          "title": "Myanmar earthquake reveals how fault history could help anticipate future slip",
+          "url": "https://phys.org/news/2026-11-myanmar-earthquake-reveals-fault-history.html",
+          "date": "2026-11-25T00:20:08+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.85,
+      "expanded": "Scientists used supercomputer simulations and growing observational data to show that the history of a fault can help predict how it will slip in future earthquakes, as illustrated by a recent Myanmar quake.",
+      "why": "Understanding fault history may improve anticipation of future large earthquakes.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+      "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+      "date": "2026-11-24T12:12:25+00:00",
+      "age": 17.541618898333333,
+      "sources": [
+        {
+          "name": "NPR",
+          "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+          "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+          "date": "2026-11-24T12:12:25+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.51
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "The Gambia election: Can the next president deliver on a decade of promise",
+      "summary": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
+      "date": "2026-11-25T05:03:04+00:00",
+      "age": 0.6974522316666667,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "title": "The Gambia election: Can the next president deliver on a decade of promise",
+          "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
+          "date": "2026-11-25T05:03:04+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.98
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-25T00:58:34+00:00",
+      "age": 4.772452231666666,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "Clashing political visions reflect a divided Spain ahead of election",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-25T00:58:34+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.87
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-24T23:05:11+00:00",
+      "age": 6.6621744538888885,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+          "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-24T23:05:11+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.81
+    },
+    {
+      "cat": "Major World Events",
+      "title": "EU won't return to Russian energy regardless of US-led peace talks, Jørgensen tells Euronews",
+      "summary": "EU Energy chief tells Euronews Brussels will press ahead with its Russian gas ban regardless of the outcome of US-Russia peace talks.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/24/eu-rules-out-russian-energy-return-regardless-of-us-russia-peace-talks-jorgensen-tells-eur",
+      "date": "2026-11-24T20:10:45+00:00",
+      "age": 9.569396676111111,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "EU won't return to Russian energy regardless of US-led peace talks, Jørgensen tells Euronews",
+          "url": "https://www.euronews.com/2026/11/24/eu-rules-out-russian-energy-return-regardless-of-us-russia-peace-talks-jorgensen-tells-eur",
+          "date": "2026-11-24T20:10:45+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.73,
+      "expanded": "EU Energy chief Jørgensen said Brussels will continue its ban on Russian gas even if US‑led peace talks with Russia succeed.",
+      "why": "It confirms the EU’s firm stance on Russian energy dependence amid diplomatic negotiations.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Matryoshka: What is the Russian disinformation campaign targeting Spain's election?",
+      "summary": "Spain is heading to the polls this weekend, in an election marred by disinformation online. With France, Italy and Poland also holding elections in the coming months, how prepared is Europe to deal with a new wave of fake political news?",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/24/matryoshka-what-is-the-russian-disinformation-campaign-targeting-spains-election",
+      "date": "2026-11-24T17:35:14+00:00",
+      "age": 12.161341120555555,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "Matryoshka: What is the Russian disinformation campaign targeting Spain's election?",
+          "url": "https://www.euronews.com/2026/11/24/matryoshka-what-is-the-russian-disinformation-campaign-targeting-spains-election",
+          "date": "2026-11-24T17:35:14+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.66
     }
   ],
+  "afternoon": [],
   "feed_warnings": [
+    "ScienceDaily: ParseError: junk after document element: line 440, column 46",
     "Hyperallergic: HTTPError: HTTP Error 404: Not Found"
-  ],
-  "afternoon_checked_at": "2026-11-24T16:57:17.536824+01:00"
+  ]
 }
