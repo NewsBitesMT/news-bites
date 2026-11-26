@@ -1,43 +1,41 @@
 {
-  "edition_date": "2026-11-25",
-  "generated_at": "2026-11-25T06:44:54.828024+01:00",
+  "edition_date": "2026-11-26",
+  "generated_at": "2026-11-26T06:44:48.251710+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
     {
-      "cat": "Business & Marketing",
-      "title": "Why inflation is up, but interest rates are not expected to follow",
-      "summary": "All our economic indicator lights are flashing red, but the worst may be over.",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-11-25/inflation-up-but-rates-not-expected-to-follow/107424642",
-      "date": "2026-11-25T03:32:26+00:00",
-      "age": 2.2080077872222224,
+      "cat": "Crime, War & Justice",
+      "title": "Musician Michael Eckert killed in attempted Toronto home invasion, police say",
+      "summary": "A man killed in a midtown Toronto home invasion early Wednesday is being remembered as a talented musician who \"always led with his heart,\" according to a longtime friend. Police have identified the man as Michael Eckert, 39.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/canada/toronto/attempted-home-invasion-toronto-fatal-shooting-9.7435158?cmp=rss",
+      "date": "2026-11-25T11:05:15+00:00",
+      "age": 18.659236589166664,
       "sources": [
         {
-          "name": "ABC News Australia",
-          "title": "Why inflation is up, but interest rates are not expected to follow",
-          "url": "https://www.abc.net.au/news/2026-11-25/inflation-up-but-rates-not-expected-to-follow/107424642",
-          "date": "2026-11-25T03:32:26+00:00"
+          "name": "CBC News",
+          "title": "Musician Michael Eckert killed in attempted Toronto home invasion, police say",
+          "url": "https://www.cbc.ca/news/canada/toronto/attempted-home-invasion-toronto-fatal-shooting-9.7435158?cmp=rss",
+          "date": "2026-11-25T11:05:15+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 10.94
+      "score": 9.48,
+      "expanded": "Michael Eckert, a 39‑year‑old musician, was killed during an attempted home invasion in midtown Toronto early Wednesday. Police identified him as the victim. A longtime friend remembered him as a talented musician who \"always led with his heart.\"",
+      "why": "The incident highlights ongoing concerns about home safety and violent crime in Toronto.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Books & Authors",
-      "title": "Here’s the shortlist for the first-ever Children’s Booker Prize.",
-      "summary": "Today, the Booker Prize Foundation announced the “Great Eight” shortlist of titles for inaugural Children’s Booker Prize, which will be awarded annually beginning in 2027.",
-      "source": "Literary Hub",
-      "url": "https://lithub.com/heres-the-shortlist-for-the-first-ever-childrens-booker-prize/",
-      "date": "2026-11-24T20:49:41+00:00",
-      "age": 8.920507787222222,
+      "title": "First Children’s Booker prize reveals ‘Great Eight’ shortlist",
+      "summary": "by authors including Shaun Tan, Eoin Colfer and Liz Hyder Books by the Oscar-winning artist Shaun Tan, Artemis Fowl author Eoin Colfer and Nero award-winner Liz Hyder are among the eight titles shortlisted for the first Children’s Booker prize.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/nov/24/first-childrens-booker-prize-reveals-great-eight-shortlist",
+      "date": "2026-11-24T07:30:09+00:00",
+      "age": 46.24423658916667,
       "sources": [
-        {
-          "name": "Literary Hub",
-          "title": "Here’s the shortlist for the first-ever Children’s Booker Prize.",
-          "url": "https://lithub.com/heres-the-shortlist-for-the-first-ever-childrens-booker-prize/",
-          "date": "2026-11-24T20:49:41+00:00"
-        },
         {
           "name": "The Guardian",
           "title": "First Children’s Booker prize reveals ‘Great Eight’ shortlist",
@@ -51,109 +49,151 @@
           "date": "2026-11-24T07:29:37+00:00"
         }
       ],
-      "source_count": 3,
-      "malta_relevant": false,
-      "score": 9.75,
-      "expanded": "The Booker Prize Foundation announced the inaugural Children’s Booker Prize shortlist, called the “Great Eight,” featuring eight titles from authors such as Shaun Tan, Eoin Colfer, and Liz Hyder. The prize, set to be awarded annually from 2027, offers £50,000.",
-      "why": "It marks the first major literary award dedicated to children’s fiction, aiming to boost reading among young people.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "How Russia used a Melania Trump-brokered ceasefire for political mileage",
-      "summary": "Ukraine's Human Rights Ombudsman Dmytro Lubinets explains how a delicate deal to evacuate people from a frontline town, facilitated by US first lady Melania Trump, worked.",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-11-25/inside-evacuation-of-ukrainian-town-oleshky/107423258",
-      "date": "2026-11-25T01:55:19+00:00",
-      "age": 3.8266188983333334,
-      "sources": [
-        {
-          "name": "ABC News Australia",
-          "title": "How Russia used a Melania Trump-brokered ceasefire for political mileage",
-          "url": "https://www.abc.net.au/news/2026-11-25/inside-evacuation-of-ukrainian-town-oleshky/107423258",
-          "date": "2026-11-25T01:55:19+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.89,
-      "expanded": "Ukraine's Human Rights Ombudsman Dmytro Lubinets described a delicate ceasefire deal that allowed civilians to be evacuated from a frontline town. The agreement was facilitated by U.S. First Lady Melania Trump.",
-      "why": "",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Business & Marketing",
-      "title": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
-      "summary": "Huawei was found guilty of 10 out of 12 charges levelled against it. The company said it plans to appeal the verdict.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-25T02:01:00+00:00",
-      "age": 3.731896676111111,
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "title": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
-          "url": "https://www.dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-25T02:01:00+00:00"
-        },
-        {
-          "name": "France 24",
-          "title": "New York jury convicts Huawei of stealing trade secrets",
-          "url": "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets",
-          "date": "2026-11-24T23:31:22+00:00"
-        }
-      ],
       "source_count": 2,
       "malta_relevant": false,
-      "score": 6.4,
-      "expanded": "A New York jury convicted Huawei of violating U.S. sanctions and stealing trade secrets, finding the company guilty on 10 of 12 charges. The verdict was reached after a three‑month trial and the company announced it will appeal.",
-      "why": "The ruling reinforces U.S. pressure on Huawei amid national‑security concerns and could limit the company’s access to U.S. technology and markets.",
+      "score": 7.5,
+      "expanded": "Judge Frank Cottrell‑Boyce announced the eight titles shortlisted for the inaugural Children’s Booker Prize, a £50,000 award. The shortlist includes books by Shaun Tan, Eoin Colfer, and Liz Hyder.",
+      "why": "It marks the first time the Booker Prize Foundation offers a dedicated award for children’s fiction, aiming to boost reading among young people.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Crime, War & Justice",
-      "title": "Poll finds US voters want government to end Iran war regardless of terms",
-      "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+      "title": "Puerto Rico’s Supreme Court cancels major power contract",
+      "summary": "The court's five-to-four ruling ends Luma Energy's operations after a contentious legal battle.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-      "date": "2026-11-25T01:14:22+00:00",
-      "age": 4.509118898333333,
+      "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+      "date": "2026-11-26T05:09:55+00:00",
+      "age": 0.5814588113888889,
       "sources": [
         {
           "name": "Al Jazeera English",
-          "title": "Poll finds US voters want government to end Iran war regardless of terms",
-          "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-          "date": "2026-11-25T01:14:22+00:00"
+          "title": "Puerto Rico’s Supreme Court cancels major power contract",
+          "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+          "date": "2026-11-26T05:09:55+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.87
+      "score": 6.98
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "At least 31 killed in Cairo fire after fuel truck overturns on busy highway",
+      "summary": "At least 31 people were killed and 15 injured when a fuel truck overturned and burst into flames on a busy highway in Cairo on Wednesday, engulfing nearby vehicles, Egyptian authorities said.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
+      "date": "2026-11-26T01:25:54+00:00",
+      "age": 4.3150699225,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "At least 31 killed in Cairo fire after fuel truck overturns on busy highway",
+          "url": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
+          "date": "2026-11-26T01:25:54+00:00"
+        },
+        {
+          "name": "The Guardian",
+          "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+          "date": "2026-11-26T00:39:10+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-25T22:18:06+00:00"
+        },
+        {
+          "name": "Deutsche Welle",
+          "title": "Egypt: At least 31 dead after fuel truck overturns on highway",
+          "url": "https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-25T21:37:00+00:00"
+        },
+        {
+          "name": "Euronews",
+          "title": "At least 30 killed in highway fire in Cairo district",
+          "url": "https://www.euronews.com/2026/11/25/at-least-30-killed-in-highway-fire-in-cairo-district",
+          "date": "2026-11-25T19:56:45+00:00"
+        }
+      ],
+      "source_count": 5,
+      "malta_relevant": false,
+      "score": 6.88,
+      "expanded": "A fuel tanker overturned on a busy Cairo ring road, igniting a large fire that killed at least 31 people and injured 15–21 others, and charred more than two dozen cars and motorcycles.",
+      "why": "The incident caused significant loss of life and widespread vehicle damage on a major transportation artery.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Science & Technology",
-      "title": "Myanmar earthquake reveals how fault history could help anticipate future slip",
-      "summary": "Earthquakes are full of unknowns—scientists can't accurately predict exactly when or where the next big earthquake will strike.",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-myanmar-earthquake-reveals-fault-history.html",
-      "date": "2026-11-25T00:20:08+00:00",
-      "age": 5.413007787222222,
+      "title": "Malta Airport Targeted By 3.7 Million Cyberattack Attempts In Just Six Months",
+      "summary": "Malta International Airport faced a staggering 3.7 million attempted cyberattacks during the first six months of 2026 alone.",
+      "source": "Lovin Malta",
+      "url": "https://lovinmalta.com/news/local/malta-airport-targeted-by-3-7-million-cyberattack-attempts-in-just-six-months/",
+      "date": "2026-11-25T13:35:05+00:00",
+      "age": 16.162014366944444,
       "sources": [
         {
-          "name": "Phys.org",
-          "title": "Myanmar earthquake reveals how fault history could help anticipate future slip",
-          "url": "https://phys.org/news/2026-11-myanmar-earthquake-reveals-fault-history.html",
-          "date": "2026-11-25T00:20:08+00:00"
+          "name": "Lovin Malta",
+          "title": "Malta Airport Targeted By 3.7 Million Cyberattack Attempts In Just Six Months",
+          "url": "https://lovinmalta.com/news/local/malta-airport-targeted-by-3-7-million-cyberattack-attempts-in-just-six-months/",
+          "date": "2026-11-25T13:35:05+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": true,
+      "score": 6.05,
+      "expanded": "Malta International Airport reported 3.7 million attempted cyberattacks in the first half of 2026, according to a LinkedIn post by the airport’s ICT Management Systems Lead, Jeffrey Cassar.",
+      "why": "The volume underscores increasing cyber threats to critical infrastructure.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Commissioner resigns after ambulance delay deaths in Queensland",
+      "summary": "Craig Emery's five-year contract as commissioner was due to end in February but Health Minister Tim Nicholls announced today Mr Emery had decided to retire from the role.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-26/qld-ambulance-service-commissioner-resigns/107429060",
+      "date": "2026-11-26T00:12:37+00:00",
+      "age": 5.536458811388889,
+      "sources": [
+        {
+          "name": "ABC News Australia",
+          "title": "Commissioner resigns after ambulance delay deaths in Queensland",
+          "url": "https://www.abc.net.au/news/2026-11-26/qld-ambulance-service-commissioner-resigns/107429060",
+          "date": "2026-11-26T00:12:37+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
       "score": 5.85,
-      "expanded": "Scientists used supercomputer simulations and growing observational data to show that the history of a fault can help predict how it will slip in future earthquakes, as illustrated by a recent Myanmar quake.",
-      "why": "Understanding fault history may improve anticipation of future large earthquakes.",
+      "expanded": "Health Minister Tim Nicholls announced that Craig Emery, whose five‑year contract as Queensland Health Commissioner was set to expire in February, has decided to retire from the role.",
+      "why": "",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+      "summary": "ost of war Mariam Dagga, the Palestinian war correspondent who was killed at the age of 33 in Gaza in an Israeli strike, has posthumously won the prestigious Rory Peck prize for freelance video journalists, the organisers announced on Wednesday.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+      "date": "2026-11-25T23:06:06+00:00",
+      "age": 6.6450699225,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+          "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+          "date": "2026-11-25T23:06:06+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.82,
+      "expanded": "Mariam Dagga, a 33‑year‑old Palestinian war correspondent, was killed by an Israeli strike in Gaza. She posthumously received the Rory Peck prize for freelance video journalists, sharing it with AP colleagues Abdel Kareem Hana and Jehad Alshrafi for their coverage of the war’s human cost.",
+      "why": "The award highlights the dangers faced by journalists in conflict zones and honors Dagga’s contribution to documenting the war’s impact.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
@@ -164,7 +204,7 @@
       "source": "NPR",
       "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
       "date": "2026-11-24T12:12:25+00:00",
-      "age": 17.541618898333333,
+      "age": 41.53979214472223,
       "sources": [
         {
           "name": "NPR",
@@ -175,204 +215,103 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.51
+      "score": 5.0,
+      "expanded": "Jensen Huang has returned to his role as CEO of Nvidia, a move that President Trump claimed he helped negotiate. Meanwhile, Representative Jimmy Gomez of California announced his resignation, effective December 1.",
+      "why": "",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Politics & Government",
-      "title": "The Gambia election: Can the next president deliver on a decade of promise",
-      "summary": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
-      "date": "2026-11-25T05:03:04+00:00",
-      "age": 0.6974522316666667,
+      "cat": "Health & Wellness",
+      "title": "Pig kidney transplant patient marks 1 year without dialysis in medical breakthrough",
+      "summary": "It's been more than a year since Molly Falco underwent experimental surgery to receive a kidney harvested from a genetically modified pig, and she says she has no regrets.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/radio/asithappens/pig-kidney-transplant-one-year-9.7436372?cmp=rss",
+      "date": "2026-11-25T23:50:00+00:00",
+      "age": 5.913403255833334,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "title": "The Gambia election: Can the next president deliver on a decade of promise",
-          "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
-          "date": "2026-11-25T05:03:04+00:00"
+          "name": "CBC News",
+          "title": "Pig kidney transplant patient marks 1 year without dialysis in medical breakthrough",
+          "url": "https://www.cbc.ca/radio/asithappens/pig-kidney-transplant-one-year-9.7436372?cmp=rss",
+          "date": "2026-11-25T23:50:00+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.98
+      "score": 4.84,
+      "expanded": "Molly Falco has lived more than a year after receiving a genetically modified pig kidney in experimental surgery, and she reports she has not needed dialysis since the transplant.",
+      "why": "It demonstrates a potential new treatment option for kidney failure patients.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Politics & Government",
-      "title": "Clashing political visions reflect a divided Spain ahead of election",
-      "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-25T00:58:34+00:00",
-      "age": 4.772452231666666,
+      "title": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
+      "summary": "gital copy of ballots and other election records seized by the FBI earlier this year to the State Election Board, which had been trying for more than two years to obtain certain records from the 2020 election in the state's most populous county.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/georgias-fulton-county-ordered-to-give-copy-of-2020-election-records-seized-by-fbi-to-state-board",
+      "date": "2026-11-25T22:48:11+00:00",
+      "age": 6.943681033611111,
       "sources": [
         {
-          "name": "BBC News",
-          "title": "Clashing political visions reflect a divided Spain ahead of election",
-          "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-25T00:58:34+00:00"
+          "name": "PBS NewsHour",
+          "title": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
+          "url": "https://www.pbs.org/newshour/politics/georgias-fulton-county-ordered-to-give-copy-of-2020-election-records-seized-by-fbi-to-state-board",
+          "date": "2026-11-25T22:48:11+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 4.87
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
-      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-24T23:05:11+00:00",
-      "age": 6.6621744538888885,
-      "sources": [
-        {
-          "name": "BBC News",
-          "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
-          "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-24T23:05:11+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.81
+      "score": 4.81,
+      "expanded": "A judge ordered Fulton County, Georgia, to provide a digital copy of ballots and other election records that the FBI seized earlier this year to the State Election Board. The board had been seeking these records for over two years.",
+      "why": "The order allows the state board to access records that could clarify the 2020 election process in the county.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Major World Events",
-      "title": "EU won't return to Russian energy regardless of US-led peace talks, Jørgensen tells Euronews",
-      "summary": "EU Energy chief tells Euronews Brussels will press ahead with its Russian gas ban regardless of the outcome of US-Russia peace talks.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/24/eu-rules-out-russian-energy-return-regardless-of-us-russia-peace-talks-jorgensen-tells-eur",
-      "date": "2026-11-24T20:10:45+00:00",
-      "age": 9.569396676111111,
-      "sources": [
-        {
-          "name": "Euronews",
-          "title": "EU won't return to Russian energy regardless of US-led peace talks, Jørgensen tells Euronews",
-          "url": "https://www.euronews.com/2026/11/24/eu-rules-out-russian-energy-return-regardless-of-us-russia-peace-talks-jorgensen-tells-eur",
-          "date": "2026-11-24T20:10:45+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.73,
-      "expanded": "EU Energy chief Jørgensen said Brussels will continue its ban on Russian gas even if US‑led peace talks with Russia succeed.",
-      "why": "It confirms the EU’s firm stance on Russian energy dependence amid diplomatic negotiations.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Matryoshka: What is the Russian disinformation campaign targeting Spain's election?",
-      "summary": "Spain is heading to the polls this weekend, in an election marred by disinformation online. With France, Italy and Poland also holding elections in the coming months, how prepared is Europe to deal with a new wave of fake political news?",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/24/matryoshka-what-is-the-russian-disinformation-campaign-targeting-spains-election",
-      "date": "2026-11-24T17:35:14+00:00",
-      "age": 12.161341120555555,
-      "sources": [
-        {
-          "name": "Euronews",
-          "title": "Matryoshka: What is the Russian disinformation campaign targeting Spain's election?",
-          "url": "https://www.euronews.com/2026/11/24/matryoshka-what-is-the-russian-disinformation-campaign-targeting-spains-election",
-          "date": "2026-11-24T17:35:14+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.66
-    }
-  ],
-  "afternoon": [
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Von der Leyen: Energy ceasefire would show Putin is serious about peace talks",
-      "summary": "“A strong European team will participate in the next round of talks” on Ukraine, the European Commission chief tells lawmakers.",
-      "source": "Politico Europe",
-      "url": "https://www.politico.eu/article/von-der-leyen-energy-ceasefire-would-show-putin-is-serious-about-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "date": "2026-11-25T12:09:47+00:00",
-      "age": 3.7752088311111107,
-      "sources": [
-        {
-          "name": "Politico Europe",
-          "title": "Von der Leyen: Energy ceasefire would show Putin is serious about peace talks",
-          "url": "https://www.politico.eu/article/von-der-leyen-energy-ceasefire-would-show-putin-is-serious-about-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "date": "2026-11-25T12:09:47+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 10.9
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-25T15:42:50+00:00",
-      "age": 0.2243754977777778,
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-25T21:51:17+00:00",
+      "age": 7.892014366944444,
       "sources": [
         {
           "name": "BBC News",
-          "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-          "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-25T15:42:50+00:00"
-        },
-        {
-          "name": "Al Jazeera English",
-          "title": "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
-          "url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss",
-          "date": "2026-11-25T15:35:33+00:00"
+          "title": "North Korea expels Swiss diplomat in sanctions row",
+          "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-25T21:51:17+00:00"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "malta_relevant": false,
-      "score": 8.49,
-      "expanded": "South Africa’s president, Cyril Ramaphosa, won a court case that removed a finding that had exposed him to a possible impeachment. The ruling effectively repealed the ‘farmgate’ impeachment threat that had been raised earlier.",
-      "why": "The decision provides Ramaphosa with a political reprieve, removing the impeachment risk that could have destabilised his administration.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+      "score": 4.78
     },
     {
       "cat": "Politics & Government",
-      "title": "Exiled Catalan separatist Puigdemont to return to Spain after election",
-      "summary": "Catalan separatist ​and former regional leader Carles Puigdemont said on Wednesday he would end nearly a decade of self-imposed exile in Belgium and return to Spain on December 12, ​after ‌this weekend's national election.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261125-exiled-catalan-separatist-puigdemont-to-return-to-spain-after-election",
-      "date": "2026-11-25T14:49:23+00:00",
-      "age": 1.115208831111111,
+      "title": "Tusk government ‘facing armageddon’ as European court resumes cases against Poland",
+      "summary": "The country faces millions of euros in potential compensation payments over its former nationalist government’s judicial overhaul.",
+      "source": "Politico Europe",
+      "url": "https://www.politico.eu/article/donald-tusk-government-facing-armageddon-as-european-court-resumes-cases-against-poland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "date": "2026-11-25T20:45:59+00:00",
+      "age": 8.980347700277777,
       "sources": [
         {
-          "name": "France 24",
-          "title": "Exiled Catalan separatist Puigdemont to return to Spain after election",
-          "url": "https://www.france24.com/en/video/20261125-exiled-catalan-separatist-puigdemont-to-return-to-spain-after-election",
-          "date": "2026-11-25T14:49:23+00:00"
-        },
-        {
-          "name": "Al Jazeera English",
-          "title": "Catalan separatist Puigdemont to return to Spain on December 12",
-          "url": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
-          "date": "2026-11-25T12:25:46+00:00"
-        },
-        {
-          "name": "Deutsche Welle",
-          "title": "Spain: Catalan separatist Puigdemont sets date for return",
-          "url": "https://www.dw.com/en/spain-catalan-separatist-puigdemont-sets-date-for-return/a-80045846?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-25T11:57:00+00:00"
+          "name": "Politico Europe",
+          "title": "Tusk government ‘facing armageddon’ as European court resumes cases against Poland",
+          "url": "https://www.politico.eu/article/donald-tusk-government-facing-armageddon-as-european-court-resumes-cases-against-poland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "date": "2026-11-25T20:45:59+00:00"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "malta_relevant": false,
-      "score": 7.97,
-      "expanded": "Carles Puigdemont, the former Catalan president, announced he will leave his decade‑long exile in Belgium and return to Spain on December 12 after the national election. The Supreme Court has dropped the criminal case against him, and he plans to present a new Catalan independence proposal on December 17.",
-      "why": "His return signals a potential shift in Catalan separatist activity and may influence Spain’s political landscape ahead of the upcoming election.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+      "score": 4.75
     }
   ],
+  "afternoon": [],
   "feed_warnings": [
-    "ScienceDaily: ParseError: junk after document element: line 440, column 46",
     "Hyperallergic: HTTPError: HTTP Error 404: Not Found"
-  ],
-  "afternoon_checked_at": "2026-11-25T16:56:17.751779+01:00"
+  ]
 }
