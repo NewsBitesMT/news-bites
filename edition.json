@@ -310,8 +310,50 @@
       "score": 4.75
     }
   ],
-  "afternoon": [],
+  "afternoon": [
+    {
+      "cat": "Politics & Government",
+      "title": "Feminists march across Spain against violence ahead of general election",
+      "summary": "Demonstrations for the International Day for the Elimination of Violence against Women come just days before elections in which the far right could approach 20% of the vote.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/26/feminists-march-across-spain-against-violence-ahead-of-general-election",
+      "date": "2026-11-26T11:29:58+00:00",
+      "age": 4.409295978055556,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "Feminists march across Spain against violence ahead of general election",
+          "url": "https://www.euronews.com/2026/11/26/feminists-march-across-spain-against-violence-ahead-of-general-election",
+          "date": "2026-11-26T11:29:58+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 9.88
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
+      "summary": "Sheikh Tamim bin Hamad Al Thani is in Cairo for an official visit aimed at further strengthening bilateral relations.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+      "date": "2026-11-26T15:45:59+00:00",
+      "age": 0.1423515336111111,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
+          "url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+          "date": "2026-11-26T15:45:59+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 7.0
+    }
+  ],
   "feed_warnings": [
     "Hyperallergic: HTTPError: HTTP Error 404: Not Found"
-  ]
+  ],
+  "afternoon_checked_at": "2026-11-26T16:54:31.465507+01:00"
 }
