@@ -1,316 +1,8 @@
 {
-  "edition_date": "2026-11-26",
-  "generated_at": "2026-11-26T06:44:48.251710+01:00",
+  "edition_date": "2026-11-27",
+  "generated_at": "2026-11-27T06:47:46.970649+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Musician Michael Eckert killed in attempted Toronto home invasion, police say",
-      "summary": "A man killed in a midtown Toronto home invasion early Wednesday is being remembered as a talented musician who \"always led with his heart,\" according to a longtime friend. Police have identified the man as Michael Eckert, 39.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/canada/toronto/attempted-home-invasion-toronto-fatal-shooting-9.7435158?cmp=rss",
-      "date": "2026-11-25T11:05:15+00:00",
-      "age": 18.659236589166664,
-      "sources": [
-        {
-          "name": "CBC News",
-          "title": "Musician Michael Eckert killed in attempted Toronto home invasion, police say",
-          "url": "https://www.cbc.ca/news/canada/toronto/attempted-home-invasion-toronto-fatal-shooting-9.7435158?cmp=rss",
-          "date": "2026-11-25T11:05:15+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 9.48,
-      "expanded": "Michael Eckert, a 39‑year‑old musician, was killed during an attempted home invasion in midtown Toronto early Wednesday. Police identified him as the victim. A longtime friend remembered him as a talented musician who \"always led with his heart.\"",
-      "why": "The incident highlights ongoing concerns about home safety and violent crime in Toronto.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Books & Authors",
-      "title": "First Children’s Booker prize reveals ‘Great Eight’ shortlist",
-      "summary": "by authors including Shaun Tan, Eoin Colfer and Liz Hyder Books by the Oscar-winning artist Shaun Tan, Artemis Fowl author Eoin Colfer and Nero award-winner Liz Hyder are among the eight titles shortlisted for the first Children’s Booker prize.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/nov/24/first-childrens-booker-prize-reveals-great-eight-shortlist",
-      "date": "2026-11-24T07:30:09+00:00",
-      "age": 46.24423658916667,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "First Children’s Booker prize reveals ‘Great Eight’ shortlist",
-          "url": "https://www.theguardian.com/books/2026/nov/24/first-childrens-booker-prize-reveals-great-eight-shortlist",
-          "date": "2026-11-24T07:30:09+00:00"
-        },
-        {
-          "name": "BBC News",
-          "title": "First Children's Booker prize reveals shortlist - and its child judges",
-          "url": "https://www.bbc.co.uk/news/articles/c65y18gl23gko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-24T07:29:37+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 7.5,
-      "expanded": "Judge Frank Cottrell‑Boyce announced the eight titles shortlisted for the inaugural Children’s Booker Prize, a £50,000 award. The shortlist includes books by Shaun Tan, Eoin Colfer, and Liz Hyder.",
-      "why": "It marks the first time the Booker Prize Foundation offers a dedicated award for children’s fiction, aiming to boost reading among young people.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Puerto Rico’s Supreme Court cancels major power contract",
-      "summary": "The court's five-to-four ruling ends Luma Energy's operations after a contentious legal battle.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
-      "date": "2026-11-26T05:09:55+00:00",
-      "age": 0.5814588113888889,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "title": "Puerto Rico’s Supreme Court cancels major power contract",
-          "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
-          "date": "2026-11-26T05:09:55+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.98
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "At least 31 killed in Cairo fire after fuel truck overturns on busy highway",
-      "summary": "At least 31 people were killed and 15 injured when a fuel truck overturned and burst into flames on a busy highway in Cairo on Wednesday, engulfing nearby vehicles, Egyptian authorities said.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
-      "date": "2026-11-26T01:25:54+00:00",
-      "age": 4.3150699225,
-      "sources": [
-        {
-          "name": "France 24",
-          "title": "At least 31 killed in Cairo fire after fuel truck overturns on busy highway",
-          "url": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
-          "date": "2026-11-26T01:25:54+00:00"
-        },
-        {
-          "name": "The Guardian",
-          "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
-          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
-          "date": "2026-11-26T00:39:10+00:00"
-        },
-        {
-          "name": "BBC News",
-          "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-25T22:18:06+00:00"
-        },
-        {
-          "name": "Deutsche Welle",
-          "title": "Egypt: At least 31 dead after fuel truck overturns on highway",
-          "url": "https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-25T21:37:00+00:00"
-        },
-        {
-          "name": "Euronews",
-          "title": "At least 30 killed in highway fire in Cairo district",
-          "url": "https://www.euronews.com/2026/11/25/at-least-30-killed-in-highway-fire-in-cairo-district",
-          "date": "2026-11-25T19:56:45+00:00"
-        }
-      ],
-      "source_count": 5,
-      "malta_relevant": false,
-      "score": 6.88,
-      "expanded": "A fuel tanker overturned on a busy Cairo ring road, igniting a large fire that killed at least 31 people and injured 15–21 others, and charred more than two dozen cars and motorcycles.",
-      "why": "The incident caused significant loss of life and widespread vehicle damage on a major transportation artery.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Science & Technology",
-      "title": "Malta Airport Targeted By 3.7 Million Cyberattack Attempts In Just Six Months",
-      "summary": "Malta International Airport faced a staggering 3.7 million attempted cyberattacks during the first six months of 2026 alone.",
-      "source": "Lovin Malta",
-      "url": "https://lovinmalta.com/news/local/malta-airport-targeted-by-3-7-million-cyberattack-attempts-in-just-six-months/",
-      "date": "2026-11-25T13:35:05+00:00",
-      "age": 16.162014366944444,
-      "sources": [
-        {
-          "name": "Lovin Malta",
-          "title": "Malta Airport Targeted By 3.7 Million Cyberattack Attempts In Just Six Months",
-          "url": "https://lovinmalta.com/news/local/malta-airport-targeted-by-3-7-million-cyberattack-attempts-in-just-six-months/",
-          "date": "2026-11-25T13:35:05+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": true,
-      "score": 6.05,
-      "expanded": "Malta International Airport reported 3.7 million attempted cyberattacks in the first half of 2026, according to a LinkedIn post by the airport’s ICT Management Systems Lead, Jeffrey Cassar.",
-      "why": "The volume underscores increasing cyber threats to critical infrastructure.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Commissioner resigns after ambulance delay deaths in Queensland",
-      "summary": "Craig Emery's five-year contract as commissioner was due to end in February but Health Minister Tim Nicholls announced today Mr Emery had decided to retire from the role.",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-11-26/qld-ambulance-service-commissioner-resigns/107429060",
-      "date": "2026-11-26T00:12:37+00:00",
-      "age": 5.536458811388889,
-      "sources": [
-        {
-          "name": "ABC News Australia",
-          "title": "Commissioner resigns after ambulance delay deaths in Queensland",
-          "url": "https://www.abc.net.au/news/2026-11-26/qld-ambulance-service-commissioner-resigns/107429060",
-          "date": "2026-11-26T00:12:37+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.85,
-      "expanded": "Health Minister Tim Nicholls announced that Craig Emery, whose five‑year contract as Queensland Health Commissioner was set to expire in February, has decided to retire from the role.",
-      "why": "",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
-      "summary": "ost of war Mariam Dagga, the Palestinian war correspondent who was killed at the age of 33 in Gaza in an Israeli strike, has posthumously won the prestigious Rory Peck prize for freelance video journalists, the organisers announced on Wednesday.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
-      "date": "2026-11-25T23:06:06+00:00",
-      "age": 6.6450699225,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
-          "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
-          "date": "2026-11-25T23:06:06+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.82,
-      "expanded": "Mariam Dagga, a 33‑year‑old Palestinian war correspondent, was killed by an Israeli strike in Gaza. She posthumously received the Rory Peck prize for freelance video journalists, sharing it with AP colleagues Abdel Kareem Hana and Jehad Alshrafi for their coverage of the war’s human cost.",
-      "why": "The award highlights the dangers faced by journalists in conflict zones and honors Dagga’s contribution to documenting the war’s impact.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-      "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
-      "date": "2026-11-24T12:12:25+00:00",
-      "age": 41.53979214472223,
-      "sources": [
-        {
-          "name": "NPR",
-          "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-          "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
-          "date": "2026-11-24T12:12:25+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.0,
-      "expanded": "Jensen Huang has returned to his role as CEO of Nvidia, a move that President Trump claimed he helped negotiate. Meanwhile, Representative Jimmy Gomez of California announced his resignation, effective December 1.",
-      "why": "",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Health & Wellness",
-      "title": "Pig kidney transplant patient marks 1 year without dialysis in medical breakthrough",
-      "summary": "It's been more than a year since Molly Falco underwent experimental surgery to receive a kidney harvested from a genetically modified pig, and she says she has no regrets.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/radio/asithappens/pig-kidney-transplant-one-year-9.7436372?cmp=rss",
-      "date": "2026-11-25T23:50:00+00:00",
-      "age": 5.913403255833334,
-      "sources": [
-        {
-          "name": "CBC News",
-          "title": "Pig kidney transplant patient marks 1 year without dialysis in medical breakthrough",
-          "url": "https://www.cbc.ca/radio/asithappens/pig-kidney-transplant-one-year-9.7436372?cmp=rss",
-          "date": "2026-11-25T23:50:00+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.84,
-      "expanded": "Molly Falco has lived more than a year after receiving a genetically modified pig kidney in experimental surgery, and she reports she has not needed dialysis since the transplant.",
-      "why": "It demonstrates a potential new treatment option for kidney failure patients.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
-      "summary": "gital copy of ballots and other election records seized by the FBI earlier this year to the State Election Board, which had been trying for more than two years to obtain certain records from the 2020 election in the state's most populous county.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/politics/georgias-fulton-county-ordered-to-give-copy-of-2020-election-records-seized-by-fbi-to-state-board",
-      "date": "2026-11-25T22:48:11+00:00",
-      "age": 6.943681033611111,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "title": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
-          "url": "https://www.pbs.org/newshour/politics/georgias-fulton-county-ordered-to-give-copy-of-2020-election-records-seized-by-fbi-to-state-board",
-          "date": "2026-11-25T22:48:11+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.81,
-      "expanded": "A judge ordered Fulton County, Georgia, to provide a digital copy of ballots and other election records that the FBI seized earlier this year to the State Election Board. The board had been seeking these records for over two years.",
-      "why": "The order allows the state board to access records that could clarify the 2020 election process in the county.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Major World Events",
-      "title": "North Korea expels Swiss diplomat in sanctions row",
-      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-25T21:51:17+00:00",
-      "age": 7.892014366944444,
-      "sources": [
-        {
-          "name": "BBC News",
-          "title": "North Korea expels Swiss diplomat in sanctions row",
-          "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-25T21:51:17+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.78
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Tusk government ‘facing armageddon’ as European court resumes cases against Poland",
-      "summary": "The country faces millions of euros in potential compensation payments over its former nationalist government’s judicial overhaul.",
-      "source": "Politico Europe",
-      "url": "https://www.politico.eu/article/donald-tusk-government-facing-armageddon-as-european-court-resumes-cases-against-poland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "date": "2026-11-25T20:45:59+00:00",
-      "age": 8.980347700277777,
-      "sources": [
-        {
-          "name": "Politico Europe",
-          "title": "Tusk government ‘facing armageddon’ as European court resumes cases against Poland",
-          "url": "https://www.politico.eu/article/donald-tusk-government-facing-armageddon-as-european-court-resumes-cases-against-poland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "date": "2026-11-25T20:45:59+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 4.75
-    }
-  ],
-  "afternoon": [
     {
       "cat": "Politics & Government",
       "title": "Feminists march across Spain against violence ahead of general election",
@@ -318,7 +10,7 @@
       "source": "Euronews",
       "url": "https://www.euronews.com/2026/11/26/feminists-march-across-spain-against-violence-ahead-of-general-election",
       "date": "2026-11-26T11:29:58+00:00",
-      "age": 4.409295978055556,
+      "age": 18.296936294166667,
       "sources": [
         {
           "name": "Euronews",
@@ -329,31 +21,262 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 9.88
+      "score": 9.49
     },
     {
-      "cat": "Crime, War & Justice",
-      "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
-      "summary": "Sheikh Tamim bin Hamad Al Thani is in Cairo for an official visit aimed at further strengthening bilateral relations.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
-      "date": "2026-11-26T15:45:59+00:00",
-      "age": 0.1423515336111111,
+      "cat": "Major World Events",
+      "title": "Rising interest rates fail to dampen Black Friday sales frenzy",
+      "summary": "Bargain hunters made the most of the Black Friday sales with cost conscious consumers snapping up deals.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-27/black-friday-sales/107433526",
+      "date": "2026-11-27T00:57:27+00:00",
+      "age": 4.838880738611111,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
-          "url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
-          "date": "2026-11-26T15:45:59+00:00"
+          "name": "ABC News Australia",
+          "title": "Rising interest rates fail to dampen Black Friday sales frenzy",
+          "url": "https://www.abc.net.au/news/2026-11-27/black-friday-sales/107433526",
+          "date": "2026-11-27T00:57:27+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 7.0
+      "score": 7.87
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "New Zealand election ends in hung parliament",
+      "summary": "A final vote count showed that neither the center-right bloc nor the opposition left bloc was able to secure a majority.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-27T03:13:00+00:00",
+      "age": 2.5797140719444447,
+      "sources": [
+        {
+          "name": "Deutsche Welle",
+          "title": "New Zealand election ends in hung parliament",
+          "url": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-27T03:13:00+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.93
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "How Democrats' election successes could lead to new climate change policies",
+      "summary": "Even though it did not play a major role on the campaign trail, with Democrats' commanding wins nationwide as well as at the state level, some environmental groups are convinced that more substantive action is just around the corner.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/how-democrats-election-successes-could-lead-to-new-climate-change-policies",
+      "date": "2026-11-26T23:40:45+00:00",
+      "age": 6.117214071944444,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "title": "How Democrats' election successes could lead to new climate change policies",
+          "url": "https://www.pbs.org/newshour/show/how-democrats-election-successes-could-lead-to-new-climate-change-policies",
+          "date": "2026-11-26T23:40:45+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.83,
+      "expanded": "Democrats won commanding victories nationwide and in many states, prompting some environmental groups to anticipate substantive climate action. Caroline Spears, executive director of the Climate Cabinet, discussed these expectations on PBS NewsHour.",
+      "why": "The electoral gains could enable new climate policies, influencing environmental strategy and policy direction.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
+      "summary": "Canada’s top court weighs Bill 21, the Quebec law that shapes where Muslim women can work and where they feel welcome.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
+      "date": "2026-11-26T22:51:55+00:00",
+      "age": 6.931102960833333,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
+          "url": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
+          "date": "2026-11-26T22:51:55+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.81,
+      "expanded": "Canada’s Supreme Court is reviewing Bill 21, a Quebec law that restricts religious symbols, affecting Muslim women’s employment and sense of welcome in the province.",
+      "why": "The ruling could alter how religious expression is regulated in public institutions across Canada.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Le Pen slams push for EU budget deal before French election",
+      "summary": "EU leaders locked horns over the bloc's budget at a summit meeting in Brussels on Thursday, as far-right leader Marine Le Pen slammed an \"underhanded\" push to lock in the long-term spending plans before French presidential elections next year.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/le-pen-slams-push-for-eu-budget-deal-before-french-election",
+      "date": "2026-11-26T20:02:47+00:00",
+      "age": 9.749991849722221,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "Le Pen slams push for EU budget deal before French election",
+          "url": "https://www.france24.com/en/le-pen-slams-push-for-eu-budget-deal-before-french-election",
+          "date": "2026-11-26T20:02:47+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.73
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+      "summary": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June Analysis: How much of the fall in UK immigration is due to Labour’s policies?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+      "date": "2026-11-26T20:01:47+00:00",
+      "age": 9.766658516388889,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+          "date": "2026-11-26T20:01:47+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.73,
+      "expanded": "Net migration to the United Kingdom fell to 77,000 in the year to June 2026, the lowest difference between arrivals and departures since 1997, excluding the pandemic years. The figures come from the Office for National Statistics and the Home Office.",
+      "why": "It signals a significant decline in the UK’s net migration flow, potentially reflecting changes in immigration policy or economic conditions.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Health & Wellness",
+      "title": "Chief medical officer Gregor Smith resigns on mental health grounds",
+      "summary": "The 55-year-old, who has served in the position since December 2020, has faced questions over his role in the handling of avoidable deaths at NHS Grampian in recent weeks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cme8732p1928o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-26T18:44:26+00:00",
+      "age": 11.055825183055555,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "Chief medical officer Gregor Smith resigns on mental health grounds",
+          "url": "https://www.bbc.co.uk/news/videos/cme8732p1928o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-26T18:44:26+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.69,
+      "expanded": "The 55‑year‑old chief medical officer, who began the post in December 2020, stepped down citing mental‑health reasons after scrutiny over his involvement in avoidable deaths at NHS Grampian.",
+      "why": "It signals a leadership change amid ongoing criticism of NHS Grampian’s patient safety record.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Argentina enters technical recession as weak consumption undermines Milei's economic gains",
+      "summary": "Argentina's economy shrank 1.8% in the third quarter, its second straight contraction. Weak consumption, falling purchasing power and strain in key sectors are slowing growth and clouding Javier Milei's prospects.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/26/argentina-enters-technical-recession-as-weak-consumption-undermines-mileis-economic-gains",
+      "date": "2026-11-26T17:23:52+00:00",
+      "age": 12.398602960833333,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "Argentina enters technical recession as weak consumption undermines Milei's economic gains",
+          "url": "https://www.euronews.com/2026/11/26/argentina-enters-technical-recession-as-weak-consumption-undermines-mileis-economic-gains",
+          "date": "2026-11-26T17:23:52+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.66
+    },
+    {
+      "cat": "Major World Events",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-26T15:23:17+00:00",
+      "age": 14.408325183055554,
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "New UK-EU treaty has 10-year termination clause",
+          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-26T15:23:17+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.6
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+      "summary": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
+      "date": "2026-11-26T21:08:44+00:00",
+      "age": 8.650825183055556,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+          "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
+          "date": "2026-11-26T21:08:44+00:00"
+        },
+        {
+          "name": "The Guardian",
+          "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+          "date": "2026-11-26T00:39:10+00:00"
+        }
+      ],
+      "source_count": 2,
+      "malta_relevant": false,
+      "score": 5.26,
+      "expanded": "A fuel tanker crashed on a Cairo ring road, igniting a large fire that killed 31 people and injured at least 21. The 21‑year‑old driver was detained and ordered to undergo drug tests.",
+      "why": "The incident caused significant loss of life and widespread vehicle damage on a major highway.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+      "summary": "ost of war Mariam Dagga, the Palestinian war correspondent who was killed at the age of 33 in Gaza in an Israeli strike, has posthumously won the prestigious Rory Peck prize for freelance video journalists, the organisers announced on Wednesday.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+      "date": "2026-11-25T23:06:06+00:00",
+      "age": 30.694714071944443,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+          "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+          "date": "2026-11-25T23:06:06+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 5.15,
+      "expanded": "Mariam Dagga, a 33‑year‑old Palestinian war correspondent killed by an Israeli strike in Gaza, posthumously received the Rory Peck prize for freelance video journalists. She shares the award with AP colleagues Abdel Kareem Hana and Jehad Alshrafi for powerful coverage of the war’s human cost.",
+      "why": "The award highlights the risks journalists face in conflict zones and honors Dagga’s contribution to documenting the war’s impact.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
   ],
+  "afternoon": [],
   "feed_warnings": [
+    "ScienceDaily: ParseError: junk after document element: line 440, column 46",
     "Hyperallergic: HTTPError: HTTP Error 404: Not Found"
-  ],
-  "afternoon_checked_at": "2026-11-26T16:54:31.465507+01:00"
+  ]
 }
