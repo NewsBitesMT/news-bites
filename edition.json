@@ -274,9 +274,87 @@
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     }
   ],
-  "afternoon": [],
+  "afternoon": [
+    {
+      "cat": "Politics & Government",
+      "title": "Spain general election 2026: Could Sánchez lose power?",
+      "summary": "Spanish voters head to the polls in just three days for a snap election, after eight years of Socialist-led rule.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261127-spain-general-election-2026-could-s%C3%A1nchez-lose-power",
+      "date": "2026-11-27T10:46:41+00:00",
+      "age": 5.083909263333334,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "Spain general election 2026: Could Sánchez lose power?",
+          "url": "https://www.france24.com/en/video/20261127-spain-general-election-2026-could-s%C3%A1nchez-lose-power",
+          "date": "2026-11-27T10:46:41+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 9.86
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Spain election: Housing crisis and immigration dominate final campaign debate",
+      "summary": "Spain goes to the polls on Sunday in an early parliamentary election that may usher in a right-wing coalition to replace the Socialist-led minority government of Prime Minister Pedro Sanchez, one of Europe's last leftist leaders.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261127-spain-election-housing-crisis-and-immigration-dominate-final-campaign-debate",
+      "date": "2026-11-27T11:51:07+00:00",
+      "age": 4.010020374444444,
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "Spain election: Housing crisis and immigration dominate final campaign debate",
+          "url": "https://www.france24.com/en/video/20261127-spain-election-housing-crisis-and-immigration-dominate-final-campaign-debate",
+          "date": "2026-11-27T11:51:07+00:00"
+        },
+        {
+          "name": "Al Jazeera English",
+          "title": "What Spain’s election means for Morocco",
+          "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
+          "date": "2026-11-27T11:33:17+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-27T06:03:39+00:00"
+        }
+      ],
+      "source_count": 3,
+      "malta_relevant": false,
+      "score": 7.89,
+      "expanded": "Spain’s final campaign debate focused on the housing crisis and immigration, with leaders arguing over the difficulty many face in buying homes. The early parliamentary election could bring a right‑wing coalition to replace Prime Minister Pedro Sánchez’s minority Socialist government.",
+      "why": "The election outcome may alter Spain’s domestic policy and its diplomatic ties with Morocco, though shared interests are expected to persist.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Major World Events",
+      "title": "What the ECB’s new leadership could mean for interest rates",
+      "summary": "Pablo Hernández de Cos is set to succeed Christine Lagarde with eurozone inflation at twice the ECB’s target. Analysts expect broad policy continuity, but say he could take a more direct role in shaping interest-rate decisions.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/27/what-the-ecbs-new-leadership-could-mean-for-interest-rates",
+      "date": "2026-11-27T09:18:41+00:00",
+      "age": 6.550575930000001,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "What the ECB’s new leadership could mean for interest rates",
+          "url": "https://www.euronews.com/2026/11/27/what-the-ecbs-new-leadership-could-mean-for-interest-rates",
+          "date": "2026-11-27T09:18:41+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 7.82
+    }
+  ],
   "feed_warnings": [
     "ScienceDaily: ParseError: junk after document element: line 440, column 46",
     "Hyperallergic: HTTPError: HTTP Error 404: Not Found"
-  ]
+  ],
+  "afternoon_checked_at": "2026-11-27T16:51:43.073336+01:00"
 }
