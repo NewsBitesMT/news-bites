@@ -1,157 +1,143 @@
 {
-  "edition_date": "2026-11-27",
-  "generated_at": "2026-11-27T06:47:46.970649+01:00",
+  "edition_date": "2026-11-28",
+  "generated_at": "2026-11-28T06:44:29.826315+01:00",
   "mode": "Source-linked RSS preview; optional AI context, not fact-checked",
   "stories": [
     {
-      "cat": "Politics & Government",
-      "title": "Feminists march across Spain against violence ahead of general election",
-      "summary": "Demonstrations for the International Day for the Elimination of Violence against Women come just days before elections in which the far right could approach 20% of the vote.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/26/feminists-march-across-spain-against-violence-ahead-of-general-election",
-      "date": "2026-11-26T11:29:58+00:00",
-      "age": 18.296936294166667,
-      "sources": [
-        {
-          "name": "Euronews",
-          "title": "Feminists march across Spain against violence ahead of general election",
-          "url": "https://www.euronews.com/2026/11/26/feminists-march-across-spain-against-violence-ahead-of-general-election",
-          "date": "2026-11-26T11:29:58+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 9.49
-    },
-    {
-      "cat": "Major World Events",
-      "title": "Rising interest rates fail to dampen Black Friday sales frenzy",
-      "summary": "Bargain hunters made the most of the Black Friday sales with cost conscious consumers snapping up deals.",
-      "source": "ABC News Australia",
-      "url": "https://www.abc.net.au/news/2026-11-27/black-friday-sales/107433526",
-      "date": "2026-11-27T00:57:27+00:00",
-      "age": 4.838880738611111,
-      "sources": [
-        {
-          "name": "ABC News Australia",
-          "title": "Rising interest rates fail to dampen Black Friday sales frenzy",
-          "url": "https://www.abc.net.au/news/2026-11-27/black-friday-sales/107433526",
-          "date": "2026-11-27T00:57:27+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 7.87
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "New Zealand election ends in hung parliament",
-      "summary": "A final vote count showed that neither the center-right bloc nor the opposition left bloc was able to secure a majority.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-xml-mrss",
-      "date": "2026-11-27T03:13:00+00:00",
-      "age": 2.5797140719444447,
-      "sources": [
-        {
-          "name": "Deutsche Welle",
-          "title": "New Zealand election ends in hung parliament",
-          "url": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-xml-mrss",
-          "date": "2026-11-27T03:13:00+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 6.93
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "How Democrats' election successes could lead to new climate change policies",
-      "summary": "Even though it did not play a major role on the campaign trail, with Democrats' commanding wins nationwide as well as at the state level, some environmental groups are convinced that more substantive action is just around the corner.",
+      "cat": "Crime, War & Justice",
+      "title": "Canada's Supreme Court largely upholds a Quebec ban on religious symbols for public servants",
+      "summary": "The 2019 law, known as Bill 21, bans religious symbols — including Muslim headscarves, Sikh turbans, Jewish skullcaps and Christian crosses — for workers covered by it.",
       "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/show/how-democrats-election-successes-could-lead-to-new-climate-change-policies",
-      "date": "2026-11-26T23:40:45+00:00",
-      "age": 6.117214071944444,
+      "url": "https://www.pbs.org/newshour/world/canadas-supreme-court-largely-upholds-a-quebec-ban-on-religious-symbols-for-public-servants",
+      "date": "2026-11-27T20:48:47+00:00",
+      "age": 8.92856286888889,
       "sources": [
         {
           "name": "PBS NewsHour",
-          "title": "How Democrats' election successes could lead to new climate change policies",
-          "url": "https://www.pbs.org/newshour/show/how-democrats-election-successes-could-lead-to-new-climate-change-policies",
-          "date": "2026-11-26T23:40:45+00:00"
+          "title": "Canada's Supreme Court largely upholds a Quebec ban on religious symbols for public servants",
+          "url": "https://www.pbs.org/newshour/world/canadas-supreme-court-largely-upholds-a-quebec-ban-on-religious-symbols-for-public-servants",
+          "date": "2026-11-27T20:48:47+00:00"
+        },
+        {
+          "name": "Deutsche Welle",
+          "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+          "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-27T20:43:00+00:00"
+        },
+        {
+          "name": "BBC News",
+          "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-27T16:53:46+00:00"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "malta_relevant": false,
-      "score": 6.83,
-      "expanded": "Democrats won commanding victories nationwide and in many states, prompting some environmental groups to anticipate substantive climate action. Caroline Spears, executive director of the Climate Cabinet, discussed these expectations on PBS NewsHour.",
-      "why": "The electoral gains could enable new climate policies, influencing environmental strategy and policy direction.",
+      "score": 9.75,
+      "expanded": "Canada’s Supreme Court largely upheld Quebec’s 2019 Bill 21, which prohibits public servants from wearing religious symbols such as Muslim headscarves, Sikh turbans, Jewish skullcaps and Christian crosses. The decision was reached after legal challenges from teachers and other groups.",
+      "why": "The ruling reinforces Quebec’s secularism policy, affecting the religious expression rights of public employees.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Crime, War & Justice",
-      "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
-      "summary": "Canada’s top court weighs Bill 21, the Quebec law that shapes where Muslim women can work and where they feel welcome.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
-      "date": "2026-11-26T22:51:55+00:00",
-      "age": 6.931102960833333,
+      "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+      "summary": "⁠Ukraine ​made a Black Sea ceasefire offer ​to enable food exports and passed the details on to international allies, a senior Ukrainian official said Friday, adding that Kyiv was waiting for a response from Moscow.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
+      "date": "2026-11-27T21:09:12+00:00",
+      "age": 8.58828509111111,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
-          "url": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
-          "date": "2026-11-26T22:51:55+00:00"
+          "name": "France 24",
+          "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+          "url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
+          "date": "2026-11-27T21:09:12+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.81,
-      "expanded": "Canada’s Supreme Court is reviewing Bill 21, a Quebec law that restricts religious symbols, affecting Muslim women’s employment and sense of welcome in the province.",
-      "why": "The ruling could alter how religious expression is regulated in public institutions across Canada.",
+      "score": 6.76,
+      "expanded": "Ukraine has presented a ceasefire proposal for the Black Sea aimed at allowing food exports, and has forwarded the offer to international partners. Kyiv is now awaiting a reply from Moscow. The announcement followed a Russian attack on two foreign grain carriers near Odesa, as reported by Ukrainian authorities.",
+      "why": "The ceasefire could open the Black Sea for humanitarian food shipments, potentially easing regional food security amid ongoing conflict.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Crime, War & Justice",
+      "title": "Religious health-care facilities can continue to ban MAID on site, B.C. Supreme Court rules",
+      "summary": "The B.C. Supreme Court has upheld the exemption that allows religious health-care facilities to prohibit medical assistance in dying.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/court-dismisses-challenge-to-maid-ban-in-religious-health-care-facilities-9.7438902?cmp=rss",
+      "date": "2026-11-27T18:57:56+00:00",
+      "age": 10.77606286888889,
+      "sources": [
+        {
+          "name": "CBC News",
+          "title": "Religious health-care facilities can continue to ban MAID on site, B.C. Supreme Court rules",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/court-dismisses-challenge-to-maid-ban-in-religious-health-care-facilities-9.7438902?cmp=rss",
+          "date": "2026-11-27T18:57:56+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 6.7,
+      "expanded": "The B.C. Supreme Court upheld the exemption that lets religious health‑care facilities refuse to provide medical assistance in dying (MAID) on their premises. The ruling allows hospitals such as Vancouver’s St. Paul’s to require patients seeking MAID to move to a different facility.",
+      "why": "It preserves the right of faith‑based institutions to refuse MAID, affecting patients’ access to end‑of‑life care within those facilities.",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
       "cat": "Politics & Government",
-      "title": "Le Pen slams push for EU budget deal before French election",
-      "summary": "EU leaders locked horns over the bloc's budget at a summit meeting in Brussels on Thursday, as far-right leader Marine Le Pen slammed an \"underhanded\" push to lock in the long-term spending plans before French presidential elections next year.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/le-pen-slams-push-for-eu-budget-deal-before-french-election",
-      "date": "2026-11-26T20:02:47+00:00",
-      "age": 9.749991849722221,
+      "title": "Spain's Sanchez makes final appeal to voters before election",
+      "summary": "Spanish Prime Minister Pedro Sanchez told people to turn out in large numbers so the country does not go \"backwards.\" Polls suggest an end to his eight-year leftist leadership of Spain.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-xml-mrss",
+      "date": "2026-11-28T00:51:00+00:00",
+      "age": 4.891618424444444,
       "sources": [
         {
-          "name": "France 24",
-          "title": "Le Pen slams push for EU budget deal before French election",
-          "url": "https://www.france24.com/en/le-pen-slams-push-for-eu-budget-deal-before-french-election",
-          "date": "2026-11-26T20:02:47+00:00"
+          "name": "Deutsche Welle",
+          "title": "Spain's Sanchez makes final appeal to voters before election",
+          "url": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-xml-mrss",
+          "date": "2026-11-28T00:51:00+00:00"
+        },
+        {
+          "name": "Euronews",
+          "title": "Spain election 2026: What are voters worried about?",
+          "url": "https://www.euronews.com/video/2026/11/27/spain-election-2026-what-are-voters-worried-about",
+          "date": "2026-11-27T16:03:48+00:00"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "malta_relevant": false,
-      "score": 6.73
+      "score": 6.36,
+      "expanded": "Spanish Prime Minister Pedro Sanchez urged voters to turn out in large numbers to prevent Spain from going \"backwards\" as polls indicate his eight‑year left‑wing government may end. Voters face choices between keeping the left in power or supporting Vox, with housing, living costs and immigration key concerns.",
+      "why": "The election could end Sanchez’s eight‑year rule, reshaping Spain’s political direction and policy priorities.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
     {
-      "cat": "Major World Events",
-      "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
-      "summary": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June Analysis: How much of the fall in UK immigration is due to Labour’s policies?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
-      "date": "2026-11-26T20:01:47+00:00",
-      "age": 9.766658516388889,
+      "cat": "Science & Technology",
+      "title": "Fiber-optic sensing unearths surprising complexity in small California earthquake",
+      "summary": "More than 20,000 earthquakes are located worldwide each year, but the vast majority of those are small—many too small to be felt by humans.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-fiber-optic-unearths-complexity-small.html",
+      "date": "2026-11-27T22:40:01+00:00",
+      "age": 7.07467398,
       "sources": [
         {
-          "name": "The Guardian",
-          "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
-          "date": "2026-11-26T20:01:47+00:00"
+          "name": "Phys.org",
+          "title": "Fiber-optic sensing unearths surprising complexity in small California earthquake",
+          "url": "https://phys.org/news/2026-11-fiber-optic-unearths-complexity-small.html",
+          "date": "2026-11-27T22:40:01+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 6.73,
-      "expanded": "Net migration to the United Kingdom fell to 77,000 in the year to June 2026, the lowest difference between arrivals and departures since 1997, excluding the pandemic years. The figures come from the Office for National Statistics and the Home Office.",
-      "why": "It signals a significant decline in the UK’s net migration flow, potentially reflecting changes in immigration policy or economic conditions.",
+      "score": 5.8,
+      "expanded": "Fiber‑optic sensing has revealed that a small California earthquake exhibited more complex rupture behavior than previously assumed. Researchers had thought most small quakes produce simple, circular ruptures where fault rocks slip in a single, smooth motion, spreading outward like a ripple. This new observation challenges that view.",
+      "why": "",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
     },
@@ -162,7 +148,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cme8732p1928o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-26T18:44:26+00:00",
-      "age": 11.055825183055555,
+      "age": 35.00106286888889,
       "sources": [
         {
           "name": "BBC News",
@@ -173,40 +159,16 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.69,
-      "expanded": "The 55‑year‑old chief medical officer, who began the post in December 2020, stepped down citing mental‑health reasons after scrutiny over his involvement in avoidable deaths at NHS Grampian.",
-      "why": "It signals a leadership change amid ongoing criticism of NHS Grampian’s patient safety record.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+      "score": 5.03
     },
     {
-      "cat": "Major World Events",
-      "title": "Argentina enters technical recession as weak consumption undermines Milei's economic gains",
-      "summary": "Argentina's economy shrank 1.8% in the third quarter, its second straight contraction. Weak consumption, falling purchasing power and strain in key sectors are slowing growth and clouding Javier Milei's prospects.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/26/argentina-enters-technical-recession-as-weak-consumption-undermines-mileis-economic-gains",
-      "date": "2026-11-26T17:23:52+00:00",
-      "age": 12.398602960833333,
-      "sources": [
-        {
-          "name": "Euronews",
-          "title": "Argentina enters technical recession as weak consumption undermines Milei's economic gains",
-          "url": "https://www.euronews.com/2026/11/26/argentina-enters-technical-recession-as-weak-consumption-undermines-mileis-economic-gains",
-          "date": "2026-11-26T17:23:52+00:00"
-        }
-      ],
-      "source_count": 1,
-      "malta_relevant": false,
-      "score": 5.66
-    },
-    {
-      "cat": "Major World Events",
+      "cat": "Business & Marketing",
       "title": "New UK-EU treaty has 10-year termination clause",
       "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-26T15:23:17+00:00",
-      "age": 14.408325183055554,
+      "age": 38.353562868888886,
       "sources": [
         {
           "name": "BBC News",
@@ -217,144 +179,120 @@
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.6
+      "score": 5.0
     },
     {
-      "cat": "Crime, War & Justice",
-      "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
-      "summary": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
-      "date": "2026-11-26T21:08:44+00:00",
-      "age": 8.650825183055556,
+      "cat": "Politics & Government",
+      "title": "What to expect from Victoria's election count tonight",
+      "summary": "For months, the politics and polls of this Victorian state election have been signalling that the result may be one of the most complex in Australian political history.",
+      "source": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-11-28/victorian-election-results-what-you-need-to-know/107435176",
+      "date": "2026-11-28T04:45:41+00:00",
+      "age": 0.9802295355555556,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
-          "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
-          "date": "2026-11-26T21:08:44+00:00"
-        },
-        {
-          "name": "The Guardian",
-          "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
-          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
-          "date": "2026-11-26T00:39:10+00:00"
-        }
-      ],
-      "source_count": 2,
-      "malta_relevant": false,
-      "score": 5.26,
-      "expanded": "A fuel tanker crashed on a Cairo ring road, igniting a large fire that killed 31 people and injured at least 21. The 21‑year‑old driver was detained and ordered to undergo drug tests.",
-      "why": "The incident caused significant loss of life and widespread vehicle damage on a major highway.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    },
-    {
-      "cat": "Crime, War & Justice",
-      "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
-      "summary": "ost of war Mariam Dagga, the Palestinian war correspondent who was killed at the age of 33 in Gaza in an Israeli strike, has posthumously won the prestigious Rory Peck prize for freelance video journalists, the organisers announced on Wednesday.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
-      "date": "2026-11-25T23:06:06+00:00",
-      "age": 30.694714071944443,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
-          "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
-          "date": "2026-11-25T23:06:06+00:00"
+          "name": "ABC News Australia",
+          "title": "What to expect from Victoria's election count tonight",
+          "url": "https://www.abc.net.au/news/2026-11-28/victorian-election-results-what-you-need-to-know/107435176",
+          "date": "2026-11-28T04:45:41+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 5.15,
-      "expanded": "Mariam Dagga, a 33‑year‑old Palestinian war correspondent killed by an Israeli strike in Gaza, posthumously received the Rory Peck prize for freelance video journalists. She shares the award with AP colleagues Abdel Kareem Hana and Jehad Alshrafi for powerful coverage of the war’s human cost.",
-      "why": "The award highlights the risks journalists face in conflict zones and honors Dagga’s contribution to documenting the war’s impact.",
+      "score": 4.97,
+      "expanded": "The upcoming count for Victoria’s state election is anticipated to be highly complex, according to ABC News Australia, reflecting months of political and polling signals.",
+      "why": "",
       "story_so_far": "",
       "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
-    }
-  ],
-  "afternoon": [
+    },
     {
       "cat": "Politics & Government",
-      "title": "Spain general election 2026: Could Sánchez lose power?",
-      "summary": "Spanish voters head to the polls in just three days for a snap election, after eight years of Socialist-led rule.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261127-spain-general-election-2026-could-s%C3%A1nchez-lose-power",
-      "date": "2026-11-27T10:46:41+00:00",
-      "age": 5.083909263333334,
+      "title": "9 things you need to read ahead of the Spanish election",
+      "summary": "From understanding the key players to watching Sunday’s results like a pro, here’s everything you need to know.",
+      "source": "Politico Europe",
+      "url": "https://www.politico.eu/article/nine-things-you-need-to-read-spanish-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "date": "2026-11-28T03:00:00+00:00",
+      "age": 2.7416184244444444,
       "sources": [
         {
-          "name": "France 24",
-          "title": "Spain general election 2026: Could Sánchez lose power?",
-          "url": "https://www.france24.com/en/video/20261127-spain-general-election-2026-could-s%C3%A1nchez-lose-power",
-          "date": "2026-11-27T10:46:41+00:00"
+          "name": "Politico Europe",
+          "title": "9 things you need to read ahead of the Spanish election",
+          "url": "https://www.politico.eu/article/nine-things-you-need-to-read-spanish-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "date": "2026-11-28T03:00:00+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 9.86
-    },
-    {
-      "cat": "Politics & Government",
-      "title": "Spain election: Housing crisis and immigration dominate final campaign debate",
-      "summary": "Spain goes to the polls on Sunday in an early parliamentary election that may usher in a right-wing coalition to replace the Socialist-led minority government of Prime Minister Pedro Sanchez, one of Europe's last leftist leaders.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261127-spain-election-housing-crisis-and-immigration-dominate-final-campaign-debate",
-      "date": "2026-11-27T11:51:07+00:00",
-      "age": 4.010020374444444,
-      "sources": [
-        {
-          "name": "France 24",
-          "title": "Spain election: Housing crisis and immigration dominate final campaign debate",
-          "url": "https://www.france24.com/en/video/20261127-spain-election-housing-crisis-and-immigration-dominate-final-campaign-debate",
-          "date": "2026-11-27T11:51:07+00:00"
-        },
-        {
-          "name": "Al Jazeera English",
-          "title": "What Spain’s election means for Morocco",
-          "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
-          "date": "2026-11-27T11:33:17+00:00"
-        },
-        {
-          "name": "BBC News",
-          "title": "Leaders clash in final Spain election debate as housing dominates run-in",
-          "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-27T06:03:39+00:00"
-        }
-      ],
-      "source_count": 3,
-      "malta_relevant": false,
-      "score": 7.89,
-      "expanded": "Spain’s final campaign debate focused on the housing crisis and immigration, with leaders arguing over the difficulty many face in buying homes. The early parliamentary election could bring a right‑wing coalition to replace Prime Minister Pedro Sánchez’s minority Socialist government.",
-      "why": "The election outcome may alter Spain’s domestic policy and its diplomatic ties with Morocco, though shared interests are expected to persist.",
-      "story_so_far": "",
-      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+      "score": 4.92
     },
     {
       "cat": "Major World Events",
-      "title": "What the ECB’s new leadership could mean for interest rates",
-      "summary": "Pablo Hernández de Cos is set to succeed Christine Lagarde with eurozone inflation at twice the ECB’s target. Analysts expect broad policy continuity, but say he could take a more direct role in shaping interest-rate decisions.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/27/what-the-ecbs-new-leadership-could-mean-for-interest-rates",
-      "date": "2026-11-27T09:18:41+00:00",
-      "age": 6.550575930000001,
+      "title": "Taiwan votes in local elections to choose mayors, other leaders",
+      "summary": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+      "date": "2026-11-28T02:05:27+00:00",
+      "age": 3.650785091111111,
       "sources": [
         {
-          "name": "Euronews",
-          "title": "What the ECB’s new leadership could mean for interest rates",
-          "url": "https://www.euronews.com/2026/11/27/what-the-ecbs-new-leadership-could-mean-for-interest-rates",
-          "date": "2026-11-27T09:18:41+00:00"
+          "name": "Al Jazeera English",
+          "title": "Taiwan votes in local elections to choose mayors, other leaders",
+          "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+          "date": "2026-11-28T02:05:27+00:00"
         }
       ],
       "source_count": 1,
       "malta_relevant": false,
-      "score": 7.82
+      "score": 4.9
+    },
+    {
+      "cat": "Major World Events",
+      "title": "Azerbaijani and Armenian civil societies seek 'new history' in new round of peace talks",
+      "summary": "Azerbaijan and Armenia's civil societies hold their fifth round of \"Peace Bridge\" talks to openly address differences and find a way forward together.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/27/azerbaijani-and-armenian-civil-societies-seek-new-history-in-new-round-of-peace-talks",
+      "date": "2026-11-27T18:36:53+00:00",
+      "age": 11.126896202222223,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "Azerbaijani and Armenian civil societies seek 'new history' in new round of peace talks",
+          "url": "https://www.euronews.com/2026/11/27/azerbaijani-and-armenian-civil-societies-seek-new-history-in-new-round-of-peace-talks",
+          "date": "2026-11-27T18:36:53+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.69,
+      "expanded": "Civil societies from Azerbaijan and Armenia are holding the fifth round of ‘Peace Bridge’ talks, aiming to openly discuss their differences and work toward a joint path forward.",
+      "why": "",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    },
+    {
+      "cat": "Politics & Government",
+      "title": "Spain election: Will Vox be the kingmaker, and will housing decide the vote?",
+      "summary": "A prime minister candidate needs 176 votes for an absolute majority in the first vote. What are the chances of a coalition with the conservative Partido Popular?",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/27/spain-general-election-is-vox-set-to-be-the-kingmaker-and-how-crucial-is-the-housing-issue",
+      "date": "2026-11-27T17:40:17+00:00",
+      "age": 12.070229535555557,
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "Spain election: Will Vox be the kingmaker, and will housing decide the vote?",
+          "url": "https://www.euronews.com/2026/11/27/spain-general-election-is-vox-set-to-be-the-kingmaker-and-how-crucial-is-the-housing-issue",
+          "date": "2026-11-27T17:40:17+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 4.66
     }
   ],
+  "afternoon": [],
   "feed_warnings": [
     "ScienceDaily: ParseError: junk after document element: line 440, column 46",
     "Hyperallergic: HTTPError: HTTP Error 404: Not Found"
-  ],
-  "afternoon_checked_at": "2026-11-27T16:51:43.073336+01:00"
+  ]
 }
