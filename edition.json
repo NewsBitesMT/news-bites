@@ -290,9 +290,35 @@
       "score": 4.66
     }
   ],
-  "afternoon": [],
+  "afternoon": [
+    {
+      "cat": "Politics & Government",
+      "title": "Victorian election 2026: Coalition wins majority government as Labor suffers historic defeat",
+      "summary": "ection coverage Get our daily political email , free app or daily news podcast Victorian Labor has suffered a historic defeat, ending 12 years of government, with the Coalition winning a majority and the Greens securing a record number of seats.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
+      "date": "2026-11-28T13:06:42+00:00",
+      "age": 2.5425225344444446,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Victorian election 2026: Coalition wins majority government as Labor suffers historic defeat",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
+          "date": "2026-11-28T13:06:42+00:00"
+        }
+      ],
+      "source_count": 1,
+      "malta_relevant": false,
+      "score": 8.93,
+      "expanded": "In the 2026 Victorian state election, the Coalition secured a majority government, ending Labor’s 12‑year rule. The Greens won a record number of seats, while One Nation captured over 20% of the primary vote but gained few lower‑house seats. Jess Wilson became Victoria’s first popularly elected female premier, and incumbent Premier Ben Carroll lost his seat.",
+      "why": "The result marks a significant political shift in Victoria, introducing a historic first female premier and altering the balance of power among major parties.",
+      "story_so_far": "",
+      "explanation_method": "AI-assisted from RSS excerpts; not independently fact-checked"
+    }
+  ],
   "feed_warnings": [
     "ScienceDaily: ParseError: junk after document element: line 440, column 46",
     "Hyperallergic: HTTPError: HTTP Error 404: Not Found"
-  ]
+  ],
+  "afternoon_checked_at": "2026-11-28T16:39:15.081112+01:00"
 }
